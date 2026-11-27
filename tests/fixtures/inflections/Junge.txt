@@ -1,0 +1,23 @@
+== Junge ({{Sprache|Deutsch}}) ==
+{{Deutsch Substantiv Übersicht
+|Genus=m
+|Nominativ Singular=Junge
+|Nominativ Plural 1=Jungen
+|Nominativ Plural 2=Jungs
+|Nominativ Plural 3=Jungens
+|Genitiv Singular=Jungen
+|Genitiv Plural 1=Jungen
+|Genitiv Plural 2=Jungs
+|Genitiv Plural 3=Jungens
+|Dativ Singular=Jungen
+|Dativ Plural 1=Jungen
+|Dativ Plural 2=Jungs
+|Dativ Plural 3=Jungens
+|Akkusativ Singular=Jungen
+|Akkusativ Plural 1=Jungen
+|Akkusativ Plural 2=Jungs
+|Akkusativ Plural 3=Jungens
+|Bild 1=Negro boy near Cincinnati, Ohio (LOC).jpg|mini|1|ein ''Junge'' aus den USA
+|Bild 2=Fotothek df roe-neg 0006339 030 Fünf Jungen Schach spielend.jpg|mini|1|deutsche ''Jungen'' beim Schachspiel
+|Bild 3=Children in Helmand Province.jpg|mini|1|afghanische ''Jungen''
+}}

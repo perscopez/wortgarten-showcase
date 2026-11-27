@@ -1,0 +1,1365 @@
+{
+  "schemaVersion": 1,
+  "reviewedAssets": [
+    {
+      "assetId": "openmoji-apple",
+      "conceptId": "apple",
+      "word": "Apfel",
+      "aliases": [
+        "Äpfel"
+      ],
+      "path": "/vocabulary-art/openmoji/apple.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F34E.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "c29423478103e297664519a8b13525bb3218f60d8961fe4ba4d3427b44f47ed6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-apple",
+      "conceptId": "apple",
+      "word": "Apfel",
+      "aliases": [
+        "Äpfel"
+      ],
+      "path": "/vocabulary-art/twemoji/apple.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f34e.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "8996756f84e7ded44f2cc3f28854514275aada18544ec687c03bc805047c4c46",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-banana",
+      "conceptId": "banana",
+      "word": "Banane",
+      "aliases": [
+        "Bananen"
+      ],
+      "path": "/vocabulary-art/openmoji/banana.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F34C.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "81400d32fe5ebc67dffdf277bd54e0618a6c9aef599c0698229426bdc4636893",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-banana",
+      "conceptId": "banana",
+      "word": "Banane",
+      "aliases": [
+        "Bananen"
+      ],
+      "path": "/vocabulary-art/twemoji/banana.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f34c.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "c991e3f776811f53a631a43a177b51adf4ee68e9ad3b10b726b300149c2b2664",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-bread",
+      "conceptId": "bread",
+      "word": "Brot",
+      "aliases": [
+        "Brote"
+      ],
+      "path": "/vocabulary-art/openmoji/bread.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F35E.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "53dd52d1113f26bf9ca1fce123e3b9c6e1e924b0ed57847d105eb31dd1b0ea83",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-bread",
+      "conceptId": "bread",
+      "word": "Brot",
+      "aliases": [
+        "Brote"
+      ],
+      "path": "/vocabulary-art/twemoji/bread.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f35e.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "6011a0fc34cdc014ae569269f6e10ef64de6bd1ad5143ee48d6ab5bf77808e6e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-cheese",
+      "conceptId": "cheese",
+      "word": "Käse",
+      "aliases": [
+        "Käse"
+      ],
+      "path": "/vocabulary-art/openmoji/cheese.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F9C0.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "971601eb96fc4530a65b3c718055e6d2afff317326026c6b45f4fc54f7662d09",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-cheese",
+      "conceptId": "cheese",
+      "word": "Käse",
+      "aliases": [
+        "Käse"
+      ],
+      "path": "/vocabulary-art/twemoji/cheese.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f9c0.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "d51766ab5562f3492485103057e7ad4a35ac2a4c299fdce27f0c92fecba88747",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-egg",
+      "conceptId": "egg",
+      "word": "Ei",
+      "aliases": [
+        "Eier"
+      ],
+      "path": "/vocabulary-art/openmoji/egg.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F95A.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "c06751292219952862de0c57d7e6e541f63a159b63e2f2104d1d6aa60d4dd2ec",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-egg",
+      "conceptId": "egg",
+      "word": "Ei",
+      "aliases": [
+        "Eier"
+      ],
+      "path": "/vocabulary-art/twemoji/egg.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f95a.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "442b98826ff301fbaed3ccc7b25578d6a959cc7abfcc844e95a20fecdd05d0bc",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-strawberry",
+      "conceptId": "strawberry",
+      "word": "Erdbeere",
+      "aliases": [
+        "Erdbeeren"
+      ],
+      "path": "/vocabulary-art/openmoji/strawberry.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F353.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "0e651ad7fee70b84a8ce6bc0556d8252f8e8fb898681816edc6a9ed1d73e99db",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-strawberry",
+      "conceptId": "strawberry",
+      "word": "Erdbeere",
+      "aliases": [
+        "Erdbeeren"
+      ],
+      "path": "/vocabulary-art/twemoji/strawberry.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f353.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "8b62f5751206763c048db98361c117abcef2734b39417c12698af8605a3cee16",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-tomato",
+      "conceptId": "tomato",
+      "word": "Tomate",
+      "aliases": [
+        "Tomaten"
+      ],
+      "path": "/vocabulary-art/openmoji/tomato.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F345.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "3a8478c7659c24e0a6a265adea714dd464abbdc8df954db09b358f5569416d06",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-tomato",
+      "conceptId": "tomato",
+      "word": "Tomate",
+      "aliases": [
+        "Tomaten"
+      ],
+      "path": "/vocabulary-art/twemoji/tomato.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f345.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "0b04015e684d31050d438f6a2ca2e2abb750457748c3bf3de8ad8cd235b2de1b",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-carrot",
+      "conceptId": "carrot",
+      "word": "Karotte",
+      "aliases": [
+        "Karotten"
+      ],
+      "path": "/vocabulary-art/openmoji/carrot.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F955.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "b746c4ec8414801764f3a88354f8ddba9c0bc7a2b95dd56f8b194defff4dfeef",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-carrot",
+      "conceptId": "carrot",
+      "word": "Karotte",
+      "aliases": [
+        "Karotten"
+      ],
+      "path": "/vocabulary-art/twemoji/carrot.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f955.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "d906b9bbe287ecfbbc4ca77279fabb02d22176bcedfda69a5c7bcdb7d3783be1",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-dog",
+      "conceptId": "dog",
+      "word": "Hund",
+      "aliases": [
+        "Hunde"
+      ],
+      "path": "/vocabulary-art/openmoji/dog.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F436.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "9e7fc10a72057099ff2a0a25d268d3aa9e75acb52a5a0378d32bb98b12148a90",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-dog",
+      "conceptId": "dog",
+      "word": "Hund",
+      "aliases": [
+        "Hunde"
+      ],
+      "path": "/vocabulary-art/twemoji/dog.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f436.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "ac8393e853a619d8cd2b502abb1cee1f79af97fd511b24f0a7cf99d102b2d02f",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-cat",
+      "conceptId": "cat",
+      "word": "Katze",
+      "aliases": [
+        "Katzen"
+      ],
+      "path": "/vocabulary-art/openmoji/cat.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F431.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "14c25daa36e2ed6844e41739a6dd53429f704fce7cb19ebf3a24e53007010862",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-cat",
+      "conceptId": "cat",
+      "word": "Katze",
+      "aliases": [
+        "Katzen"
+      ],
+      "path": "/vocabulary-art/twemoji/cat.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f431.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "536beb584cb8e894615262dc5342dc13f18f7fe21f4657a936dc559b99031b4a",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-horse",
+      "conceptId": "horse",
+      "word": "Pferd",
+      "aliases": [
+        "Pferde"
+      ],
+      "path": "/vocabulary-art/openmoji/horse.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F40E.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "563c4fdfc1f40f1343280ccd5d604b4f83eb6bec4b778a054440daadc7401e8e",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-horse",
+      "conceptId": "horse",
+      "word": "Pferd",
+      "aliases": [
+        "Pferde"
+      ],
+      "path": "/vocabulary-art/twemoji/horse.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f40e.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "004a9d2a64ed346bc84bf355f3a7601aabdacf7ff79a3cac80b88b65269963c3",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-cow",
+      "conceptId": "cow",
+      "word": "Kuh",
+      "aliases": [
+        "Kühe"
+      ],
+      "path": "/vocabulary-art/openmoji/cow.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F404.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "2a4c933532754ddf7e9a01d94d68486401fab51a7d0898015610bd372c269398",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-cow",
+      "conceptId": "cow",
+      "word": "Kuh",
+      "aliases": [
+        "Kühe"
+      ],
+      "path": "/vocabulary-art/twemoji/cow.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f404.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "1aa123836a30d4cc958fa0ef45359701925cf794a6985e106a375ddf80b2d30e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-sheep",
+      "conceptId": "sheep",
+      "word": "Schaf",
+      "aliases": [
+        "Schafe"
+      ],
+      "path": "/vocabulary-art/openmoji/sheep.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F411.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "b58d84f57ecabd0c08d6c39849bb2de4c5353762cdfa1e583d2f810fafa1f891",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-sheep",
+      "conceptId": "sheep",
+      "word": "Schaf",
+      "aliases": [
+        "Schafe"
+      ],
+      "path": "/vocabulary-art/twemoji/sheep.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f411.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "f3ba8c846a4221b496bb561278515a15aa7f25c606f832da1f4f877e22da0eb2",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-pig",
+      "conceptId": "pig",
+      "word": "Schwein",
+      "aliases": [
+        "Schweine"
+      ],
+      "path": "/vocabulary-art/openmoji/pig.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F437.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "b7d1ae25f7935d5c6e61c063fc32c4c70d61f51cae5dcb0d7b237f5bd677bbb5",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-pig",
+      "conceptId": "pig",
+      "word": "Schwein",
+      "aliases": [
+        "Schweine"
+      ],
+      "path": "/vocabulary-art/twemoji/pig.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f437.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "10011994ef0141b1c3786bae1edb1da779c9611a5f272db60d04802142b15670",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-rabbit",
+      "conceptId": "rabbit",
+      "word": "Kaninchen",
+      "aliases": [
+        "Kaninchen"
+      ],
+      "path": "/vocabulary-art/openmoji/rabbit.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F430.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "f032924fefbf84b7f35a0c2d1adf107e0d30e541f7cec4251e9c2fe8ecdfc6fb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-rabbit",
+      "conceptId": "rabbit",
+      "word": "Kaninchen",
+      "aliases": [
+        "Kaninchen"
+      ],
+      "path": "/vocabulary-art/twemoji/rabbit.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f430.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "4d45aea6b95575c5036a370fe38bc00280016f8217826c71315b73b593742eec",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-bird",
+      "conceptId": "bird",
+      "word": "Vogel",
+      "aliases": [
+        "Vogel",
+        "Vögel"
+      ],
+      "path": "/vocabulary-art/openmoji/bird.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F426.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "f889d983b03237f635c79797ab645aa9f42b87df0e91fd545e75b9b3daf531c4",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-bird",
+      "conceptId": "bird",
+      "word": "Vogel",
+      "aliases": [
+        "Vogel",
+        "Vögel"
+      ],
+      "path": "/vocabulary-art/twemoji/bird.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f426.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "e0a526ff1590cd0d197f5b38e8f887514ced114a21efe0e9a6b7ec9cc35c146f",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-duck",
+      "conceptId": "duck",
+      "word": "Ente",
+      "aliases": [
+        "Enten"
+      ],
+      "path": "/vocabulary-art/openmoji/duck.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F986.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "c5c4887291eca6e526a08564989cec0ad2a04950ae8a333b16b9efc42cd2efc4",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-duck",
+      "conceptId": "duck",
+      "word": "Ente",
+      "aliases": [
+        "Enten"
+      ],
+      "path": "/vocabulary-art/twemoji/duck.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f986.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "d8d2108c8a27d67a71840235d663d467041ebd906912d9be14933ebb73b81beb",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-fish-animal",
+      "conceptId": "fish-animal",
+      "word": "Fisch",
+      "aliases": [
+        "Fisch",
+        "Fische"
+      ],
+      "path": "/vocabulary-art/openmoji/fish-animal.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F41F.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "8f6f47afb96fd7c74375ef2f9204c3a37205e60943f0c68d163de5fbbe86a84d",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0.",
+      "senseIds": [
+        "animal",
+        "tier",
+        "fish-animal"
+      ]
+    },
+    {
+      "assetId": "twemoji-fish-animal",
+      "conceptId": "fish-animal",
+      "word": "Fisch",
+      "aliases": [
+        "Fisch",
+        "Fische"
+      ],
+      "path": "/vocabulary-art/twemoji/fish-animal.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f41f.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "ae95236fe5d5b9199a29be2323d4fe26c84bc2dfce922e8bf8f7345ec743fde7",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0.",
+      "senseIds": [
+        "animal",
+        "tier",
+        "fish-animal"
+      ]
+    },
+    {
+      "assetId": "openmoji-butterfly",
+      "conceptId": "butterfly",
+      "word": "Schmetterling",
+      "aliases": [
+        "Schmetterlinge"
+      ],
+      "path": "/vocabulary-art/openmoji/butterfly.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F98B.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "5017282cbfe0de218ff5f429cda337d83789d16f6835656f8751cd864f64dc72",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-butterfly",
+      "conceptId": "butterfly",
+      "word": "Schmetterling",
+      "aliases": [
+        "Schmetterlinge"
+      ],
+      "path": "/vocabulary-art/twemoji/butterfly.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f98b.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "f36218f1ca9dad80a0f142660057dfa6995f4cabe6e5eee4f52cb48ff2eecbf6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-bee",
+      "conceptId": "bee",
+      "word": "Biene",
+      "aliases": [
+        "Bienen"
+      ],
+      "path": "/vocabulary-art/openmoji/bee.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F41D.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "7ce7171fccf0b6666cb656d7115f658a5ef09aeb042d3a70f937854ea5ca2368",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-bee",
+      "conceptId": "bee",
+      "word": "Biene",
+      "aliases": [
+        "Bienen"
+      ],
+      "path": "/vocabulary-art/twemoji/bee.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f41d.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "03abe41d61c97697e4de3e85b861c23faae068fec158e97816186422cee392e6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-book",
+      "conceptId": "book",
+      "word": "Buch",
+      "aliases": [
+        "Bücher"
+      ],
+      "path": "/vocabulary-art/openmoji/book.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F4D6.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "825ed5db990a2e6f804c53f71144272a20c78b4e07900d79b8a01a1e7e4da3bd",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-book",
+      "conceptId": "book",
+      "word": "Buch",
+      "aliases": [
+        "Bücher"
+      ],
+      "path": "/vocabulary-art/twemoji/book.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f4d6.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "b928c5032e4a18a54b7682e373939e7260146b80161b2b6b4b70b39cd8ab741b",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-phone",
+      "conceptId": "phone",
+      "word": "Telefon",
+      "aliases": [
+        "Handy",
+        "Smartphone"
+      ],
+      "path": "/vocabulary-art/openmoji/phone.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F4F1.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "60c747325507c30accd088ed0ba508f8d0016f57a3fa8e8edb42a4f90e1a6854",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-phone",
+      "conceptId": "phone",
+      "word": "Telefon",
+      "aliases": [
+        "Handy",
+        "Smartphone"
+      ],
+      "path": "/vocabulary-art/twemoji/phone.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f4f1.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "ddb21560c53ca7dfc6f15e4fe85a1e58b7fc7914bf2b50ca2127183547aea18a",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-computer",
+      "conceptId": "computer",
+      "word": "Computer",
+      "aliases": [
+        "PC",
+        "Rechner"
+      ],
+      "path": "/vocabulary-art/openmoji/computer.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F4BB.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "2fad83d3f4910ececdb8a272e51ae8c789e21747962314aa78ec483a4c076a25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-computer",
+      "conceptId": "computer",
+      "word": "Computer",
+      "aliases": [
+        "PC",
+        "Rechner"
+      ],
+      "path": "/vocabulary-art/twemoji/computer.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f4bb.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "819bc014b47155dcf02f579f114823affaecab4a19d0e0346a280037b5fd1728",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-car",
+      "conceptId": "car",
+      "word": "Auto",
+      "aliases": [
+        "Auto",
+        "Wagen"
+      ],
+      "path": "/vocabulary-art/openmoji/car.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F697.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "780ccbc3db9942cf6ffea38ce9d1305465dedd946d64ba283b4cb60c22e249a9",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-car",
+      "conceptId": "car",
+      "word": "Auto",
+      "aliases": [
+        "Auto",
+        "Wagen"
+      ],
+      "path": "/vocabulary-art/twemoji/car.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f697.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "7dadbe94d34dd81e2d146075dc409de0a4b05c4268785e2d61a738b7dd804f55",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-bicycle",
+      "conceptId": "bicycle",
+      "word": "Fahrrad",
+      "aliases": [
+        "Fahrrad",
+        "Rad"
+      ],
+      "path": "/vocabulary-art/openmoji/bicycle.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F6B2.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "99d11d95194848e51370e62e9d3e22e188b0c297476d4df05f27696f99786436",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-bicycle",
+      "conceptId": "bicycle",
+      "word": "Fahrrad",
+      "aliases": [
+        "Fahrrad",
+        "Rad"
+      ],
+      "path": "/vocabulary-art/twemoji/bicycle.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f6b2.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "3b4261100c6ca87fbd390f3ff9b5efd0cb758e3e640d68260897157403fbafdd",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-bus",
+      "conceptId": "bus",
+      "word": "Bus",
+      "aliases": [
+        "Busse"
+      ],
+      "path": "/vocabulary-art/openmoji/bus.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F68C.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "deb2b37c9327843ac6a89ab8b652a257c4041fb613d40de4deef9354204fe4d2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-bus",
+      "conceptId": "bus",
+      "word": "Bus",
+      "aliases": [
+        "Busse"
+      ],
+      "path": "/vocabulary-art/twemoji/bus.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f68c.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "9237be77b4158d0aec46e4e5180e6443227fe339671d69a6e45eb281a862a163",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-train",
+      "conceptId": "train",
+      "word": "Zug",
+      "aliases": [
+        "Zug",
+        "Bahn"
+      ],
+      "path": "/vocabulary-art/openmoji/train.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F686.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "042d72f5268053b5aab5db14ef09fed6ea7d0f4dbf53f54c52ba2d51481867b2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-train",
+      "conceptId": "train",
+      "word": "Zug",
+      "aliases": [
+        "Zug",
+        "Bahn"
+      ],
+      "path": "/vocabulary-art/twemoji/train.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f686.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "bf821a43d95bb58a7ec5d8430ba57a136044f57a3e8ecd4576401ceafa369193",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-airplane",
+      "conceptId": "airplane",
+      "word": "Flugzeug",
+      "aliases": [
+        "Flugzeug"
+      ],
+      "path": "/vocabulary-art/openmoji/airplane.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/2708.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "1bc8529b8b2a7e004a012daf97c3665ce5a24b21d830aaf54de11f6b95a7c68e",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-airplane",
+      "conceptId": "airplane",
+      "word": "Flugzeug",
+      "aliases": [
+        "Flugzeug"
+      ],
+      "path": "/vocabulary-art/twemoji/airplane.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/2708.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "b6c05e45a7b5b438d1b97115add2344a55d6da83c85ad2de6340f41ec8522a5e",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-ship",
+      "conceptId": "ship",
+      "word": "Schiff",
+      "aliases": [
+        "Schiff"
+      ],
+      "path": "/vocabulary-art/openmoji/ship.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F6A2.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "a04b3c7efbae0542a375e2c8afae793d9c79418220977b4603e1845c852cc031",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-ship",
+      "conceptId": "ship",
+      "word": "Schiff",
+      "aliases": [
+        "Schiff"
+      ],
+      "path": "/vocabulary-art/twemoji/ship.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f6a2.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "e6df1e91005b59783fcc316081748a13e8c4bd6dc057db8ea2bef2ae52f99a5c",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-house",
+      "conceptId": "house",
+      "word": "Haus",
+      "aliases": [
+        "Haus"
+      ],
+      "path": "/vocabulary-art/openmoji/house.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F3E0.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "39d49ba17bd78af2a4e658fc84d1c9c48ba020b43c43716ff79ba90fe326be9c",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-house",
+      "conceptId": "house",
+      "word": "Haus",
+      "aliases": [
+        "Haus"
+      ],
+      "path": "/vocabulary-art/twemoji/house.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f3e0.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "4a3ff7cc7a31c7623d0bc52bc2844ef31477092c400e9aae58e27dda38af07c6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-door",
+      "conceptId": "door",
+      "word": "Tür",
+      "aliases": [
+        "Tür"
+      ],
+      "path": "/vocabulary-art/openmoji/door.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F6AA.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "d62d5826944b94234a10e0d0199c84624772f65ed240ef0f7dc73d5b148bc1bc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-door",
+      "conceptId": "door",
+      "word": "Tür",
+      "aliases": [
+        "Tür"
+      ],
+      "path": "/vocabulary-art/twemoji/door.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f6aa.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "6338697b427d284f114d3df9252bf090c8f89f2d5c7f5bfacee1423a74d250a6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-lamp",
+      "conceptId": "lamp",
+      "word": "Glühbirne",
+      "aliases": [
+        "Glühbirne",
+        "Leuchtmittel"
+      ],
+      "path": "/vocabulary-art/openmoji/lamp.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F4A1.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "4cebcb1debaeac127a4db4a4a64714d88150a15947eb0d6fd74d76b913c6b5fa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-lamp",
+      "conceptId": "lamp",
+      "word": "Glühbirne",
+      "aliases": [
+        "Glühbirne",
+        "Leuchtmittel"
+      ],
+      "path": "/vocabulary-art/twemoji/lamp.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f4a1.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "bf0b74aa708457db96c21f658f0eff5ec185a10242f4aa157a86823149c7d704",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-key",
+      "conceptId": "key",
+      "word": "Schlüssel",
+      "aliases": [
+        "Schlüssel"
+      ],
+      "path": "/vocabulary-art/openmoji/key.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F511.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "f27db59f855c1f3399f9a950115e3a5cf364c912a7459d348c6ec9cc39e3ed1d",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-key",
+      "conceptId": "key",
+      "word": "Schlüssel",
+      "aliases": [
+        "Schlüssel"
+      ],
+      "path": "/vocabulary-art/twemoji/key.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f511.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "21bfbad7dfc6848e0c5f1a7fd6b8cbb75b80dadeaf71b2703dc78e89dbebbb7f",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-camera",
+      "conceptId": "camera",
+      "word": "Kamera",
+      "aliases": [
+        "Kamera"
+      ],
+      "path": "/vocabulary-art/openmoji/camera.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F4F7.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "2d22b115ed955449a174a7f99b235fc9c3b44e8e81c415927fe9abba69421766",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-camera",
+      "conceptId": "camera",
+      "word": "Kamera",
+      "aliases": [
+        "Kamera"
+      ],
+      "path": "/vocabulary-art/twemoji/camera.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f4f7.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "b1fcb4195f263e661c3fd4acc656f32e8a467ee28f50ba995cda9bb7902ae746",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    },
+    {
+      "assetId": "openmoji-guitar",
+      "conceptId": "guitar",
+      "word": "Gitarre",
+      "aliases": [
+        "Gitarre"
+      ],
+      "path": "/vocabulary-art/openmoji/guitar.png",
+      "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/17.0.0/color/72x72/1F3B8.png",
+      "archive": "openmoji",
+      "version": "17.0.0",
+      "sha256": "e1fd74e78c0848c97dfe88c81ac1a0871575eb5e458e881f02ec66bb6709319b",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0."
+    },
+    {
+      "assetId": "twemoji-guitar",
+      "conceptId": "guitar",
+      "word": "Gitarre",
+      "aliases": [
+        "Gitarre"
+      ],
+      "path": "/vocabulary-art/twemoji/guitar.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/v17.0.3/assets/72x72/1f3b8.png",
+      "archive": "twemoji",
+      "version": "17.0.3",
+      "sha256": "9024f30371f99e85fb48784b1bfab9b8d9b90e4e53713e4b5fb6612e34c6c5ae",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Twitter and contributors",
+      "kind": "illustration",
+      "reviewStatus": "reviewed",
+      "sourceAttribution": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+    }
+  ],
+  "attributions": {
+    "openmoji": "All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0.",
+    "twemoji": "Twemoji graphics by Twitter and contributors. License: CC BY 4.0."
+  }
+}

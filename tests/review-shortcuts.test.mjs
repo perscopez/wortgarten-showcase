@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import vm from 'node:vm';import {buildSync} from 'esbuild';
+const box={module:{exports:{}},exports:{}};vm.runInNewContext(buildSync({entryPoints:['lib/review-shortcuts.ts'],bundle:true,platform:'node',format:'cjs',write:false}).outputFiles[0].text,box);const shortcut=box.module.exports.reviewShortcut;
+test('Space reveals only closed answer; numeric1–4 rate only revealed answer',()=>{assert.equal(shortcut({key:' '},false),'reveal');assert.equal(shortcut({key:' '},true),null);for(let i=1;i<=4;i++){assert.equal(shortcut({key:String(i)},true),i-1);assert.equal(shortcut({key:String(i)},false),null);}assert.equal(shortcut({key:'5'},true),null);});
+test('typing, held keys, IME and modifier shortcuts never rate a card',()=>{assert.equal(shortcut({key:'1'},true,true),null);for(const field of ['repeat','isComposing','ctrlKey','metaKey','altKey'])assert.equal(shortcut({key:'1',[field]:true},true),null);});

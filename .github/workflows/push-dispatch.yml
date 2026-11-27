@@ -1,0 +1,33 @@
+name: Push reminders
+
+# Reminder hours are per user, so the dispatcher must run every hour.
+# Required repository secret: WORTGARTEN_PUSH_CRON_SECRET (same value as on Vercel).
+# Required repository variable: WORTGARTEN_URL (base URL of your deployment).
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: push-dispatch
+  cancel-in-progress: false
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Send due reminders
+        env:
+          SECRET: ${{ secrets.WORTGARTEN_PUSH_CRON_SECRET }}
+          SITE: ${{ vars.WORTGARTEN_URL }}
+        run: |
+          if [ -z "$SECRET" ] || [ -z "$SITE" ]; then
+            echo "::warning::WORTGARTEN_PUSH_CRON_SECRET or WORTGARTEN_URL is not set; skipping."
+            exit 0
+          fi
+          curl --fail-with-body --silent --show-error --max-time 90 \
+            -X POST -H "Authorization: Bearer $SECRET" \
+            "$SITE/api/push/dispatch"

@@ -1,0 +1,9 @@
+Wortgarten German–Turkish dictionary extract
+Source: Deutsch-Türkçe FreeDict+WikDict dictionary, edition 2025.11.21.
+Maintainer: Karl Bartel / WikDict. Base data: Wiktionary.org via DBnary.
+Original: https://download.wikdict.com/dictionaries/tei/recommended/deu-tur.tei
+Information: https://www.wikdict.com/page/download
+License as stated in this edition: Creative Commons Attribution-ShareAlike 3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/legalcode
+Adaptation: Wortgarten extracted 14,510 entries and 62,325 single-word inflection keys, retaining Turkish translations and grammatical gender; serialized as de-tr.json. This derived dictionary is distributed under the same CC BY-SA 3.0 license. This notice applies to dictionary data, not to unrelated application code.
+Machine-readable adapted dictionary: /dictionaries/de-tr.json

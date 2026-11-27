@@ -1,0 +1,12 @@
+import {familyForKnownNoun} from './article-patterns';
+export const ARTICLES=['der','die','das'] as const;
+export type Article=typeof ARTICLES[number];
+export type NounCard={id:string;word:string;article:string;meaning:string;plural?:string;partOfSpeech?:string;articleAmbiguous?:boolean};
+export const ARTICLE_CUES:Record<Article,{symbol:string;name:string}>={der:{symbol:'◆',name:'mavi elmas'},die:{symbol:'●',name:'gül rengi daire'},das:{symbol:'■',name:'yeşil kare'}};
+export type ArticleProgress={attempts:number;correct:number;streak:number;last:number;recallDays?:number;due?:number;lastSuccessfulAt?:number};
+export function isArticle(value:string):value is Article{return ARTICLES.includes(value as Article)}
+export function eligibleNoun(card:NounCard){if(card.articleAmbiguous)return false;if(!isArticle(card.article)||!card.word||/\s/.test(card.word.trim()))return false;if(card.partOfSpeech&&card.partOfSpeech!=='noun')return false;const first=card.word.charAt(0);return first.toLocaleUpperCase('de')===first&&first.toLocaleLowerCase('de')!==first}
+export function articleHint(word:string,article:string){const family=familyForKnownNoun({word,article});const reminder='İsmi artikeliyle birlikte sesli söyle: “'+article+' '+word+'”. Renk ve şekil yalnız öğrenme çağrışımıdır; dil bilgisi kuralı değildir.';return family?family.explanation+' '+family.caution+' '+reminder:reminder}
+export function updateArticleProgress(previous:ArticleProgress|undefined,correct:boolean,now=Date.now()):ArticleProgress{const nextDay=correct&&(!previous?.recallDays||now>=(previous?.due||0)&&new Date(now).toDateString()!==new Date(previous?.lastSuccessfulAt||0).toDateString());const recallDays=correct?(previous?.recallDays||0)+(nextDay?1:0):0;const interval=[1,3,7,14,30][Math.min(Math.max(0,recallDays-1),4)];return {attempts:(previous?.attempts||0)+1,correct:(previous?.correct||0)+(correct?1:0),streak:correct?(previous?.streak||0)+1:0,last:now,recallDays,lastSuccessfulAt:correct?(nextDay?now:previous?.lastSuccessfulAt||now):previous?.lastSuccessfulAt||0,due:correct?(nextDay?now+interval*86400000:previous?.due||now+86400000):now}}
+export function advanceArticleQueue(queue:string[],correct:boolean){const [current,...rest]=queue;if(!current)return [];if(!correct)rest.splice(Math.min(2,rest.length),0,current);return rest}
+export function shuffle<T>(items:T[]){const out=[...items];for(let i=out.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[out[i],out[j]]=[out[j],out[i]]}return out}

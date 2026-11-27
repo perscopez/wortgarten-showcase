@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320"><title>Entdeckung — keşif</title><rect width="640" height="320" rx="28" fill="#f2f6ee"/><rect x="24" y="22" width="592" height="276" rx="22" fill="#fff" stroke="#dbe5d7"/><text x="320" y="65" font-family="sans-serif" font-size="14" letter-spacing="2" text-anchor="middle" fill="#50715b">DEUTSCH · BILDASSOZIATION</text><svg x="211" y="91" width="96" height="96" viewBox="0 0 72 72">
+  <g>
+    <ellipse cx="29.5854" cy="24.8305" rx="11.1656" ry="11.1657" transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6777)" fill="#FFFFFF" stroke="none"/>
+    <path fill="#92D3F5" stroke="none" d="M39,19c-1.6269-2.1743-5.3114-4.6131-8-5c-1.841-0.2648-5,0-5.3126,1.4508 c2.432,0.2232,6.261,1.3933,9.4483,6.0391c2.7047,3.9427,2.9098,7.2606,2.5092,9.5215C40,31,41.7867,22.7243,39,19z"/>
+    <path fill="#D0CFCE" stroke="none" d="M20.717,13.2532c-3.1395,2.3517-5.1766,5.7832-5.7372,9.6663c-0.5584,3.883,0.4286,7.7514,2.7785,10.8927 c4.8528,6.4827,14.0758,7.8101,20.5595,2.9577c6.4832-4.8514,7.8112-14.073,2.9587-20.5591 c-2.3504-3.1402-5.7839-5.1778-9.6668-5.7362C27.7267,9.9161,23.8587,10.9022,20.717,13.2532z M38.1933,18.3883 c2.2813,3.0482,2.696,6.924,1.4434,10.248c-0.6965,1.8514-1.9113,3.5306-3.6095,4.8016c-4.7463,3.5525-11.498,2.58-15.0496-2.166 c-1.7206-2.2992-2.4437-5.1309-2.0341-7.9731c0.41-2.8429,1.8999-5.3554,4.2002-7.0765c2.2984-1.721,5.1298-2.4433,7.9731-2.0341 C33.9592,14.5969,36.4719,16.0889,38.1933,18.3883z"/>
+    <path fill="#3F3F3F" stroke="none" d="M39,42l10,14c0,0,3,4,5,2s0-5,0-5L43,39L39,42z"/>
+  </g>
+  <g/>
+  <g/>
+  <g/>
+  <g>
+    <ellipse cx="29.5854" cy="24.8305" rx="14.6372" ry="14.6372" transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6778)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse cx="29.5854" cy="24.8305" rx="11.1656" ry="11.1657" transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6777)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M38.6805,41.7876l4.1839-3.1316l11.6927,15.622c0.8354,1.1162,0.5758,2.7219-0.5795,3.5867l0,0 c-1.1554,0.8647-2.7691,0.661-3.6045-0.4551L38.6805,41.7876z"/>
+  </g>
+</svg><svg x="333" y="91" width="96" height="96" viewBox="0 0 72 72">
+  <g>
+    <path fill="#d0cfce" d="m35.71,64.65c4.779,0,7.509-2.244,8.156-5.151h-16.31c.647,2.907,3.376,5.151,8.155,5.151h-.001Z"/>
+    <path fill="#fcea2b" d="m45.2028,10.655s-12.23-3.457-18.2,1.269c-5.969,4.726-6.401,15.6-6.401,15.6.5848,2.213,4.226,8.493,4.226,8.493.54.9111,2.253,7.481,3.249,11.36h15.92c.8662-2.845,4.35-13.15,4.805-14.21.584-1.363,1.58-4.016,2.083-5.017,1.21-2.409,1.1663-4.533.5378-7.027-1.3571-5.385-2.4738-6.7228-6.221-10.47l.0012.002Z"/>
+    <path fill="#fff" d="m35.71,7.202c-8.532,0-16.5,6.752-16.5,15.28,0,1.079-.2641,4.491,1.217,4.491,0,0,2.393-7.825,8.362-12.55,5.969-4.725,15.52-3.725,15.52-3.725-.6645-2.045-5.55-3.499-8.596-3.499l-.003.003Z"/>
+  </g>
+  <g>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52.55,23.75c0,3.985-1.785,5.908-3.754,10.5-.5028,1.172-4.211,13.38-4.211,13.38h-17.17s-2.981-11.67-3.546-12.62c-2.37-3.998-4.419-6.91-4.419-11.26,0-9.141,7.41-16.55,16.55-16.55s16.55,7.41,16.55,16.55Z"/>
+    <line x1="36" x2="36" y1="47.22" y2="35.28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="41.97" x2="30.03" y1="35.28" y2="35.28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.696" d="m44.16,58.79c0,3.24-3.651,5.867-8.155,5.867s-8.155-2.627-8.155-5.867h16.31Z"/>
+    <line x1="27.99" x2="44.01" y1="54.98" y2="51.51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.965"/>
+    <line x1="38.2" x2="43.98" y1="56.07" y2="54.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="28.02" x2="33.8" y1="51.6" y2="50.42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg><g text-anchor="middle" font-family="sans-serif" fill="#223a2d"><text x="320" y="232" font-weight="700" font-size="31">Entdeckung</text></g></svg>

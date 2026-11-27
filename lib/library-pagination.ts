@@ -1,0 +1,2 @@
+/** Pagination limits rendered rows only. Never pass this slice to persistence/export. */
+export function libraryPage<T>(items:T[],requested:number,size=25){const pageSize=Math.max(1,Math.min(100,Math.floor(size)||25));const totalPages=Math.max(1,Math.ceil(items.length/pageSize));const page=Math.max(1,Math.min(totalPages,Math.floor(requested)||1));return {items:items.slice((page-1)*pageSize,page*pageSize),page,totalPages,total:items.length,start:items.length?(page-1)*pageSize+1:0,end:Math.min(page*pageSize,items.length)}}

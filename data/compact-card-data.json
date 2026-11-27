@@ -1,0 +1,7502 @@
+{
+  "nouns": {
+    "Abschrift": [
+      [
+        "eine Abschrift anfertigen",
+        "bir suret / kopya çıkarmak"
+      ],
+      [
+        "eine Abschrift des Dokuments",
+        "belgenin bir sureti"
+      ]
+    ],
+    "Abteilungsbesprechung": [
+      [
+        "an der Abteilungsbesprechung teilnehmen",
+        "departman toplantısına katılmak"
+      ],
+      [
+        "die Abteilungsbesprechung leiten",
+        "departman toplantısını yönetmek"
+      ]
+    ],
+    "Angst": [
+      [
+        "Angst vor etwas haben (Dativ)",
+        "bir şeyden korkmak"
+      ],
+      [
+        "jemandem Angst machen",
+        "birini korkutmak"
+      ],
+      [
+        "Angst vor etwas haben · vor + Dativ",
+        "bir şeyden korkmak"
+      ]
+    ],
+    "Anzeige": [
+      [
+        "eine Anzeige aufgeben",
+        "ilan vermek"
+      ],
+      [
+        "eine Anzeige erstatten",
+        "suç duyurusunda bulunmak"
+      ],
+      [
+        "eine Anzeige in der Zeitung aufgeben",
+        "gazeteye ilan vermek"
+      ]
+    ],
+    "App-Mediathek": [
+      [
+        "die App-Mediathek öffnen",
+        "uygulama arşivini açmak"
+      ],
+      [
+        "eine App in der App-Mediathek suchen",
+        "uygulama arşivinde bir uygulama aramak"
+      ]
+    ],
+    "Aquarell": [
+      [
+        "ein Aquarell malen",
+        "suluboya resim yapmak"
+      ],
+      [
+        "ein Aquarell ausstellen",
+        "suluboya bir resmi sergilemek"
+      ]
+    ],
+    "Arbeit": [
+      [
+        "zur Arbeit gehen",
+        "işe gitmek"
+      ],
+      [
+        "bei der Arbeit sein",
+        "işte olmak"
+      ]
+    ],
+    "Aufgabe": [
+      [
+        "eine Aufgabe lösen",
+        "bir görevi / soruyu çözmek"
+      ],
+      [
+        "eine Aufgabe abgeben",
+        "bir ödevi teslim etmek"
+      ]
+    ],
+    "Ausstellungsbesucher": [
+      [
+        "Ausstellungsbesucher begrüßen",
+        "sergi ziyaretçilerini karşılamak"
+      ],
+      [
+        "viele Ausstellungsbesucher",
+        "birçok sergi ziyaretçisi"
+      ]
+    ],
+    "Bahnhof": [
+      [
+        "zum Bahnhof gehen",
+        "istasyona gitmek"
+      ],
+      [
+        "am Bahnhof warten",
+        "istasyonda beklemek"
+      ]
+    ],
+    "Baum": [
+      [
+        "einen Baum pflanzen",
+        "ağaç dikmek"
+      ],
+      [
+        "unter einem Baum sitzen",
+        "bir ağacın altında oturmak"
+      ]
+    ],
+    "Becher": [
+      [
+        "einen Becher Wasser",
+        "bir bardak su"
+      ],
+      [
+        "einen Becher füllen",
+        "bir bardağı doldurmak"
+      ]
+    ],
+    "Bedienungshilfe": [
+      [
+        "eine Bedienungshilfe einschalten",
+        "bir erişilebilirlik özelliğini açmak"
+      ],
+      [
+        "die Bedienungshilfen öffnen",
+        "erişilebilirlik ayarlarını açmak"
+      ]
+    ],
+    "Begegnung": [
+      [
+        "eine Begegnung mit jemandem (Dativ)",
+        "biriyle karşılaşma"
+      ],
+      [
+        "eine zufällige Begegnung",
+        "tesadüfi bir karşılaşma"
+      ]
+    ],
+    "Beginn": [
+      [
+        "zu Beginn des Kurses",
+        "kursun başında"
+      ],
+      [
+        "den Beginn verschieben",
+        "başlangıcı ertelemek"
+      ]
+    ],
+    "Beitrag": [
+      [
+        "einen Beitrag leisten",
+        "katkıda bulunmak"
+      ],
+      [
+        "ein Beitrag zu etwas (Dativ)",
+        "bir şeye katkı"
+      ]
+    ],
+    "Bericht": [
+      [
+        "einen Bericht schreiben",
+        "rapor yazmak"
+      ],
+      [
+        "ein Bericht über etwas (Akkusativ)",
+        "bir şey hakkında rapor"
+      ]
+    ],
+    "Besitzer": [
+      [
+        "der Besitzer des Hauses",
+        "evin sahibi"
+      ],
+      [
+        "den Besitzer kontaktieren",
+        "sahibiyle iletişime geçmek"
+      ]
+    ],
+    "Bildhauer": [
+      [
+        "als Bildhauer arbeiten",
+        "heykeltıraş olarak çalışmak"
+      ],
+      [
+        "ein Werk eines Bildhauers",
+        "bir heykeltıraşın eseri"
+      ]
+    ],
+    "Bildschirm": [
+      [
+        "auf den Bildschirm schauen",
+        "ekrana bakmak"
+      ],
+      [
+        "den Bildschirm sperren",
+        "ekranı kilitlemek"
+      ]
+    ],
+    "Bildung": [
+      [
+        "Zugang zu Bildung haben",
+        "eğitime erişimi olmak"
+      ],
+      [
+        "in Bildung investieren",
+        "eğitime yatırım yapmak"
+      ]
+    ],
+    "Bonus": [
+      [
+        "einen Bonus bekommen",
+        "prim / ikramiye almak"
+      ],
+      [
+        "einen Bonus auszahlen",
+        "prim ödemek"
+      ]
+    ],
+    "Brand": [
+      [
+        "einen Brand löschen",
+        "yangın söndürmek"
+      ],
+      [
+        "ein Brand bricht aus",
+        "yangın çıkıyor"
+      ]
+    ],
+    "Brücke": [
+      [
+        "eine Brücke bauen",
+        "köprü inşa etmek"
+      ],
+      [
+        "über die Brücke gehen",
+        "köprüden geçmek"
+      ]
+    ],
+    "Buchdruck": [
+      [
+        "die Erfindung des Buchdrucks",
+        "matbaanın icadı"
+      ],
+      [
+        "der Buchdruck mit beweglichen Lettern",
+        "hareketli harflerle baskı"
+      ]
+    ],
+    "Bühnenmaler": [
+      [
+        "als Bühnenmaler arbeiten",
+        "sahne ressamı olarak çalışmak"
+      ],
+      [
+        "ein Bühnenmaler am Theater",
+        "tiyatroda bir sahne ressamı"
+      ]
+    ],
+    "Datenschutz": [
+      [
+        "Datenschutz beachten",
+        "veri korumaya dikkat etmek"
+      ],
+      [
+        "eine Frage zum Datenschutz",
+        "veri korumayla ilgili bir soru"
+      ]
+    ],
+    "Dienstprogramm": [
+      [
+        "ein Dienstprogramm starten",
+        "bir yardımcı programı başlatmak"
+      ],
+      [
+        "ein Dienstprogramm installieren",
+        "bir yardımcı program yüklemek"
+      ]
+    ],
+    "Dose": [
+      [
+        "eine Dose öffnen",
+        "bir kutu (konserve) açmak"
+      ],
+      [
+        "eine Dose Tomaten",
+        "bir kutu domates"
+      ]
+    ],
+    "Druck": [
+      [
+        "unter Druck stehen",
+        "baskı altında olmak"
+      ],
+      [
+        "den Druck erhöhen",
+        "baskıyı artırmak"
+      ]
+    ],
+    "Druckelement": [
+      [
+        "ein Druckelement einsetzen",
+        "bir baskı parçası takmak"
+      ],
+      [
+        "ein Druckelement austauschen",
+        "bir baskı parçasını değiştirmek"
+      ]
+    ],
+    "Eigentümer": [
+      [
+        "der Eigentümer der Wohnung",
+        "dairenin sahibi"
+      ],
+      [
+        "den Eigentümer fragen",
+        "mal sahibine sormak"
+      ]
+    ],
+    "Einstellung": [
+      [
+        "eine Einstellung ändern",
+        "bir ayarı değiştirmek"
+      ],
+      [
+        "eine Einstellung zu etwas (Dativ)",
+        "bir şeye karşı tutum"
+      ]
+    ],
+    "Eltern": [
+      [
+        "bei den Eltern wohnen",
+        "ailesiyle (anne-babasıyla) yaşamak"
+      ],
+      [
+        "die Eltern besuchen",
+        "anne-babayı ziyaret etmek"
+      ]
+    ],
+    "Entdeckung": [
+      [
+        "eine Entdeckung machen",
+        "bir keşif yapmak"
+      ],
+      [
+        "die Entdeckung bekannt geben",
+        "keşfi duyurmak"
+      ]
+    ],
+    "Entstehung": [
+      [
+        "die Entstehung eines Textes",
+        "bir metnin ortaya çıkışı"
+      ],
+      [
+        "zur Entstehung beitragen",
+        "oluşumuna katkıda bulunmak"
+      ]
+    ],
+    "Ereignis": [
+      [
+        "ein Ereignis beobachten",
+        "bir olayı gözlemlemek"
+      ],
+      [
+        "über ein Ereignis berichten",
+        "bir olay hakkında haber vermek"
+      ]
+    ],
+    "Erfindung": [
+      [
+        "eine Erfindung machen",
+        "bir icat yapmak"
+      ],
+      [
+        "eine Erfindung patentieren lassen",
+        "bir icadın patentini almak"
+      ]
+    ],
+    "Erfolg": [
+      [
+        "Erfolg haben",
+        "başarılı olmak"
+      ],
+      [
+        "zu einem Erfolg führen",
+        "başarıya götürmek"
+      ]
+    ],
+    "Ergebnis": [
+      [
+        "ein Ergebnis erzielen",
+        "bir sonuç elde etmek"
+      ],
+      [
+        "das Ergebnis überprüfen",
+        "sonucu kontrol etmek"
+      ]
+    ],
+    "Ernährung": [
+      [
+        "auf die Ernährung achten",
+        "beslenmeye dikkat etmek"
+      ],
+      [
+        "eine ausgewogene Ernährung",
+        "dengeli beslenme"
+      ]
+    ],
+    "Exemplar": [
+      [
+        "ein Exemplar bestellen",
+        "bir nüsha sipariş etmek"
+      ],
+      [
+        "mit den Exemplaren arbeiten",
+        "nüshalarla çalışmak"
+      ]
+    ],
+    "Fahrrad": [
+      [
+        "mit dem Fahrrad fahren",
+        "bisiklete binmek / bisikletle gitmek"
+      ],
+      [
+        "ein Fahrrad leihen",
+        "bisiklet kiralamak / ödünç almak"
+      ]
+    ],
+    "Fahrstuhl": [
+      [
+        "mit dem Fahrstuhl fahren",
+        "asansörle çıkmak / inmek"
+      ],
+      [
+        "auf den Fahrstuhl warten",
+        "asansörü beklemek"
+      ]
+    ],
+    "Familienfreigabe": [
+      [
+        "die Familienfreigabe einrichten",
+        "aile paylaşımını kurmak"
+      ],
+      [
+        "die Familienfreigabe deaktivieren",
+        "aile paylaşımını kapatmak"
+      ]
+    ],
+    "Faulpelz": [
+      [
+        "ein echter Faulpelz",
+        "tam bir tembel"
+      ],
+      [
+        "jemanden einen Faulpelz nennen",
+        "birine tembel demek"
+      ]
+    ],
+    "Ferien": [
+      [
+        "in den Ferien verreisen",
+        "tatilde seyahate çıkmak"
+      ],
+      [
+        "während der Ferien (Genitiv)",
+        "tatil boyunca"
+      ]
+    ],
+    "Feuerwehr": [
+      [
+        "die Feuerwehr rufen",
+        "itfaiyeyi çağırmak"
+      ],
+      [
+        "bei der Feuerwehr arbeiten",
+        "itfaiyede çalışmak"
+      ]
+    ],
+    "Film": [
+      [
+        "einen Film ansehen",
+        "film izlemek"
+      ],
+      [
+        "einen Film drehen",
+        "film çekmek"
+      ]
+    ],
+    "Flugmodus": [
+      [
+        "den Flugmodus einschalten",
+        "uçak modunu açmak"
+      ],
+      [
+        "im Flugmodus sein",
+        "uçak modunda olmak"
+      ]
+    ],
+    "Forscher": [
+      [
+        "als Forscher arbeiten",
+        "araştırmacı olarak çalışmak"
+      ],
+      [
+        "ein Team von Forschern",
+        "bir araştırmacı ekibi"
+      ]
+    ],
+    "Frage": [
+      [
+        "eine Frage stellen",
+        "soru sormak"
+      ],
+      [
+        "eine Frage beantworten",
+        "bir soruyu cevaplamak"
+      ]
+    ],
+    "Freigabe": [
+      [
+        "eine Freigabe erteilen",
+        "onay / izin vermek"
+      ],
+      [
+        "auf die Freigabe warten",
+        "onayı beklemek"
+      ]
+    ],
+    "Frühstück": [
+      [
+        "zum Frühstück etwas essen",
+        "kahvaltıda bir şey yemek"
+      ],
+      [
+        "das Frühstück vorbereiten",
+        "kahvaltı hazırlamak"
+      ]
+    ],
+    "Führerschein": [
+      [
+        "den Führerschein machen",
+        "ehliyet almak (kursa gidip)"
+      ],
+      [
+        "den Führerschein vorzeigen",
+        "ehliyeti göstermek"
+      ]
+    ],
+    "Geburtstag": [
+      [
+        "zum Geburtstag gratulieren",
+        "doğum gününü kutlamak (tebrik etmek)"
+      ],
+      [
+        "Geburtstag feiern",
+        "doğum günü kutlamak"
+      ]
+    ],
+    "Gegensatz": [
+      [
+        "im Gegensatz zu etwas (Dativ)",
+        "bir şeyin aksine"
+      ],
+      [
+        "einen Gegensatz bilden",
+        "bir zıtlık oluşturmak"
+      ]
+    ],
+    "Gegenstand": [
+      [
+        "einen Gegenstand ablegen",
+        "bir eşyayı bırakmak"
+      ],
+      [
+        "der Gegenstand des Gesprächs",
+        "konuşmanın konusu"
+      ]
+    ],
+    "Gegenwart": [
+      [
+        "in der Gegenwart leben",
+        "şimdiki zamanda yaşamak"
+      ],
+      [
+        "in Gegenwart von jemandem (Dativ)",
+        "birinin yanında / huzurunda"
+      ]
+    ],
+    "Gehaltserhöhung": [
+      [
+        "um eine Gehaltserhöhung bitten",
+        "maaş zammı istemek"
+      ],
+      [
+        "eine Gehaltserhöhung bekommen",
+        "maaş zammı almak"
+      ]
+    ],
+    "Geld": [
+      [
+        "Geld sparen",
+        "para biriktirmek"
+      ],
+      [
+        "Geld ausgeben",
+        "para harcamak"
+      ]
+    ],
+    "Gemälde": [
+      [
+        "ein Gemälde betrachten",
+        "bir tabloyu incelemek"
+      ],
+      [
+        "ein Gemälde ausstellen",
+        "bir tabloyu sergilemek"
+      ]
+    ],
+    "Genehmigung": [
+      [
+        "eine Genehmigung beantragen",
+        "izin için başvurmak"
+      ],
+      [
+        "eine Genehmigung erteilen",
+        "izin vermek"
+      ]
+    ],
+    "Gerät": [
+      [
+        "ein Gerät einschalten",
+        "bir cihazı açmak"
+      ],
+      [
+        "ein Gerät bedienen",
+        "bir cihazı kullanmak"
+      ]
+    ],
+    "Glas": [
+      [
+        "ein Glas Wasser",
+        "bir bardak su"
+      ],
+      [
+        "aus Glas bestehen",
+        "camdan yapılmış olmak"
+      ]
+    ],
+    "Gliederung": [
+      [
+        "eine Gliederung erstellen",
+        "bir taslak / ana hat çıkarmak"
+      ],
+      [
+        "die Gliederung des Textes",
+        "metnin bölümlenmesi"
+      ]
+    ],
+    "Grundgedanke": [
+      [
+        "den Grundgedanken erklären",
+        "temel fikri açıklamak"
+      ],
+      [
+        "der Grundgedanke des Textes",
+        "metnin temel fikri"
+      ]
+    ],
+    "Gurke": [
+      [
+        "eine Gurke schneiden",
+        "salatalık doğramak"
+      ],
+      [
+        "eine Gurke schälen",
+        "salatalık soymak"
+      ]
+    ],
+    "Haltestelle": [
+      [
+        "an der Haltestelle warten",
+        "durakta beklemek"
+      ],
+      [
+        "an der nächsten Haltestelle aussteigen",
+        "bir sonraki durakta inmek"
+      ]
+    ],
+    "Hand": [
+      [
+        "von Hand schreiben",
+        "elle yazmak"
+      ],
+      [
+        "jemandem die Hand geben",
+        "biriyle tokalaşmak"
+      ]
+    ],
+    "Hauptbahnhof": [
+      [
+        "zum Hauptbahnhof fahren",
+        "ana istasyona gitmek"
+      ],
+      [
+        "am Hauptbahnhof umsteigen",
+        "ana istasyonda aktarma yapmak"
+      ]
+    ],
+    "Haus": [
+      [
+        "nach Hause gehen",
+        "eve gitmek"
+      ],
+      [
+        "zu Hause bleiben",
+        "evde kalmak"
+      ]
+    ],
+    "Helligkeit": [
+      [
+        "die Helligkeit einstellen",
+        "parlaklığı ayarlamak"
+      ],
+      [
+        "die Helligkeit erhöhen",
+        "parlaklığı artırmak"
+      ]
+    ],
+    "Herstellung": [
+      [
+        "die Herstellung von etwas (Dativ)",
+        "bir şeyin üretimi"
+      ],
+      [
+        "bei der Herstellung",
+        "üretim sırasında"
+      ]
+    ],
+    "Hintergrundbild": [
+      [
+        "das Hintergrundbild ändern",
+        "duvar kâğıdını değiştirmek"
+      ],
+      [
+        "ein Bild als Hintergrundbild verwenden",
+        "bir resmi duvar kâğıdı yapmak"
+      ]
+    ],
+    "Höhepunkt": [
+      [
+        "der Höhepunkt des Tages",
+        "günün doruk noktası"
+      ],
+      [
+        "den Höhepunkt erreichen",
+        "doruğa ulaşmak"
+      ]
+    ],
+    "Holz": [
+      [
+        "aus Holz bestehen",
+        "ahşaptan yapılmış olmak"
+      ],
+      [
+        "Holz schneiden",
+        "odun / tahta kesmek"
+      ]
+    ],
+    "Honig": [
+      [
+        "Honig in den Tee geben",
+        "çaya bal koymak"
+      ],
+      [
+        "ein Glas Honig",
+        "bir kavanoz bal"
+      ]
+    ],
+    "Jahr": [
+      [
+        "seit einem Jahr",
+        "bir yıldır"
+      ],
+      [
+        "im nächsten Jahr",
+        "gelecek yıl"
+      ]
+    ],
+    "Jahrhundert": [
+      [
+        "im 21. Jahrhundert",
+        "21. yüzyılda"
+      ],
+      [
+        "ein halbes Jahrhundert",
+        "yarım yüzyıl"
+      ]
+    ],
+    "Kaffee": [
+      [
+        "einen Kaffee bestellen",
+        "kahve sipariş etmek"
+      ],
+      [
+        "Kaffee kochen",
+        "kahve yapmak"
+      ]
+    ],
+    "Käse": [
+      [
+        "ein Stück Käse",
+        "bir parça peynir"
+      ],
+      [
+        "den Käse in Scheiben schneiden",
+        "peyniri dilimlemek"
+      ]
+    ],
+    "Kino": [
+      [
+        "ins Kino gehen",
+        "sinemaya gitmek"
+      ],
+      [
+        "im Kino sein",
+        "sinemada olmak"
+      ]
+    ],
+    "Kirche": [
+      [
+        "in die Kirche gehen",
+        "kiliseye gitmek"
+      ],
+      [
+        "vor der Kirche warten",
+        "kilisenin önünde beklemek"
+      ]
+    ],
+    "Kirsche": [
+      [
+        "Kirschen essen",
+        "kiraz yemek"
+      ],
+      [
+        "Kirschen entsteinen",
+        "kirazların çekirdeğini çıkarmak"
+      ]
+    ],
+    "Kneipe": [
+      [
+        "in die Kneipe gehen",
+        "meyhaneye / bara gitmek"
+      ],
+      [
+        "in der Kneipe sitzen",
+        "barda oturmak"
+      ]
+    ],
+    "Koffer": [
+      [
+        "den Koffer packen",
+        "bavul hazırlamak"
+      ],
+      [
+        "den Koffer auspacken",
+        "bavulu boşaltmak"
+      ]
+    ],
+    "Kollege": [
+      [
+        "mit einem Kollegen sprechen",
+        "bir iş arkadaşıyla konuşmak"
+      ],
+      [
+        "einem Kollegen helfen",
+        "bir iş arkadaşına yardım etmek"
+      ]
+    ],
+    "Kontrollzentrum": [
+      [
+        "das Kontrollzentrum öffnen",
+        "denetim merkezini açmak"
+      ],
+      [
+        "eine Funktion im Kontrollzentrum einschalten",
+        "denetim merkezinde bir özelliği açmak"
+      ]
+    ],
+    "Kosten": [
+      [
+        "Kosten senken",
+        "masrafları düşürmek"
+      ],
+      [
+        "die Kosten tragen",
+        "masrafları karşılamak"
+      ]
+    ],
+    "Kreativität": [
+      [
+        "Kreativität fördern",
+        "yaratıcılığı desteklemek"
+      ],
+      [
+        "Kreativität zeigen",
+        "yaratıcılık göstermek"
+      ]
+    ],
+    "Küche": [
+      [
+        "in der Küche kochen",
+        "mutfakta yemek pişirmek"
+      ],
+      [
+        "die Küche aufräumen",
+        "mutfağı toplamak"
+      ]
+    ],
+    "Kunde": [
+      [
+        "einen Kunden beraten",
+        "bir müşteriye danışmanlık yapmak"
+      ],
+      [
+        "mit einem Kunden sprechen",
+        "bir müşteriyle konuşmak"
+      ]
+    ],
+    "Kunsthandel": [
+      [
+        "im Kunsthandel tätig sein",
+        "sanat ticaretinde çalışmak"
+      ],
+      [
+        "der internationale Kunsthandel",
+        "uluslararası sanat ticareti"
+      ]
+    ],
+    "Künstler": [
+      [
+        "als Künstler arbeiten",
+        "sanatçı olarak çalışmak"
+      ],
+      [
+        "ein Werk eines Künstlers",
+        "bir sanatçının eseri"
+      ]
+    ],
+    "Lebenslauf": [
+      [
+        "einen Lebenslauf schreiben",
+        "özgeçmiş yazmak"
+      ],
+      [
+        "den Lebenslauf einreichen",
+        "özgeçmişi göndermek / sunmak"
+      ]
+    ],
+    "Leistung": [
+      [
+        "eine gute Leistung erbringen",
+        "iyi bir performans göstermek"
+      ],
+      [
+        "Leistungen in Anspruch nehmen",
+        "hizmetlerden yararlanmak"
+      ]
+    ],
+    "Lesegerät": [
+      [
+        "die Karte ins Lesegerät stecken",
+        "kartı okuyucuya takmak"
+      ],
+      [
+        "das Lesegerät anschließen",
+        "kart okuyucuyu bağlamak"
+      ]
+    ],
+    "Letter": [
+      [
+        "Lettern aus Metall",
+        "metal harfler (matbaa)"
+      ],
+      [
+        "bewegliche Lettern setzen",
+        "hareketli harfleri dizmek"
+      ]
+    ],
+    "Leute": [
+      [
+        "neue Leute kennenlernen",
+        "yeni insanlarla tanışmak"
+      ],
+      [
+        "viele Leute",
+        "birçok insan"
+      ]
+    ],
+    "Liebe": [
+      [
+        "Liebe zu jemandem (Dativ)",
+        "birine duyulan sevgi"
+      ],
+      [
+        "jemandem seine Liebe zeigen",
+        "birine sevgisini göstermek"
+      ]
+    ],
+    "Lösung": [
+      [
+        "eine Lösung finden",
+        "bir çözüm bulmak"
+      ],
+      [
+        "eine Lösung für ein Problem",
+        "bir sorun için çözüm"
+      ]
+    ],
+    "Malerei": [
+      [
+        "sich für Malerei interessieren",
+        "resim sanatıyla ilgilenmek"
+      ],
+      [
+        "die moderne Malerei",
+        "modern resim"
+      ]
+    ],
+    "Mantel": [
+      [
+        "einen Mantel anziehen",
+        "mont / palto giymek"
+      ],
+      [
+        "den Mantel ausziehen",
+        "paltoyu çıkarmak"
+      ]
+    ],
+    "Massenmedium": [
+      [
+        "das Fernsehen als Massenmedium",
+        "kitle iletişim aracı olarak televizyon"
+      ],
+      [
+        "ein digitales Massenmedium",
+        "dijital bir kitle iletişim aracı"
+      ]
+    ],
+    "Mauer": [
+      [
+        "eine Mauer bauen",
+        "duvar örmek"
+      ],
+      [
+        "hinter der Mauer",
+        "duvarın arkasında"
+      ]
+    ],
+    "Medienrevolution": [
+      [
+        "eine Medienrevolution auslösen",
+        "bir medya devrimini başlatmak"
+      ],
+      [
+        "die digitale Medienrevolution",
+        "dijital medya devrimi"
+      ]
+    ],
+    "Medium": [
+      [
+        "ein digitales Medium",
+        "dijital bir ortam / araç"
+      ],
+      [
+        "Informationen über ein Medium verbreiten",
+        "bilgiyi bir araçla yaymak"
+      ]
+    ],
+    "Meisterwerk": [
+      [
+        "ein Meisterwerk schaffen",
+        "bir başyapıt yaratmak"
+      ],
+      [
+        "als Meisterwerk gelten",
+        "başyapıt sayılmak"
+      ]
+    ],
+    "Menge": [
+      [
+        "eine große Menge Wasser",
+        "büyük miktarda su"
+      ],
+      [
+        "in größeren Mengen",
+        "daha büyük miktarlarda"
+      ]
+    ],
+    "Metzgerei": [
+      [
+        "in der Metzgerei einkaufen",
+        "kasaptan alışveriş yapmak"
+      ],
+      [
+        "zur Metzgerei gehen",
+        "kasaba gitmek"
+      ]
+    ],
+    "Mitarbeiter": [
+      [
+        "einen Mitarbeiter einstellen",
+        "bir çalışan işe almak"
+      ],
+      [
+        "mit den Mitarbeitern sprechen",
+        "çalışanlarla konuşmak"
+      ]
+    ],
+    "Mittagessen": [
+      [
+        "zum Mittagessen bleiben",
+        "öğle yemeğine kalmak"
+      ],
+      [
+        "das Mittagessen vorbereiten",
+        "öğle yemeği hazırlamak"
+      ]
+    ],
+    "Mitteilung": [
+      [
+        "eine Mitteilung bekommen",
+        "bir bildirim / mesaj almak"
+      ],
+      [
+        "eine Mitteilung lesen",
+        "bir bildirimi okumak"
+      ]
+    ],
+    "Mittelalter": [
+      [
+        "im Mittelalter",
+        "Orta Çağ'da"
+      ],
+      [
+        "gegen Ende des Mittelalters",
+        "Orta Çağ'ın sonlarına doğru"
+      ]
+    ],
+    "Mobilfunk": [
+      [
+        "Mobilfunk nutzen",
+        "mobil şebeke kullanmak"
+      ],
+      [
+        "ein Anbieter für Mobilfunk",
+        "bir mobil hat operatörü"
+      ]
+    ],
+    "Mönch": [
+      [
+        "als Mönch leben",
+        "keşiş olarak yaşamak"
+      ],
+      [
+        "ein Mönch im Kloster",
+        "manastırda bir keşiş"
+      ]
+    ],
+    "Museum": [
+      [
+        "ins Museum gehen",
+        "müzeye gitmek"
+      ],
+      [
+        "im Museum ausstellen",
+        "müzede sergilemek"
+      ]
+    ],
+    "Neuaufbau": [
+      [
+        "der Neuaufbau der Brücke",
+        "köprünün yeniden inşası"
+      ],
+      [
+        "mit dem Neuaufbau beginnen",
+        "yeniden inşaya başlamak"
+      ]
+    ],
+    "Neuzeit": [
+      [
+        "in der frühen Neuzeit",
+        "Erken Yeni Çağ'da"
+      ],
+      [
+        "der Übergang zur Neuzeit",
+        "Yeni Çağ'a geçiş"
+      ]
+    ],
+    "Notruf": [
+      [
+        "einen Notruf absetzen",
+        "acil çağrı yapmak"
+      ],
+      [
+        "die Notrufnummer wählen",
+        "acil durum numarasını aramak"
+      ]
+    ],
+    "Ölbild": [
+      [
+        "ein Ölbild malen",
+        "yağlı boya resim yapmak"
+      ],
+      [
+        "ein Ölbild an die Wand hängen",
+        "yağlı boya bir tabloyu duvara asmak"
+      ]
+    ],
+    "Ordnung": [
+      [
+        "Ordnung schaffen",
+        "düzen sağlamak / toparlamak"
+      ],
+      [
+        "in Ordnung sein",
+        "yolunda / tamam olmak"
+      ]
+    ],
+    "Ort": [
+      [
+        "an einem anderen Ort",
+        "başka bir yerde"
+      ],
+      [
+        "vor Ort sein",
+        "yerinde / olay yerinde olmak"
+      ]
+    ],
+    "Packung": [
+      [
+        "eine Packung öffnen",
+        "bir paketi açmak"
+      ],
+      [
+        "eine Packung Nudeln",
+        "bir paket makarna"
+      ]
+    ],
+    "Papier": [
+      [
+        "ein Blatt Papier",
+        "bir yaprak kâğıt"
+      ],
+      [
+        "auf Papier schreiben",
+        "kâğıda yazmak"
+      ]
+    ],
+    "Park": [
+      [
+        "durch den Park gehen",
+        "parkın içinden geçmek"
+      ],
+      [
+        "im Park spazieren",
+        "parkta yürüyüş yapmak"
+      ]
+    ],
+    "Patient": [
+      [
+        "einen Patienten untersuchen",
+        "bir hastayı muayene etmek"
+      ],
+      [
+        "einem Patienten helfen",
+        "bir hastaya yardım etmek"
+      ]
+    ],
+    "Pergament": [
+      [
+        "auf Pergament schreiben",
+        "parşömene yazmak"
+      ],
+      [
+        "ein Stück Pergament",
+        "bir parça parşömen"
+      ]
+    ],
+    "Pfleger": [
+      [
+        "als Pfleger arbeiten",
+        "hasta bakıcı olarak çalışmak"
+      ],
+      [
+        "einen Pfleger rufen",
+        "bir hasta bakıcıyı çağırmak"
+      ]
+    ],
+    "Pflegerin": [
+      [
+        "als Pflegerin arbeiten",
+        "(kadın) hasta bakıcı olarak çalışmak"
+      ],
+      [
+        "die Pflegerin um Hilfe bitten",
+        "hasta bakıcıdan yardım istemek"
+      ]
+    ],
+    "Plan": [
+      [
+        "einen Plan machen",
+        "plan yapmak"
+      ],
+      [
+        "vom Plan abweichen",
+        "plandan sapmak"
+      ]
+    ],
+    "Preis": [
+      [
+        "einen Preis gewinnen",
+        "ödül kazanmak"
+      ],
+      [
+        "den Preis senken",
+        "fiyatı düşürmek"
+      ],
+      [
+        "der Preis für etwas · für + Akkusativ",
+        "bir şeyin fiyatı"
+      ]
+    ],
+    "Preisexplosion": [
+      [
+        "eine Preisexplosion auslösen",
+        "fiyatların fırlamasına yol açmak"
+      ],
+      [
+        "eine Preisexplosion bei den Mieten",
+        "kiralarda fiyat patlaması"
+      ]
+    ],
+    "Rabatt": [
+      [
+        "Rabatt bekommen",
+        "indirim almak"
+      ],
+      [
+        "einen Rabatt gewähren",
+        "indirim yapmak"
+      ],
+      [
+        "Rabatt auf etwas bekommen · auf + Akkusativ",
+        "bir şeyde indirim almak"
+      ]
+    ],
+    "Rahmen": [
+      [
+        "im Rahmen eines Projekts",
+        "bir proje kapsamında"
+      ],
+      [
+        "ein Bild in einen Rahmen setzen",
+        "bir resmi çerçeveye koymak"
+      ]
+    ],
+    "Recherche": [
+      [
+        "eine Recherche durchführen",
+        "araştırma yapmak"
+      ],
+      [
+        "bei der Recherche helfen",
+        "araştırmada yardımcı olmak"
+      ]
+    ],
+    "Reform": [
+      [
+        "eine Reform einführen",
+        "bir reform başlatmak"
+      ],
+      [
+        "eine Reform durchführen",
+        "bir reformu uygulamak"
+      ]
+    ],
+    "Regel": [
+      [
+        "eine Regel beachten",
+        "bir kurala uymak"
+      ],
+      [
+        "gegen eine Regel verstoßen",
+        "bir kuralı çiğnemek"
+      ]
+    ],
+    "Regen": [
+      [
+        "im Regen stehen",
+        "yağmurda kalmak"
+      ],
+      [
+        "vor dem Regen schützen",
+        "yağmurdan korumak"
+      ]
+    ],
+    "Restaurant": [
+      [
+        "ins Restaurant gehen",
+        "restorana gitmek"
+      ],
+      [
+        "im Restaurant essen",
+        "restoranda yemek"
+      ]
+    ],
+    "Sache": [
+      [
+        "die Sache klären",
+        "meseleyi açıklığa kavuşturmak"
+      ],
+      [
+        "zur Sache kommen",
+        "sadede gelmek"
+      ]
+    ],
+    "Sahne": [
+      [
+        "Sahne schlagen",
+        "krema çırpmak"
+      ],
+      [
+        "ein Schuss Sahne",
+        "biraz krema"
+      ]
+    ],
+    "Satzbau": [
+      [
+        "den Satzbau üben",
+        "cümle yapısı alıştırması yapmak"
+      ],
+      [
+        "den Satzbau verbessern",
+        "cümle yapısını geliştirmek"
+      ]
+    ],
+    "Satzzeichen": [
+      [
+        "ein Satzzeichen setzen",
+        "noktalama işareti koymak"
+      ],
+      [
+        "ein fehlendes Satzzeichen ergänzen",
+        "eksik bir noktalama işaretini eklemek"
+      ]
+    ],
+    "Schluss": [
+      [
+        "zum Schluss noch etwas sagen",
+        "son olarak bir şey daha söylemek"
+      ],
+      [
+        "Schluss machen",
+        "bitirmek / ayrılmak"
+      ]
+    ],
+    "Schriftsteller": [
+      [
+        "als Schriftsteller arbeiten",
+        "yazar olarak çalışmak"
+      ],
+      [
+        "ein bekannter Schriftsteller",
+        "tanınmış bir yazar"
+      ]
+    ],
+    "Seeweg": [
+      [
+        "auf dem Seeweg transportieren",
+        "deniz yoluyla taşımak"
+      ],
+      [
+        "einen Seeweg entdecken",
+        "bir deniz yolu keşfetmek"
+      ]
+    ],
+    "Seitentaste": [
+      [
+        "die Seitentaste drücken",
+        "yan tuşa basmak"
+      ],
+      [
+        "die Seitentaste gedrückt halten",
+        "yan tuşu basılı tutmak"
+      ]
+    ],
+    "Sohn": [
+      [
+        "mit seinem Sohn sprechen",
+        "oğluyla konuşmak"
+      ],
+      [
+        "der Sohn der Nachbarin",
+        "komşunun oğlu"
+      ]
+    ],
+    "Sonstige": [
+      [
+        "unter Sonstige einordnen",
+        "\"Diğer\" altında sınıflandırmak"
+      ],
+      [
+        "in der Kategorie Sonstige",
+        "\"Diğer\" kategorisinde"
+      ]
+    ],
+    "Speicher": [
+      [
+        "den Speicher leeren",
+        "depolama alanını boşaltmak"
+      ],
+      [
+        "eine Datei im Speicher ablegen",
+        "bir dosyayı belleğe kaydetmek"
+      ]
+    ],
+    "Speise": [
+      [
+        "eine Speise zubereiten",
+        "bir yemek hazırlamak"
+      ],
+      [
+        "warme Speisen anbieten",
+        "sıcak yemekler sunmak"
+      ]
+    ],
+    "Spinne": [
+      [
+        "eine Spinne im Zimmer",
+        "odada bir örümcek"
+      ],
+      [
+        "Angst vor Spinnen haben",
+        "örümceklerden korkmak"
+      ]
+    ],
+    "Spinnen": [
+      [
+        "das Spinnen von Wolle",
+        "yün eğirme"
+      ],
+      [
+        "das Spinnen lernen",
+        "iplik eğirmeyi öğrenmek"
+      ]
+    ],
+    "Stelle": [
+      [
+        "eine freie Stelle",
+        "boş bir iş pozisyonu"
+      ],
+      [
+        "eine Stelle im Text markieren",
+        "metinde bir yeri işaretlemek"
+      ],
+      [
+        "jemandes Stelle einnehmen",
+        "birinin yerini / pozisyonunu almak"
+      ]
+    ],
+    "Stock": [
+      [
+        "im zweiten Stock",
+        "ikinci katta"
+      ],
+      [
+        "sich auf einen Stock stützen",
+        "bir bastona dayanmak"
+      ]
+    ],
+    "Student": [
+      [
+        "einem Studenten helfen",
+        "bir öğrenciye yardım etmek"
+      ],
+      [
+        "mit den Studenten sprechen",
+        "öğrencilerle konuşmak"
+      ]
+    ],
+    "Supermarkt": [
+      [
+        "im Supermarkt einkaufen",
+        "süpermarketten alışveriş yapmak"
+      ],
+      [
+        "zum Supermarkt gehen",
+        "süpermarkete gitmek"
+      ]
+    ],
+    "Tag": [
+      [
+        "den ganzen Tag",
+        "bütün gün"
+      ],
+      [
+        "jeden Tag lernen",
+        "her gün çalışmak / öğrenmek"
+      ]
+    ],
+    "Tante": [
+      [
+        "bei ihrer Tante wohnen",
+        "teyzesinin / halasının yanında kalmak"
+      ],
+      [
+        "die Tante besuchen",
+        "teyzeyi / halayı ziyaret etmek"
+      ]
+    ],
+    "Taste": [
+      [
+        "eine Taste drücken",
+        "bir tuşa basmak"
+      ],
+      [
+        "die Taste gedrückt halten",
+        "tuşu basılı tutmak"
+      ]
+    ],
+    "Tätigkeit": [
+      [
+        "eine Tätigkeit ausüben",
+        "bir iş / faaliyet yürütmek"
+      ],
+      [
+        "eine berufliche Tätigkeit",
+        "mesleki bir faaliyet"
+      ]
+    ],
+    "Telefon": [
+      [
+        "am Telefon sprechen",
+        "telefonda konuşmak"
+      ],
+      [
+        "ohne sein Telefon ausgehen",
+        "telefonsuz dışarı çıkmak"
+      ]
+    ],
+    "Theatermaler": [
+      [
+        "als Theatermaler arbeiten",
+        "tiyatro ressamı olarak çalışmak"
+      ],
+      [
+        "ein Theatermaler am Schauspielhaus",
+        "tiyatroda bir dekor ressamı"
+      ]
+    ],
+    "Thema": [
+      [
+        "über ein Thema sprechen",
+        "bir konu hakkında konuşmak"
+      ],
+      [
+        "beim Thema bleiben",
+        "konudan sapmamak"
+      ]
+    ],
+    "Treppe": [
+      [
+        "die Treppe hinaufgehen",
+        "merdivenden çıkmak"
+      ],
+      [
+        "auf der Treppe stehen",
+        "merdivende durmak"
+      ]
+    ],
+    "Tür": [
+      [
+        "die Tür öffnen",
+        "kapıyı açmak"
+      ],
+      [
+        "durch die Tür gehen",
+        "kapıdan geçmek"
+      ]
+    ],
+    "Übergang": [
+      [
+        "der Übergang von etwas zu etwas (Dativ)",
+        "bir şeyden başka bir şeye geçiş"
+      ],
+      [
+        "den Übergang erleichtern",
+        "geçişi kolaylaştırmak"
+      ]
+    ],
+    "Unterhaltung": [
+      [
+        "eine Unterhaltung führen",
+        "sohbet etmek"
+      ],
+      [
+        "für Unterhaltung sorgen",
+        "eğlence sağlamak"
+      ]
+    ],
+    "Unternehmen": [
+      [
+        "in einem Unternehmen arbeiten",
+        "bir şirkette çalışmak"
+      ],
+      [
+        "ein Unternehmen gründen",
+        "bir şirket kurmak"
+      ]
+    ],
+    "Veränderung": [
+      [
+        "eine Veränderung bemerken",
+        "bir değişikliği fark etmek"
+      ],
+      [
+        "zu Veränderungen führen",
+        "değişikliklere yol açmak"
+      ]
+    ],
+    "Verbindung": [
+      [
+        "eine Verbindung herstellen",
+        "bağlantı kurmak"
+      ],
+      [
+        "in Verbindung bleiben",
+        "iletişimde kalmak"
+      ]
+    ],
+    "Verbreitung": [
+      [
+        "die Verbreitung von Wissen",
+        "bilginin yayılması"
+      ],
+      [
+        "zur Verbreitung beitragen",
+        "yayılmasına katkıda bulunmak"
+      ],
+      [
+        "zur Verbreitung beitragen · zu + Dativ",
+        "yayılmaya katkıda bulunmak"
+      ]
+    ],
+    "Verfahren": [
+      [
+        "ein Verfahren anwenden",
+        "bir yöntem uygulamak"
+      ],
+      [
+        "ein neues Verfahren entwickeln",
+        "yeni bir yöntem geliştirmek"
+      ]
+    ],
+    "Vergangenheit": [
+      [
+        "in der Vergangenheit leben",
+        "geçmişte yaşamak"
+      ],
+      [
+        "aus der Vergangenheit lernen",
+        "geçmişten ders almak"
+      ]
+    ],
+    "Verkauf": [
+      [
+        "zum Verkauf stehen",
+        "satılık olmak"
+      ],
+      [
+        "der Verkauf von Waren",
+        "malların satışı"
+      ]
+    ],
+    "Verkehrssystem": [
+      [
+        "das öffentliche Verkehrssystem",
+        "toplu taşıma sistemi"
+      ],
+      [
+        "das Verkehrssystem verbessern",
+        "ulaşım sistemini iyileştirmek"
+      ]
+    ],
+    "Verlag": [
+      [
+        "ein Buch im Verlag veröffentlichen",
+        "bir yayınevinde kitap yayımlamak"
+      ],
+      [
+        "mit einem Verlag zusammenarbeiten",
+        "bir yayınevi ile çalışmak"
+      ]
+    ],
+    "Versand": [
+      [
+        "der Versand der Ware",
+        "malın gönderimi"
+      ],
+      [
+        "etwas für den Versand vorbereiten",
+        "bir şeyi gönderime hazırlamak"
+      ]
+    ],
+    "Verspätung": [
+      [
+        "Verspätung haben",
+        "gecikmek / rötar yapmak"
+      ],
+      [
+        "mit Verspätung ankommen",
+        "gecikmeli varmak"
+      ]
+    ],
+    "Vervielfältigung": [
+      [
+        "die Vervielfältigung eines Dokuments",
+        "bir belgenin çoğaltılması"
+      ],
+      [
+        "zur Vervielfältigung freigeben",
+        "çoğaltılmasına izin vermek"
+      ]
+    ],
+    "Verwandte": [
+      [
+        "die Verwandten besuchen",
+        "akrabaları ziyaret etmek"
+      ],
+      [
+        "mit einem Verwandten sprechen",
+        "bir akrabayla konuşmak"
+      ]
+    ],
+    "Vollbildschirm": [
+      [
+        "im Vollbildschirm anzeigen",
+        "tam ekranda göstermek"
+      ],
+      [
+        "in den Vollbildschirm wechseln",
+        "tam ekrana geçmek"
+      ]
+    ],
+    "Vollpreisartikel": [
+      [
+        "einen Vollpreisartikel kaufen",
+        "indirimsiz bir ürün almak"
+      ],
+      [
+        "Rabatt auf Vollpreisartikel",
+        "indirimsiz ürünlerde indirim"
+      ]
+    ],
+    "Vorlesung": [
+      [
+        "eine Vorlesung besuchen",
+        "bir derse (üniversitede) katılmak"
+      ],
+      [
+        "in der Vorlesung mitschreiben",
+        "derste not almak"
+      ]
+    ],
+    "Vorschlag": [
+      [
+        "einen Vorschlag machen",
+        "bir öneride bulunmak"
+      ],
+      [
+        "einem Vorschlag zustimmen",
+        "bir öneriyi kabul etmek"
+      ]
+    ],
+    "Wand": [
+      [
+        "an der Wand hängen",
+        "duvarda asılı olmak"
+      ],
+      [
+        "etwas an die Wand hängen",
+        "bir şeyi duvara asmak"
+      ]
+    ],
+    "Warteschlange": [
+      [
+        "in der Warteschlange stehen",
+        "kuyrukta beklemek"
+      ],
+      [
+        "sich in die Warteschlange stellen",
+        "kuyruğa girmek"
+      ]
+    ],
+    "Wasser": [
+      [
+        "ein Glas Wasser",
+        "bir bardak su"
+      ],
+      [
+        "Wasser kochen",
+        "su kaynatmak"
+      ]
+    ],
+    "Weg": [
+      [
+        "nach dem Weg fragen",
+        "yol sormak"
+      ],
+      [
+        "auf dem Weg zur Arbeit",
+        "işe giderken"
+      ]
+    ],
+    "Weihnachten": [
+      [
+        "zu Weihnachten",
+        "Noel'de"
+      ],
+      [
+        "Weihnachten feiern",
+        "Noel kutlamak"
+      ]
+    ],
+    "Weiterbildung": [
+      [
+        "eine Weiterbildung machen",
+        "mesleki eğitim almak"
+      ],
+      [
+        "an einer Weiterbildung teilnehmen",
+        "bir mesleki eğitime katılmak"
+      ]
+    ],
+    "Welt": [
+      [
+        "auf der ganzen Welt",
+        "bütün dünyada"
+      ],
+      [
+        "um die Welt reisen",
+        "dünyayı dolaşmak"
+      ]
+    ],
+    "Weltmeister": [
+      [
+        "Weltmeister werden",
+        "dünya şampiyonu olmak"
+      ],
+      [
+        "gegen den Weltmeister spielen",
+        "dünya şampiyonuna karşı oynamak"
+      ]
+    ],
+    "Werbemaler": [
+      [
+        "als Werbemaler arbeiten",
+        "reklam ressamı olarak çalışmak"
+      ],
+      [
+        "ein Auftrag für den Werbemaler",
+        "reklam ressamı için bir sipariş"
+      ]
+    ],
+    "Winterzeit": [
+      [
+        "auf Winterzeit umstellen",
+        "kış saatine geçmek"
+      ],
+      [
+        "in der Winterzeit",
+        "kış saatinde"
+      ]
+    ],
+    "Wirtschaft": [
+      [
+        "die Wirtschaft wächst",
+        "ekonomi büyüyor"
+      ],
+      [
+        "die Wirtschaft ankurbeln",
+        "ekonomiyi canlandırmak"
+      ]
+    ],
+    "Wissen": [
+      [
+        "Wissen erwerben",
+        "bilgi edinmek"
+      ],
+      [
+        "Wissen weitergeben",
+        "bilgiyi aktarmak"
+      ]
+    ],
+    "Wochenende": [
+      [
+        "am Wochenende",
+        "hafta sonunda"
+      ],
+      [
+        "übers Wochenende verreisen",
+        "hafta sonu seyahate çıkmak"
+      ]
+    ],
+    "Zeichnung": [
+      [
+        "eine Zeichnung anfertigen",
+        "bir çizim yapmak"
+      ],
+      [
+        "eine Zeichnung betrachten",
+        "bir çizimi incelemek"
+      ]
+    ],
+    "Zeile": [
+      [
+        "eine Zeile lesen",
+        "bir satır okumak"
+      ],
+      [
+        "in der nächsten Zeile",
+        "bir sonraki satırda"
+      ]
+    ],
+    "Zeit": [
+      [
+        "Zeit haben",
+        "vakti olmak"
+      ],
+      [
+        "sich Zeit nehmen",
+        "acele etmemek / zaman ayırmak"
+      ],
+      [
+        "Zeit haben für etwas · für + Akkusativ",
+        "bir şey için vakti olmak"
+      ],
+      [
+        "noch Zeit haben",
+        "hâlâ vakti olmak"
+      ],
+      [
+        "Wie viel Zeit haben wir noch?",
+        "Daha ne kadar vaktimiz var?"
+      ]
+    ],
+    "Zeitumstellung": [
+      [
+        "nach der Zeitumstellung",
+        "saat değişikliğinden sonra"
+      ],
+      [
+        "die Zeitumstellung im Herbst",
+        "sonbahardaki saat değişikliği"
+      ]
+    ],
+    "Zeitverschwendung": [
+      [
+        "reine Zeitverschwendung",
+        "tamamen zaman kaybı"
+      ],
+      [
+        "etwas als Zeitverschwendung ansehen",
+        "bir şeyi zaman kaybı saymak"
+      ]
+    ],
+    "Zerlegung": [
+      [
+        "die Zerlegung in Teile (Akkusativ)",
+        "parçalara ayırma"
+      ],
+      [
+        "mit der Zerlegung beginnen",
+        "parçalamaya başlamak"
+      ]
+    ],
+    "Zugang": [
+      [
+        "Zugang zu etwas haben (Dativ)",
+        "bir şeye erişimi olmak"
+      ],
+      [
+        "den Zugang sperren",
+        "erişimi engellemek"
+      ]
+    ],
+    "Zukunft": [
+      [
+        "in Zukunft",
+        "gelecekte / bundan sonra"
+      ],
+      [
+        "in die Zukunft blicken",
+        "geleceğe bakmak"
+      ]
+    ],
+    "Zusammenfassung": [
+      [
+        "eine Zusammenfassung schreiben",
+        "bir özet yazmak"
+      ],
+      [
+        "eine kurze Zusammenfassung geben",
+        "kısa bir özet vermek"
+      ]
+    ],
+    "Werbung": [
+      [
+        "Werbung für etwas machen · für + Akkusativ",
+        "bir şeyin reklamını yapmak"
+      ]
+    ],
+    "Pressefreiheit": [
+      [
+        "für die Pressefreiheit kämpfen · für + Akkusativ",
+        "basın özgürlüğü için mücadele etmek"
+      ]
+    ],
+    "Zielgruppe": [
+      [
+        "sich an eine Zielgruppe richten · an + Akkusativ",
+        "bir hedef kitleye yönelmek"
+      ]
+    ],
+    "Werbekampagne": [
+      [
+        "eine Werbekampagne starten",
+        "reklam kampanyası başlatmak"
+      ]
+    ],
+    "Konsument": [
+      [
+        "bei den Konsumenten Wünsche wecken",
+        "tüketicilerde istek uyandırmak"
+      ]
+    ],
+    "Wunsch": [
+      [
+        "einen Wunsch erfüllen",
+        "bir isteği yerine getirmek"
+      ],
+      [
+        "der Wunsch nach etwas · nach + Dativ",
+        "bir şeye duyulan istek"
+      ]
+    ],
+    "Erfüllung": [
+      [
+        "in Erfüllung gehen · in + Akkusativ",
+        "gerçekleşmek"
+      ]
+    ],
+    "Traum": [
+      [
+        "mit Träumen spielen · mit + Dativ",
+        "hayallerle oynamak"
+      ]
+    ],
+    "Auftrag": [
+      [
+        "den Auftrag übernehmen",
+        "görevi üstlenmek"
+      ]
+    ],
+    "Produkt": [
+      [
+        "ein Produkt herstellen",
+        "bir ürün üretmek"
+      ],
+      [
+        "ein Produkt vorstellen",
+        "bir ürünü tanıtmak"
+      ]
+    ],
+    "Marke": [
+      [
+        "etwas als Marke etablieren",
+        "bir şeyi marka olarak yerleştirmek"
+      ]
+    ],
+    "Kontrolle": [
+      [
+        "unter Kontrolle stehen · unter + Dativ",
+        "denetim altında olmak"
+      ],
+      [
+        "die Kontrolle über etwas haben · über + Akkusativ",
+        "bir şey üzerinde denetime sahip olmak"
+      ]
+    ],
+    "Bezahlung": [
+      [
+        "gegen Bezahlung",
+        "ücret karşılığı"
+      ]
+    ],
+    "Maßnahme": [
+      [
+        "Maßnahmen ergreifen",
+        "önlem almak"
+      ]
+    ],
+    "Einführung": [
+      [
+        "nach der Einführung",
+        "uygulamaya konmasından sonra"
+      ]
+    ],
+    "Meinung": [
+      [
+        "der Meinung sein",
+        "görüşünde olmak"
+      ],
+      [
+        "meiner Meinung nach",
+        "bence"
+      ]
+    ],
+    "Entwicklung": [
+      [
+        "eine Entwicklung durchmachen",
+        "bir gelişim sürecinden geçmek"
+      ]
+    ],
+    "Absatzförderung": [
+      [
+        "zur Absatzförderung dienen · zu + Dativ",
+        "satış teşvikine hizmet etmek"
+      ]
+    ],
+    "Werbezeitung": [
+      [
+        "in einer Werbezeitung eintragen",
+        "reklam gazetesine kaydettirmek"
+      ]
+    ],
+    "Job": [
+      [
+        "einen Job verlieren",
+        "işini kaybetmek"
+      ],
+      [
+        "jemandem den Job wegnehmen",
+        "birinin işini elinden almak"
+      ]
+    ],
+    "Arbeitsplatz": [
+      [
+        "den Arbeitsplatz verlieren",
+        "işini kaybetmek"
+      ]
+    ],
+    "Garantie": [
+      [
+        "Garantie auf etwas haben · auf + Akkusativ",
+        "bir şeyin garantisi olmak"
+      ],
+      [
+        "zwei Jahre Garantie haben",
+        "iki yıl garantisi olmak"
+      ]
+    ],
+    "Anfänger": [
+      [
+        "für Anfänger geeignet sein · für + Akkusativ",
+        "yeni başlayanlar için uygun olmak"
+      ]
+    ],
+    "Wolle": [
+      [
+        "aus Wolle bestehen · aus + Dativ",
+        "yünden oluşmak"
+      ]
+    ],
+    "Baumwolle": [
+      [
+        "aus Baumwolle bestehen · aus + Dativ",
+        "pamuktan oluşmak"
+      ]
+    ],
+    "Umtauschmöglichkeit": [
+      [
+        "eine Umtauschmöglichkeit haben",
+        "değiştirme imkânı olmak"
+      ]
+    ],
+    "Liefertermin": [
+      [
+        "den Liefertermin vereinbaren",
+        "teslim tarihini kararlaştırmak"
+      ]
+    ],
+    "Tank": [
+      [
+        "mit vollem Tank fahren · mit + Dativ",
+        "dolu depoyla gitmek"
+      ]
+    ],
+    "Gefrierfach": [
+      [
+        "ein eingebautes Gefrierfach",
+        "yerleşik dondurucu bölmesi"
+      ]
+    ],
+    "Interesse": [
+      [
+        "Interesse an etwas haben · an + Dativ",
+        "bir şeye ilgi duymak"
+      ]
+    ],
+    "Hoffnung": [
+      [
+        "Hoffnung auf etwas haben · auf + Akkusativ",
+        "bir şeyden umutlu olmak"
+      ]
+    ],
+    "Sorge": [
+      [
+        "sich Sorgen um jemanden machen · um + Akkusativ",
+        "biri için endişelenmek"
+      ]
+    ],
+    "Erfahrung": [
+      [
+        "Erfahrungen mit etwas machen · mit + Dativ",
+        "bir şeyle ilgili deneyim yaşamak"
+      ]
+    ],
+    "Problem": [
+      [
+        "ein Problem lösen",
+        "bir sorunu çözmek"
+      ],
+      [
+        "ein Problem mit etwas haben · mit + Dativ",
+        "bir şeyle sorunu olmak"
+      ]
+    ],
+    "Entscheidung": [
+      [
+        "eine Entscheidung treffen",
+        "karar vermek"
+      ]
+    ],
+    "Termin": [
+      [
+        "einen Termin vereinbaren",
+        "randevu ayarlamak"
+      ],
+      [
+        "einen Termin absagen",
+        "randevuyu iptal etmek"
+      ]
+    ],
+    "Vertrag": [
+      [
+        "einen Vertrag abschließen",
+        "sözleşme yapmak"
+      ],
+      [
+        "einen Vertrag unterschreiben",
+        "sözleşmeyi imzalamak"
+      ]
+    ],
+    "Bewerbung": [
+      [
+        "eine Bewerbung schreiben",
+        "başvuru yazmak"
+      ],
+      [
+        "sich mit einer Bewerbung melden",
+        "başvuruyla iletişime geçmek"
+      ]
+    ],
+    "Urlaub": [
+      [
+        "Urlaub machen",
+        "tatil yapmak"
+      ],
+      [
+        "im Urlaub sein",
+        "izinde olmak"
+      ]
+    ],
+    "Reise": [
+      [
+        "eine Reise planen",
+        "bir seyahat planlamak"
+      ],
+      [
+        "auf Reisen gehen",
+        "seyahate çıkmak"
+      ]
+    ],
+    "Prüfung": [
+      [
+        "eine Prüfung bestehen",
+        "bir sınavı geçmek"
+      ],
+      [
+        "durch die Prüfung fallen",
+        "sınavdan kalmak"
+      ]
+    ],
+    "Fehler": [
+      [
+        "einen Fehler machen",
+        "hata yapmak"
+      ]
+    ],
+    "Hilfe": [
+      [
+        "um Hilfe bitten · um + Akkusativ",
+        "yardım istemek"
+      ]
+    ],
+    "Rat": [
+      [
+        "jemanden um Rat bitten · um + Akkusativ",
+        "birinden tavsiye istemek"
+      ]
+    ],
+    "Gefahr": [
+      [
+        "in Gefahr sein",
+        "tehlikede olmak"
+      ]
+    ],
+    "Rechnung": [
+      [
+        "die Rechnung bezahlen",
+        "faturayı ödemek"
+      ]
+    ],
+    "Kontakt": [
+      [
+        "Kontakt mit jemandem aufnehmen · mit + Dativ",
+        "biriyle iletişime geçmek"
+      ]
+    ],
+    "Platz": [
+      [
+        "Platz nehmen",
+        "yer almak; oturmak"
+      ]
+    ],
+    "Unterricht": [
+      [
+        "Wie lange haben wir noch Unterricht?",
+        "Daha ne kadar dersimiz var?"
+      ]
+    ],
+    "Grad": [
+      [
+        "Wie viel Grad sind es?",
+        "Kaç derece?"
+      ]
+    ]
+  },
+  "adverbs": {
+    "anschließend": [
+      "danach"
+    ],
+    "damals": [
+      "zu jener Zeit"
+    ],
+    "damit": [
+      "dadurch (sonuç anlamında)"
+    ],
+    "demnächst": [
+      "in nächster Zeit"
+    ],
+    "dort": [
+      "da"
+    ],
+    "eben": [
+      "gerade (az önce anlamında)"
+    ],
+    "ebenfalls": [
+      "auch"
+    ],
+    "eigentlich": [
+      "im Grunde"
+    ],
+    "einst": [
+      "früher (geçmiş anlamında)"
+    ],
+    "erneut": [
+      "wieder"
+    ],
+    "etwa": [
+      "ungefähr (miktar belirtirken)"
+    ],
+    "gern": [
+      "mit Vergnügen"
+    ],
+    "gestern": [
+      "am Vortag (anlatılan güne göre)"
+    ],
+    "gratis": [
+      "kostenlos"
+    ],
+    "heute": [
+      "an diesem Tag (bağlamdaki gün)"
+    ],
+    "heutzutage": [
+      "in der heutigen Zeit"
+    ],
+    "hier": [
+      "an diesem Ort"
+    ],
+    "immer": [
+      "jederzeit (herhangi bir zamanda anlamında)"
+    ],
+    "insgesamt": [
+      "alles in allem"
+    ],
+    "jetzt": [
+      "nun"
+    ],
+    "kürzlich": [
+      "vor Kurzem"
+    ],
+    "momentan": [
+      "zurzeit"
+    ],
+    "morgen": [
+      "am nächsten Tag (anlatılan güne göre)"
+    ],
+    "nachher": [
+      "später"
+    ],
+    "neulich": [
+      "vor Kurzem"
+    ],
+    "nirgendwo": [
+      "nirgends"
+    ],
+    "noch": [
+      "weiterhin (sürme anlamında)"
+    ],
+    "nun": [
+      "jetzt"
+    ],
+    "oben": [
+      "weiter oben"
+    ],
+    "oft": [
+      "häufig"
+    ],
+    "schon": [
+      "bereits"
+    ],
+    "sofort": [
+      "unverzüglich"
+    ],
+    "ungefähr": [
+      "circa"
+    ],
+    "unbedingt": [
+      "auf jeden Fall"
+    ],
+    "vermutlich": [
+      "wahrscheinlich"
+    ],
+    "vorgestern": [
+      "vor zwei Tagen"
+    ],
+    "vorhin": [
+      "vor kurzer Zeit"
+    ],
+    "wenig": [
+      "nicht viel"
+    ],
+    "zurück": [
+      "wieder an den Ausgangspunkt (yön anlamında)"
+    ],
+    "zuletzt": [
+      "als Letztes (sıra anlamında)"
+    ]
+  },
+  "verbs": {
+    "eingeben": [
+      "gab ein",
+      "hat eingegeben"
+    ],
+    "hinweisen": [
+      "wies hin",
+      "hat hingewiesen"
+    ],
+    "anzeigen": [
+      "zeigte an",
+      "hat angezeigt"
+    ],
+    "abbrechen": [
+      "brach ab",
+      "hat abgebrochen"
+    ],
+    "eine Ausbildung machen": [
+      "machte eine Ausbildung",
+      "hat eine Ausbildung gemacht"
+    ],
+    "abbilden": [
+      "bildete ab",
+      "hat abgebildet"
+    ],
+    "herumlaufen": [
+      "lief herum",
+      "ist herumgelaufen"
+    ],
+    "aufstehen": [
+      "stand auf",
+      "ist aufgestanden"
+    ],
+    "einstellen": [
+      "stellte ein",
+      "hat eingestellt"
+    ],
+    "stattfinden": [
+      "fand statt",
+      "hat stattgefunden"
+    ],
+    "ausstellen": [
+      "stellte aus",
+      "hat ausgestellt"
+    ],
+    "ausüben": [
+      "übte aus",
+      "hat ausgeübt"
+    ],
+    "sich vorstellen": [
+      "stellte sich vor",
+      "hat sich vorgestellt"
+    ],
+    "zusammenrechnen": [
+      "rechnete zusammen",
+      "hat zusammengerechnet"
+    ],
+    "anfragen": [
+      "fragte an",
+      "hat angefragt"
+    ],
+    "ausblenden": [
+      "blendete aus",
+      "hat ausgeblendet"
+    ],
+    "aufwachsen": [
+      "wuchs auf",
+      "ist aufgewachsen"
+    ],
+    "losfahren": [
+      "fuhr los",
+      "ist losgefahren"
+    ],
+    "ablösen": [
+      "löste ab",
+      "hat abgelöst"
+    ],
+    "anregen": [
+      "regte an",
+      "hat angeregt"
+    ],
+    "anstehen": [
+      "stand an",
+      "hat angestanden"
+    ],
+    "beeilen": [
+      "beeilte sich",
+      "hat sich beeilt"
+    ],
+    "hinzufügen": [
+      "fügte hinzu",
+      "hat hinzugefügt"
+    ],
+    "achten": [
+      "achtete",
+      "hat geachtet"
+    ],
+    "mitkommen": [
+      "kam mit",
+      "ist mitgekommen"
+    ],
+    "zugeben": [
+      "gab zu",
+      "hat zugegeben"
+    ],
+    "zustimmen": [
+      "stimmte zu",
+      "hat zugestimmt"
+    ],
+    "mitgehen": [
+      "ging mit",
+      "ist mitgegangen"
+    ],
+    "zumachen": [
+      "machte zu",
+      "hat zugemacht"
+    ],
+    "einkaufen": [
+      "kaufte ein",
+      "hat eingekauft"
+    ],
+    "zunehmen": [
+      "nahm zu",
+      "hat zugenommen"
+    ],
+    "mitbringen": [
+      "brachte mit",
+      "hat mitgebracht"
+    ],
+    "anrufen": [
+      "rief an",
+      "hat angerufen"
+    ],
+    "einladen": [
+      "lud ein",
+      "hat eingeladen"
+    ],
+    "zuhören": [
+      "hörte zu",
+      "hat zugehört"
+    ],
+    "abgeben": [
+      "gab ab",
+      "hat abgegeben"
+    ],
+    "sich erkundigen": [
+      "erkundigte sich",
+      "hat sich erkundigt"
+    ],
+    "geboren werden": [
+      "wurde geboren",
+      "ist geboren worden"
+    ],
+    "anfordern": [
+      "forderte an",
+      "hat angefordert"
+    ],
+    "sich bedanken": [
+      "bedankte sich",
+      "hat sich bedankt"
+    ],
+    "beitragen": [
+      "trug bei",
+      "hat beigetragen"
+    ],
+    "umdenken": [
+      "dachte um",
+      "hat umgedacht"
+    ],
+    "zusammenfügen": [
+      "fügte zusammen",
+      "hat zusammengefügt"
+    ],
+    "abschreiben": [
+      "schrieb ab",
+      "hat abgeschrieben"
+    ],
+    "einfügen": [
+      "fügte ein",
+      "hat eingefügt"
+    ],
+    "herstellen": [
+      "stellte her",
+      "hat hergestellt"
+    ],
+    "vorschlagen": [
+      "schlug vor",
+      "hat vorgeschlagen"
+    ],
+    "gefallen": [
+      "gefiel",
+      "hat gefallen"
+    ],
+    "hängen": [
+      "hing (asılı olmak) / hängte (asmak)",
+      "hat gehangen (asılı olmak) / hat gehängt (asmak)"
+    ]
+  },
+  "verbPatterns": {
+    "achten": [
+      [
+        "auf etwas achten · auf + Akkusativ",
+        "bir şeye dikkat etmek"
+      ]
+    ],
+    "antworten": [
+      [
+        "auf eine Frage antworten · auf + Akkusativ",
+        "bir soruya cevap vermek"
+      ]
+    ],
+    "anrufen": [
+      [
+        "bei einer Firma anrufen · bei + Dativ",
+        "bir firmayı (telefonla) aramak"
+      ],
+      [
+        "jemanden anrufen · Akkusativ",
+        "birini telefonla aramak"
+      ],
+      [
+        "jemanden anrufen (Akkusativ)",
+        "birini aramak"
+      ]
+    ],
+    "arbeiten": [
+      [
+        "an einem Projekt arbeiten · an + Dativ",
+        "bir proje üzerinde çalışmak"
+      ],
+      [
+        "bei einer Firma arbeiten · bei + Dativ",
+        "bir firmada çalışmak"
+      ],
+      [
+        "als Verkäufer arbeiten",
+        "satış elemanı olarak çalışmak"
+      ]
+    ],
+    "aufhören": [
+      [
+        "mit etwas aufhören · mit + Dativ",
+        "bir şeyi bırakmak / bir şeye son vermek"
+      ]
+    ],
+    "ausgeben": [
+      [
+        "Geld für etwas ausgeben · für + Akkusativ",
+        "bir şeye para harcamak"
+      ]
+    ],
+    "beitragen": [
+      [
+        "zu etwas beitragen · zu + Dativ",
+        "bir şeye katkıda bulunmak"
+      ]
+    ],
+    "benachrichtigen": [
+      [
+        "jemanden über etwas benachrichtigen · über + Akkusativ",
+        "birini bir şey hakkında bilgilendirmek"
+      ]
+    ],
+    "berichten": [
+      [
+        "über etwas berichten · über + Akkusativ",
+        "bir şey hakkında haber vermek / anlatmak"
+      ]
+    ],
+    "bitten": [
+      [
+        "jemanden um etwas bitten · um + Akkusativ",
+        "birinden bir şey rica etmek"
+      ]
+    ],
+    "danken": [
+      [
+        "jemandem für etwas danken · für + Akkusativ",
+        "birine bir şey için teşekkür etmek"
+      ]
+    ],
+    "denken": [
+      [
+        "an etwas denken · an + Akkusativ",
+        "bir şeyi düşünmek / aklında tutmak"
+      ],
+      [
+        "an jemanden denken · an + Akkusativ",
+        "birini düşünmek"
+      ],
+      [
+        "über etwas nachdenken · über + Akkusativ",
+        "bir şey üzerinde düşünmek"
+      ]
+    ],
+    "einladen": [
+      [
+        "jemanden zu einer Feier einladen · zu + Dativ",
+        "birini bir kutlamaya davet etmek"
+      ],
+      [
+        "jemanden zu etwas einladen · zu + Dativ",
+        "birini bir şeye davet etmek"
+      ]
+    ],
+    "einfügen": [
+      [
+        "etwas in einen Text einfügen · in + Akkusativ",
+        "bir metne bir şey eklemek"
+      ]
+    ],
+    "erfahren": [
+      [
+        "etwas von jemandem erfahren · von + Dativ",
+        "bir şeyi birinden öğrenmek / duymak"
+      ]
+    ],
+    "erzählen": [
+      [
+        "jemandem von etwas erzählen · von + Dativ",
+        "birine bir şeyden bahsetmek"
+      ],
+      [
+        "von etwas erzählen · von + Dativ",
+        "bir şeyden söz etmek"
+      ]
+    ],
+    "fragen": [
+      [
+        "nach etwas fragen · nach + Dativ",
+        "bir şeyi sormak"
+      ]
+    ],
+    "führen": [
+      [
+        "zu etwas führen · zu + Dativ",
+        "bir şeye yol açmak"
+      ]
+    ],
+    "fürchten": [
+      [
+        "sich vor etwas fürchten · vor + Dativ",
+        "bir şeyden korkmak"
+      ]
+    ],
+    "gehören": [
+      [
+        "zu etwas gehören · zu + Dativ",
+        "bir şeye ait olmak / dahil olmak"
+      ],
+      [
+        "jemandem gehören (Dativ)",
+        "birine ait olmak"
+      ]
+    ],
+    "gelten": [
+      [
+        "als zuverlässig gelten",
+        "güvenilir sayılmak"
+      ],
+      [
+        "für alle gelten · für + Akkusativ",
+        "herkes için geçerli olmak"
+      ]
+    ],
+    "handeln": [
+      [
+        "von etwas handeln · von + Dativ",
+        "bir şeyi konu almak (kitap, film)"
+      ],
+      [
+        "es handelt sich um etwas · um + Akkusativ",
+        "söz konusu olan bir şeydir"
+      ],
+      [
+        "mit etwas handeln · mit + Dativ",
+        "bir şeyin ticaretini yapmak"
+      ]
+    ],
+    "hinweisen": [
+      [
+        "auf etwas hinweisen · auf + Akkusativ",
+        "bir şeye dikkat çekmek"
+      ]
+    ],
+    "hoffen": [
+      [
+        "auf eine Antwort hoffen · auf + Akkusativ",
+        "bir cevap ummak"
+      ]
+    ],
+    "leiden": [
+      [
+        "unter etwas leiden · unter + Dativ",
+        "bir şeyden (dertten) muzdarip olmak"
+      ],
+      [
+        "an einer Krankheit leiden · an + Dativ",
+        "bir hastalıktan muzdarip olmak"
+      ]
+    ],
+    "passen": [
+      [
+        "zu etwas passen · zu + Dativ",
+        "bir şeye uymak / yakışmak"
+      ],
+      [
+        "gut zu etwas passen · zu + Dativ",
+        "bir şeyle iyi uyumlu olmak"
+      ],
+      [
+        "in etwas passen · in + Akkusativ",
+        "bir şeye sığmak"
+      ]
+    ],
+    "reagieren": [
+      [
+        "auf etwas reagieren · auf + Akkusativ",
+        "bir şeye tepki vermek"
+      ]
+    ],
+    "reden": [
+      [
+        "mit jemandem reden · mit + Dativ",
+        "biriyle konuşmak"
+      ],
+      [
+        "über etwas reden · über + Akkusativ",
+        "bir şey hakkında konuşmak"
+      ]
+    ],
+    "sich bedanken": [
+      [
+        "sich bei jemandem bedanken · bei + Dativ",
+        "birine teşekkür etmek"
+      ],
+      [
+        "sich für etwas bedanken · für + Akkusativ",
+        "bir şey için teşekkür etmek"
+      ]
+    ],
+    "sich beeilen": [
+      [
+        "sich mit etwas beeilen · mit + Dativ",
+        "bir şeyde acele etmek"
+      ]
+    ],
+    "beeilen": [
+      [
+        "sich mit etwas beeilen · mit + Dativ",
+        "bir şeyde acele etmek"
+      ]
+    ],
+    "sich entschließen": [
+      [
+        "sich zu etwas entschließen · zu + Dativ",
+        "bir şeye karar vermek"
+      ]
+    ],
+    "sich erkundigen": [
+      [
+        "sich bei jemandem erkundigen · bei + Dativ",
+        "birine danışmak / birinden bilgi almak"
+      ],
+      [
+        "sich nach etwas erkundigen · nach + Dativ",
+        "bir şeyi sorup öğrenmek"
+      ]
+    ],
+    "sich erinnern": [
+      [
+        "sich an etwas erinnern · an + Akkusativ",
+        "bir şeyi hatırlamak"
+      ]
+    ],
+    "sich entschuldigen": [
+      [
+        "sich bei jemandem entschuldigen · bei + Dativ",
+        "birinden özür dilemek"
+      ],
+      [
+        "sich für etwas entschuldigen · für + Akkusativ",
+        "bir şey için özür dilemek"
+      ],
+      [
+        "sich bei jemandem für etwas entschuldigen · bei + Dativ, für + Akkusativ",
+        "birinden bir şey için özür dilemek"
+      ]
+    ],
+    "sich freuen": [
+      [
+        "sich auf etwas freuen · auf + Akkusativ",
+        "bir şeyi (gelecekteki) dört gözle beklemek"
+      ],
+      [
+        "sich über etwas freuen · über + Akkusativ",
+        "bir şeye sevinmek"
+      ]
+    ],
+    "sich interessieren": [
+      [
+        "sich für etwas interessieren · für + Akkusativ",
+        "bir şeyle ilgilenmek"
+      ]
+    ],
+    "sich verlassen": [
+      [
+        "sich auf jemanden verlassen · auf + Akkusativ",
+        "birine güvenmek"
+      ]
+    ],
+    "sich vorbereiten": [
+      [
+        "sich auf etwas vorbereiten · auf + Akkusativ",
+        "bir şeye hazırlanmak"
+      ]
+    ],
+    "sprechen": [
+      [
+        "mit jemandem sprechen · mit + Dativ",
+        "biriyle konuşmak"
+      ],
+      [
+        "über etwas sprechen · über + Akkusativ",
+        "bir şey hakkında konuşmak"
+      ]
+    ],
+    "steigen": [
+      [
+        "um zehn Prozent steigen · um + Akkusativ",
+        "yüzde on artmak"
+      ],
+      [
+        "auf zehn Euro steigen · auf + Akkusativ",
+        "on euroya çıkmak"
+      ]
+    ],
+    "streiten": [
+      [
+        "sich mit jemandem streiten · mit + Dativ",
+        "biriyle tartışmak / kavga etmek"
+      ],
+      [
+        "sich über etwas streiten · über + Akkusativ",
+        "bir şey yüzünden tartışmak"
+      ],
+      [
+        "über etwas streiten · über + Akkusativ",
+        "bir şey hakkında tartışmak"
+      ]
+    ],
+    "suchen": [
+      [
+        "nach etwas suchen · nach + Dativ",
+        "bir şeyi aramak"
+      ]
+    ],
+    "teilnehmen": [
+      [
+        "an etwas teilnehmen · an + Dativ",
+        "bir şeye katılmak"
+      ]
+    ],
+    "teilen": [
+      [
+        "etwas mit jemandem teilen · mit + Dativ",
+        "bir şeyi biriyle paylaşmak"
+      ]
+    ],
+    "telefonieren": [
+      [
+        "mit jemandem telefonieren · mit + Dativ",
+        "biriyle telefonda konuşmak"
+      ]
+    ],
+    "träumen": [
+      [
+        "von etwas träumen · von + Dativ",
+        "bir şeyin hayalini kurmak / rüyasını görmek"
+      ]
+    ],
+    "überzeugen": [
+      [
+        "jemanden von etwas überzeugen · von + Dativ",
+        "birini bir şeye ikna etmek"
+      ]
+    ],
+    "umziehen": [
+      [
+        "nach Berlin umziehen · nach + Dativ",
+        "Berlin'e taşınmak"
+      ],
+      [
+        "in eine neue Wohnung umziehen · in + Akkusativ",
+        "yeni bir daireye taşınmak"
+      ]
+    ],
+    "verbinden": [
+      [
+        "etwas mit etwas verbinden · mit + Dativ",
+        "bir şeyi bir şeyle birleştirmek / bağlamak"
+      ],
+      [
+        "etwas mit etwas verbinden · mit + Dativ",
+        "bir şeyi bir şeyle ilişkilendirmek"
+      ]
+    ],
+    "verlassen": [
+      [
+        "einen Ort verlassen · Akkusativ",
+        "bir yerden ayrılmak"
+      ],
+      [
+        "sich auf jemanden verlassen · auf + Akkusativ",
+        "birine güvenmek"
+      ]
+    ],
+    "verzichten": [
+      [
+        "auf etwas verzichten · auf + Akkusativ",
+        "bir şeyden vazgeçmek"
+      ]
+    ],
+    "warten": [
+      [
+        "auf jemanden/etwas warten · auf + Akkusativ",
+        "birini / bir şeyi beklemek"
+      ],
+      [
+        "auf jemanden warten · auf + Akkusativ",
+        "birini beklemek"
+      ]
+    ],
+    "zählen": [
+      [
+        "zu den Besten zählen · zu + Dativ",
+        "en iyiler arasında sayılmak"
+      ],
+      [
+        "zu etwas zählen · zu + Dativ",
+        "bir şeye dahil olmak"
+      ]
+    ],
+    "zunehmen": [
+      [
+        "um zwei Kilo zunehmen · um + Akkusativ",
+        "iki kilo almak"
+      ]
+    ],
+    "anbieten": [
+      [
+        "etwas zum Verkauf anbieten",
+        "bir şeyi satışa sunmak"
+      ],
+      [
+        "jemandem etwas anbieten",
+        "birine bir şey sunmak"
+      ]
+    ],
+    "verdienen": [
+      [
+        "Geld verdienen",
+        "para kazanmak"
+      ],
+      [
+        "mehr Geld verdienen",
+        "daha çok para kazanmak"
+      ]
+    ],
+    "entstehen": [
+      [
+        "aus etwas entstehen · aus + Dativ",
+        "bir şeyden doğmak / ortaya çıkmak"
+      ]
+    ],
+    "verändern": [
+      [
+        "sich stark verändern",
+        "çok değişmek"
+      ]
+    ],
+    "starten": [
+      [
+        "eine Kampagne starten",
+        "bir kampanya başlatmak"
+      ]
+    ],
+    "versuchen": [
+      [
+        "versuchen, etwas zu tun",
+        "bir şeyi yapmaya çalışmak"
+      ]
+    ],
+    "beginnen": [
+      [
+        "mit etwas beginnen · mit + Dativ",
+        "bir şeye başlamak"
+      ]
+    ],
+    "bestehen": [
+      [
+        "aus etwas bestehen · aus + Dativ",
+        "bir şeyden oluşmak"
+      ],
+      [
+        "eine Prüfung bestehen",
+        "bir sınavı geçmek"
+      ]
+    ],
+    "stehen": [
+      [
+        "unter Kontrolle stehen · unter + Dativ",
+        "denetim altında olmak"
+      ]
+    ],
+    "spielen": [
+      [
+        "mit etwas spielen · mit + Dativ",
+        "bir şeyle oynamak"
+      ]
+    ],
+    "verbieten": [
+      [
+        "jemandem etwas verbieten",
+        "birine bir şeyi yasaklamak"
+      ]
+    ],
+    "gleichsetzen": [
+      [
+        "etwas mit etwas gleichsetzen · mit + Dativ",
+        "bir şeyi bir şeyle bir tutmak"
+      ]
+    ],
+    "etablieren": [
+      [
+        "etwas als Marke etablieren",
+        "bir şeyi marka olarak yerleştirmek"
+      ]
+    ],
+    "wecken": [
+      [
+        "Wünsche bei jemandem wecken",
+        "birinde istek uyandırmak"
+      ]
+    ],
+    "einnehmen": [
+      [
+        "viel Platz einnehmen",
+        "çok yer kaplamak"
+      ]
+    ],
+    "herstellen": [
+      [
+        "etwas aus etwas herstellen · aus + Dativ",
+        "bir şeyi bir şeyden üretmek"
+      ]
+    ],
+    "empfehlen": [
+      [
+        "jemandem etwas empfehlen",
+        "birine bir şey önermek"
+      ]
+    ],
+    "vorstellen": [
+      [
+        "ein Produkt vorstellen",
+        "bir ürünü tanıtmak"
+      ],
+      [
+        "sich etwas vorstellen",
+        "bir şeyi hayal etmek"
+      ]
+    ],
+    "eingehen": [
+      [
+        "auf etwas eingehen · auf + Akkusativ",
+        "bir şeye değinmek / ele almak"
+      ]
+    ],
+    "übernehmen": [
+      [
+        "einen Auftrag übernehmen",
+        "bir görevi üstlenmek"
+      ],
+      [
+        "die Verantwortung übernehmen",
+        "sorumluluğu üstlenmek"
+      ],
+      [
+        "jemandes Stelle übernehmen",
+        "birinin işini / görevini devralmak"
+      ],
+      [
+        "jemandes Arbeit übernehmen",
+        "birinin işini üstlenmek"
+      ]
+    ],
+    "halten": [
+      [
+        "von etwas halten · von + Dativ",
+        "bir şey hakkında ne düşünmek"
+      ],
+      [
+        "etwas für richtig halten · für + Akkusativ",
+        "bir şeyi doğru bulmak"
+      ],
+      [
+        "sich an etwas halten · an + Akkusativ",
+        "bir şeye uymak"
+      ]
+    ],
+    "richten": [
+      [
+        "sich an jemanden richten · an + Akkusativ",
+        "birine hitap etmek / yönelmek"
+      ]
+    ],
+    "erfinden": [
+      [
+        "eine Geschichte erfinden",
+        "bir hikâye uydurmak"
+      ]
+    ],
+    "präsentieren": [
+      [
+        "Ideen präsentieren",
+        "fikirleri sunmak"
+      ]
+    ],
+    "wegnehmen": [
+      [
+        "jemandem etwas wegnehmen",
+        "birinden bir şeyi almak / elinden almak"
+      ],
+      [
+        "jemandem den Job wegnehmen",
+        "birinin işini elinden almak"
+      ]
+    ],
+    "abnehmen": [
+      [
+        "jemandem die Arbeit abnehmen",
+        "birinin işini üstlenmek (yükünü almak)"
+      ]
+    ],
+    "ersetzen": [
+      [
+        "jemanden ersetzen",
+        "birinin yerini almak"
+      ],
+      [
+        "jemanden durch jemanden ersetzen · durch + Akkusativ",
+        "birinin yerine başkasını koymak"
+      ]
+    ],
+    "wegschnappen": [
+      [
+        "jemandem den Job wegschnappen",
+        "birinin işini kapmak"
+      ]
+    ],
+    "vertreten": [
+      [
+        "jemanden vertreten",
+        "birinin yerine bakmak (vekâlet etmek)"
+      ]
+    ],
+    "einfrieren": [
+      [
+        "Ware einfrieren",
+        "malı dondurmak"
+      ]
+    ],
+    "liefern": [
+      [
+        "etwas liefern",
+        "bir şeyi teslim etmek"
+      ],
+      [
+        "jemandem etwas liefern",
+        "birine bir şey teslim etmek"
+      ]
+    ],
+    "zeigen": [
+      [
+        "jemandem etwas zeigen",
+        "birine bir şey göstermek"
+      ],
+      [
+        "jemandem Modelle zeigen",
+        "birine modeller göstermek"
+      ]
+    ],
+    "glauben": [
+      [
+        "jemandem glauben",
+        "birine inanmak"
+      ],
+      [
+        "an etwas glauben · an + Akkusativ",
+        "bir şeye inanmak"
+      ]
+    ],
+    "testen": [
+      [
+        "ein Produkt testen",
+        "bir ürünü test etmek"
+      ]
+    ],
+    "beschleunigen": [
+      [
+        "von null auf hundert beschleunigen · auf + Akkusativ",
+        "sıfırdan yüze hızlanmak"
+      ]
+    ],
+    "einklappen": [
+      [
+        "die Spiegel einklappen",
+        "aynaları katlamak"
+      ]
+    ],
+    "einbauen": [
+      [
+        "etwas in etwas einbauen · in + Akkusativ",
+        "bir şeyi bir şeye monte etmek"
+      ]
+    ],
+    "abschließen": [
+      [
+        "den Kauf abschließen",
+        "alışverişi tamamlamak"
+      ]
+    ],
+    "drücken": [
+      [
+        "einen Knopf drücken",
+        "bir düğmeye basmak"
+      ]
+    ],
+    "abhängen": [
+      [
+        "von etwas abhängen · von + Dativ",
+        "bir şeye bağlı olmak"
+      ]
+    ],
+    "anfangen": [
+      [
+        "mit etwas anfangen · mit + Dativ",
+        "bir şeye başlamak"
+      ]
+    ],
+    "sich beschweren": [
+      [
+        "sich über etwas beschweren · über + Akkusativ",
+        "bir şeyden şikâyet etmek"
+      ]
+    ],
+    "beschweren": [
+      [
+        "sich bei jemandem über etwas beschweren · bei + Dativ, über + Akkusativ",
+        "birine bir şeyi şikâyet etmek"
+      ]
+    ],
+    "bedanken": [
+      [
+        "sich bei jemandem für etwas bedanken · bei + Dativ, für + Akkusativ",
+        "birine bir şey için teşekkür etmek"
+      ]
+    ],
+    "beziehen": [
+      [
+        "sich auf etwas beziehen · auf + Akkusativ",
+        "bir şeye atıfta bulunmak / dayanmak"
+      ]
+    ],
+    "diskutieren": [
+      [
+        "über etwas diskutieren · über + Akkusativ",
+        "bir şey hakkında tartışmak"
+      ],
+      [
+        "mit jemandem diskutieren · mit + Dativ",
+        "biriyle tartışmak"
+      ]
+    ],
+    "entscheiden": [
+      [
+        "sich für etwas entscheiden · für + Akkusativ",
+        "bir şeyi seçmeye karar vermek"
+      ],
+      [
+        "über etwas entscheiden · über + Akkusativ",
+        "bir şey hakkında karar vermek"
+      ]
+    ],
+    "informieren": [
+      [
+        "sich über etwas informieren · über + Akkusativ",
+        "bir şey hakkında bilgi edinmek"
+      ],
+      [
+        "jemanden über etwas informieren · über + Akkusativ",
+        "birini bir şey hakkında bilgilendirmek"
+      ]
+    ],
+    "kämpfen": [
+      [
+        "für etwas kämpfen · für + Akkusativ",
+        "bir şey için mücadele etmek"
+      ],
+      [
+        "gegen etwas kämpfen · gegen + Akkusativ",
+        "bir şeye karşı mücadele etmek"
+      ]
+    ],
+    "konzentrieren": [
+      [
+        "sich auf etwas konzentrieren · auf + Akkusativ",
+        "bir şeye odaklanmak"
+      ]
+    ],
+    "kümmern": [
+      [
+        "sich um jemanden kümmern · um + Akkusativ",
+        "biriyle ilgilenmek"
+      ]
+    ],
+    "lachen": [
+      [
+        "über etwas lachen · über + Akkusativ",
+        "bir şeye gülmek"
+      ]
+    ],
+    "protestieren": [
+      [
+        "gegen etwas protestieren · gegen + Akkusativ",
+        "bir şeyi protesto etmek"
+      ]
+    ],
+    "rechnen": [
+      [
+        "mit etwas rechnen · mit + Dativ",
+        "bir şeyi beklemek / hesaba katmak"
+      ]
+    ],
+    "riechen": [
+      [
+        "nach etwas riechen · nach + Dativ",
+        "bir şey gibi kokmak"
+      ]
+    ],
+    "schmecken": [
+      [
+        "nach etwas schmecken · nach + Dativ",
+        "bir şey gibi tatmak"
+      ]
+    ],
+    "schützen": [
+      [
+        "sich vor etwas schützen · vor + Dativ",
+        "bir şeyden korunmak"
+      ]
+    ],
+    "sorgen": [
+      [
+        "für jemanden sorgen · für + Akkusativ",
+        "birine bakmak"
+      ],
+      [
+        "sich um jemanden sorgen · um + Akkusativ",
+        "biri için endişelenmek"
+      ]
+    ],
+    "sterben": [
+      [
+        "an einer Krankheit sterben · an + Dativ",
+        "bir hastalıktan ölmek"
+      ]
+    ],
+    "treffen": [
+      [
+        "sich mit jemandem treffen · mit + Dativ",
+        "biriyle buluşmak"
+      ]
+    ],
+    "überlegen": [
+      [
+        "sich etwas überlegen",
+        "bir şeyi düşünüp taşınmak"
+      ]
+    ],
+    "unterhalten": [
+      [
+        "sich mit jemandem über etwas unterhalten · mit + Dativ, über + Akkusativ",
+        "biriyle bir şey hakkında sohbet etmek"
+      ]
+    ],
+    "unterscheiden": [
+      [
+        "sich von etwas unterscheiden · von + Dativ",
+        "bir şeyden farklı olmak"
+      ],
+      [
+        "zwischen zwei Dingen unterscheiden · zwischen + Dativ",
+        "iki şey arasında ayırt etmek"
+      ]
+    ],
+    "vergleichen": [
+      [
+        "etwas mit etwas vergleichen · mit + Dativ",
+        "bir şeyi bir şeyle karşılaştırmak"
+      ]
+    ],
+    "verhandeln": [
+      [
+        "über etwas verhandeln · über + Akkusativ",
+        "bir şey üzerine müzakere etmek"
+      ]
+    ],
+    "verlieben": [
+      [
+        "sich in jemanden verlieben · in + Akkusativ",
+        "birine âşık olmak"
+      ]
+    ],
+    "warnen": [
+      [
+        "jemanden vor etwas warnen · vor + Dativ",
+        "birini bir şeye karşı uyarmak"
+      ]
+    ],
+    "wundern": [
+      [
+        "sich über etwas wundern · über + Akkusativ",
+        "bir şeye şaşırmak"
+      ]
+    ],
+    "zweifeln": [
+      [
+        "an etwas zweifeln · an + Dativ",
+        "bir şeyden şüphe etmek"
+      ]
+    ],
+    "zustimmen": [
+      [
+        "jemandem zustimmen (Dativ)",
+        "birine katılmak"
+      ],
+      [
+        "einem Vorschlag zustimmen",
+        "bir öneriyi onaylamak"
+      ]
+    ],
+    "sich ärgern": [
+      [
+        "sich über etwas ärgern · über + Akkusativ",
+        "bir şeye kızmak"
+      ]
+    ],
+    "sich bewerben": [
+      [
+        "sich um eine Stelle bewerben · um + Akkusativ",
+        "bir işe başvurmak"
+      ],
+      [
+        "sich bei einer Firma bewerben · bei + Dativ",
+        "bir firmaya başvurmak"
+      ]
+    ],
+    "fehlen": [
+      [
+        "jemandem fehlen (Dativ)",
+        "birinin eksik olması / birini özletmek"
+      ],
+      [
+        "Es fehlt an etwas. · an + Dativ",
+        "bir şeyin eksikliği var"
+      ]
+    ],
+    "helfen": [
+      [
+        "jemandem bei etwas helfen · bei + Dativ",
+        "birine bir şeyde yardım etmek"
+      ]
+    ],
+    "folgen": [
+      [
+        "jemandem folgen (Dativ)",
+        "birini takip etmek"
+      ],
+      [
+        "auf etwas folgen · auf + Akkusativ",
+        "bir şeyin ardından gelmek"
+      ]
+    ],
+    "fordern": [
+      [
+        "etwas von jemandem fordern · von + Dativ",
+        "birinden bir şey talep etmek"
+      ]
+    ],
+    "fördern": [
+      [
+        "jemanden bei etwas fördern · bei + Dativ",
+        "birini bir şeyde desteklemek"
+      ]
+    ],
+    "erinnern": [
+      [
+        "jemanden an etwas erinnern · an + Akkusativ",
+        "birine bir şeyi hatırlatmak"
+      ]
+    ],
+    "beachten": [
+      [
+        "eine Regel beachten",
+        "bir kurala uymak"
+      ]
+    ],
+    "beantragen": [
+      [
+        "ein Visum beantragen",
+        "vize başvurusu yapmak"
+      ]
+    ],
+    "beenden": [
+      [
+        "ein Gespräch beenden",
+        "bir görüşmeyi bitirmek"
+      ]
+    ],
+    "buchen": [
+      [
+        "eine Reise buchen",
+        "bir seyahat rezervasyonu yapmak"
+      ]
+    ],
+    "durchführen": [
+      [
+        "eine Umfrage durchführen",
+        "bir anket yapmak"
+      ]
+    ],
+    "erledigen": [
+      [
+        "eine Aufgabe erledigen",
+        "bir görevi halletmek"
+      ]
+    ],
+    "verlängern": [
+      [
+        "einen Vertrag verlängern",
+        "bir sözleşmeyi uzatmak"
+      ]
+    ],
+    "verschieben": [
+      [
+        "einen Termin verschieben",
+        "bir randevuyu ertelemek"
+      ],
+      [
+        "etwas auf morgen verschieben · auf + Akkusativ",
+        "bir şeyi yarına ertelemek"
+      ]
+    ],
+    "kündigen": [
+      [
+        "einen Vertrag kündigen",
+        "bir sözleşmeyi feshetmek"
+      ],
+      [
+        "jemandem kündigen (Dativ)",
+        "birini işten çıkarmak"
+      ]
+    ],
+    "mieten": [
+      [
+        "eine Wohnung mieten",
+        "bir daire kiralamak"
+      ]
+    ],
+    "reservieren": [
+      [
+        "einen Tisch reservieren",
+        "bir masa ayırtmak"
+      ]
+    ],
+    "wechseln": [
+      [
+        "Geld wechseln",
+        "para bozdurmak"
+      ],
+      [
+        "den Job wechseln",
+        "iş değiştirmek"
+      ]
+    ],
+    "aufmachen": [
+      [
+        "die Tür aufmachen",
+        "kapıyı açmak"
+      ]
+    ],
+    "abholen": [
+      [
+        "jemanden vom Bahnhof abholen · von + Dativ",
+        "birini garda karşılamak"
+      ]
+    ],
+    "umsteigen": [
+      [
+        "in einen Zug umsteigen · in + Akkusativ",
+        "bir trene aktarma yapmak"
+      ]
+    ],
+    "ausfüllen": [
+      [
+        "ein Formular ausfüllen",
+        "bir formu doldurmak"
+      ]
+    ],
+    "verpassen": [
+      [
+        "den Zug verpassen",
+        "treni kaçırmak"
+      ]
+    ],
+    "nennen": [
+      [
+        "jemandem etwas nennen",
+        "birine bir şeyin adını söylemek"
+      ],
+      [
+        "drei Beispiele nennen",
+        "üç örnek vermek"
+      ]
+    ],
+    "werfen": [
+      [
+        "etwas gegen die Wand werfen · gegen + Akkusativ",
+        "bir şeyi duvara fırlatmak"
+      ]
+    ],
+    "schauen": [
+      [
+        "in der App schauen · in + Dativ",
+        "uygulamaya bakmak"
+      ],
+      [
+        "auf die Uhr schauen · auf + Akkusativ",
+        "saate bakmak"
+      ]
+    ],
+    "hierherkommen": [
+      [
+        "bitte hierherkommen",
+        "lütfen buraya gelmek"
+      ]
+    ],
+    "reinbekommen": [
+      [
+        "etwas in etwas reinbekommen · in + Akkusativ",
+        "bir şeyi bir şeye sığdırabilmek"
+      ]
+    ],
+    "zerbrechen": [
+      [
+        "sofort zerbrechen",
+        "hemen kırılmak"
+      ]
+    ],
+    "kaputtgehen": [
+      [
+        "sofort kaputtgehen",
+        "hemen bozulmak"
+      ]
+    ],
+    "heißen": [
+      [
+        "Wie heißt dieser Zwerg?",
+        "Bu cücenin adı ne?"
+      ]
+    ],
+    "gehen": [
+      [
+        "Es geht mir besser.",
+        "Daha iyiyim."
+      ],
+      [
+        "jemandem besser gehen (Dativ)",
+        "birinin durumu daha iyi olmak"
+      ]
+    ]
+  },
+  "adjectives": {
+    "angenehm": [
+      [
+        "für jemanden angenehm sein (Akkusativ)",
+        "biri için hoş olmak"
+      ]
+    ],
+    "bedeutend": [
+      [
+        "für etwas bedeutend sein (Akkusativ)",
+        "bir şey için önemli olmak"
+      ]
+    ],
+    "fern": [
+      [
+        "fern von etwas sein (Dativ)",
+        "bir şeyden uzak olmak"
+      ]
+    ],
+    "gut": [
+      [
+        "gut für jemanden/etwas sein (Akkusativ)",
+        "biri / bir şey için iyi olmak"
+      ],
+      [
+        "gut in etwas sein (Dativ)",
+        "bir şeyde iyi olmak"
+      ]
+    ],
+    "kostbar": [
+      [
+        "für jemanden kostbar sein (Akkusativ)",
+        "biri için değerli olmak"
+      ]
+    ],
+    "notwendig": [
+      [
+        "für etwas notwendig sein (Akkusativ)",
+        "bir şey için gerekli olmak"
+      ]
+    ],
+    "schwach": [
+      [
+        "schwach in etwas sein (Dativ)",
+        "bir şeyde zayıf olmak"
+      ]
+    ],
+    "sinnvoll": [
+      [
+        "für jemanden sinnvoll sein (Akkusativ)",
+        "biri için anlamlı / mantıklı olmak"
+      ]
+    ],
+    "unangenehm": [
+      [
+        "für jemanden unangenehm sein (Akkusativ)",
+        "biri için tatsız / rahatsız edici olmak"
+      ]
+    ],
+    "zufrieden": [
+      [
+        "mit jemandem/etwas zufrieden sein (Dativ)",
+        "biri / bir şeyden memnun olmak"
+      ],
+      [
+        "mit etwas zufrieden sein · mit + Dativ",
+        "bir şeyden memnun olmak"
+      ]
+    ],
+    "aufmerksam": [
+      [
+        "jemanden auf etwas aufmerksam machen · auf + Akkusativ",
+        "birinin dikkatini bir şeye çekmek"
+      ],
+      [
+        "auf etwas aufmerksam werden · auf + Akkusativ",
+        "bir şeyin farkına varmak"
+      ]
+    ],
+    "wichtig": [
+      [
+        "für jemanden wichtig sein · für + Akkusativ",
+        "biri için önemli olmak"
+      ]
+    ],
+    "seltsam": [
+      [
+        "seltsam für etwas sein · für + Akkusativ",
+        "bir şey için garip olmak"
+      ]
+    ],
+    "hergestellt": [
+      [
+        "von uns selbst hergestellt werden",
+        "bizim tarafımızdan üretilmek"
+      ]
+    ],
+    "kühl": [
+      [
+        "etwas kühl halten",
+        "bir şeyi serin tutmak"
+      ]
+    ],
+    "enttäuscht": [
+      [
+        "von jemandem enttäuscht sein · von + Dativ",
+        "birinden hayal kırıklığına uğramak"
+      ]
+    ],
+    "überrascht": [
+      [
+        "über etwas überrascht sein · über + Akkusativ",
+        "bir şeye şaşırmak"
+      ]
+    ],
+    "verheiratet": [
+      [
+        "mit jemandem verheiratet sein · mit + Dativ",
+        "biriyle evli olmak"
+      ]
+    ],
+    "stolz": [
+      [
+        "auf jemanden stolz sein · auf + Akkusativ",
+        "biriyle gurur duymak"
+      ]
+    ],
+    "abhängig": [
+      [
+        "von etwas abhängig sein · von + Dativ",
+        "bir şeye bağımlı olmak"
+      ]
+    ],
+    "bereit": [
+      [
+        "zu etwas bereit sein · zu + Dativ",
+        "bir şeye hazır olmak"
+      ]
+    ],
+    "fähig": [
+      [
+        "zu etwas fähig sein · zu + Dativ",
+        "bir şeyi yapabilecek durumda olmak"
+      ]
+    ],
+    "freundlich": [
+      [
+        "zu jemandem freundlich sein · zu + Dativ",
+        "birine karşı nazik olmak"
+      ]
+    ],
+    "gespannt": [
+      [
+        "auf etwas gespannt sein · auf + Akkusativ",
+        "bir şeyi merakla beklemek"
+      ]
+    ],
+    "neugierig": [
+      [
+        "auf etwas neugierig sein · auf + Akkusativ",
+        "bir şeyi merak etmek"
+      ]
+    ],
+    "schuld": [
+      [
+        "an etwas schuld sein · an + Dativ",
+        "bir şeyde suçlu olmak"
+      ]
+    ],
+    "typisch": [
+      [
+        "typisch für jemanden sein · für + Akkusativ",
+        "birine özgü olmak"
+      ]
+    ],
+    "verantwortlich": [
+      [
+        "für etwas verantwortlich sein · für + Akkusativ",
+        "bir şeyden sorumlu olmak"
+      ]
+    ],
+    "ähnlich": [
+      [
+        "jemandem ähnlich sein (Dativ)",
+        "birine benzemek"
+      ]
+    ],
+    "bekannt": [
+      [
+        "für etwas bekannt sein · für + Akkusativ",
+        "bir şeyle tanınmak"
+      ]
+    ],
+    "fertig": [
+      [
+        "mit etwas fertig sein · mit + Dativ",
+        "bir şeyi bitirmiş olmak"
+      ]
+    ],
+    "interessiert": [
+      [
+        "an etwas interessiert sein · an + Dativ",
+        "bir şeye ilgi duymak"
+      ]
+    ],
+    "nützlich": [
+      [
+        "für jemanden nützlich sein · für + Akkusativ",
+        "biri için yararlı olmak"
+      ]
+    ],
+    "zuständig": [
+      [
+        "für etwas zuständig sein · für + Akkusativ",
+        "bir şeyden sorumlu olmak"
+      ]
+    ],
+    "wütend": [
+      [
+        "auf jemanden wütend sein · auf + Akkusativ",
+        "birine kızgın olmak"
+      ],
+      [
+        "so wütend sein, dass",
+        "o kadar öfkeli olmak ki"
+      ]
+    ]
+  },
+  "more": {
+    "abbilden": [
+      [
+        "etwas abbilden (Akkusativ)",
+        "bir şeyi resmetmek / göstermek"
+      ],
+      [
+        "auf dem Foto abgebildet sein",
+        "fotoğrafta görünmek"
+      ]
+    ],
+    "abbrechen": [
+      [
+        "etwas abbrechen (Akkusativ)",
+        "bir şeyi yarıda kesmek / iptal etmek"
+      ],
+      [
+        "den Kurs abbrechen",
+        "kursu yarıda bırakmak"
+      ]
+    ],
+    "abgeben": [
+      [
+        "etwas abgeben (Akkusativ)",
+        "bir şeyi teslim etmek"
+      ],
+      [
+        "die Hausaufgaben abgeben",
+        "ödevi teslim etmek"
+      ],
+      [
+        "etwas bei jemandem abgeben · bei + Dativ",
+        "bir şeyi birine bırakmak"
+      ]
+    ],
+    "abholen": [
+      [
+        "jemanden abholen (Akkusativ)",
+        "birini almaya gitmek"
+      ],
+      [
+        "ein Paket abholen",
+        "bir kargoyu teslim almak"
+      ],
+      [
+        "vom Bahnhof abholen · von + Dativ",
+        "istasyondan almak"
+      ]
+    ],
+    "ablösen": [
+      [
+        "jemanden ablösen (Akkusativ)",
+        "birinin yerine geçmek / nöbeti devralmak"
+      ],
+      [
+        "etwas ablösen",
+        "bir şeyi söküp çıkarmak"
+      ],
+      [
+        "jemanden im Dienst ablösen",
+        "birinin vardiyasını devralmak"
+      ]
+    ],
+    "absagen": [
+      [
+        "einen Termin absagen",
+        "bir randevuyu iptal etmek"
+      ],
+      [
+        "jemandem absagen (Dativ)",
+        "birine olumsuz yanıt vermek"
+      ]
+    ],
+    "abschreiben": [
+      [
+        "etwas abschreiben (Akkusativ)",
+        "bir şeyi kopya çekmek / yazıya geçirmek"
+      ],
+      [
+        "von jemandem abschreiben · von + Dativ",
+        "birinden kopya çekmek"
+      ]
+    ],
+    "anfordern": [
+      [
+        "etwas anfordern (Akkusativ)",
+        "bir şeyi resmen talep etmek"
+      ],
+      [
+        "Unterlagen anfordern",
+        "belge talep etmek"
+      ]
+    ],
+    "anfragen": [
+      [
+        "bei jemandem anfragen · bei + Dativ",
+        "birine soru / talep iletmek"
+      ],
+      [
+        "nach etwas anfragen · nach + Dativ",
+        "bir şey hakkında bilgi istemek"
+      ]
+    ],
+    "anmelden": [
+      [
+        "sich anmelden",
+        "kaydolmak / giriş yapmak"
+      ],
+      [
+        "sich zu einem Kurs anmelden · zu + Dativ",
+        "bir kursa kayıt olmak"
+      ],
+      [
+        "jemanden anmelden (Akkusativ)",
+        "birini kaydettirmek"
+      ]
+    ],
+    "anprobieren": [
+      [
+        "etwas anprobieren (Akkusativ)",
+        "bir şeyi denemek (kıyafet)"
+      ],
+      [
+        "eine Jacke anprobieren",
+        "bir ceketi denemek"
+      ]
+    ],
+    "anregen": [
+      [
+        "jemanden zu etwas anregen · zu + Dativ",
+        "birini bir şeye teşvik etmek"
+      ],
+      [
+        "die Diskussion anregen",
+        "tartışmayı canlandırmak"
+      ]
+    ],
+    "anstehen": [
+      [
+        "in der Schlange anstehen",
+        "kuyrukta beklemek"
+      ],
+      [
+        "Es steht ein Termin an.",
+        "Yaklaşan bir randevu var."
+      ]
+    ],
+    "anzeigen": [
+      [
+        "etwas anzeigen (Akkusativ)",
+        "bir şeyi göstermek"
+      ],
+      [
+        "jemanden anzeigen (Akkusativ)",
+        "birini şikâyet etmek / suç duyurusunda bulunmak"
+      ]
+    ],
+    "aufstehen": [
+      [
+        "früh aufstehen",
+        "erken kalkmak"
+      ],
+      [
+        "vom Stuhl aufstehen · von + Dativ",
+        "sandalyeden kalkmak"
+      ]
+    ],
+    "aufwachsen": [
+      [
+        "in einer Stadt aufwachsen · in + Dativ",
+        "bir şehirde büyümek"
+      ],
+      [
+        "mit zwei Geschwistern aufwachsen · mit + Dativ",
+        "iki kardeşle büyümek"
+      ]
+    ],
+    "ausblenden": [
+      [
+        "etwas ausblenden (Akkusativ)",
+        "bir şeyi gizlemek (ekranda)"
+      ],
+      [
+        "die Leiste ausblenden",
+        "çubuğu gizlemek"
+      ]
+    ],
+    "ausstellen": [
+      [
+        "ein Bild ausstellen",
+        "bir resmi sergilemek"
+      ],
+      [
+        "ein Zeugnis ausstellen",
+        "bir belge düzenlemek / vermek"
+      ]
+    ],
+    "ausüben": [
+      [
+        "einen Beruf ausüben",
+        "bir mesleği yapmak"
+      ],
+      [
+        "Einfluss auf jemanden ausüben · auf + Akkusativ",
+        "birine etki etmek"
+      ]
+    ],
+    "bauen": [
+      [
+        "ein Haus bauen",
+        "ev inşa etmek"
+      ],
+      [
+        "auf etwas bauen · auf + Akkusativ",
+        "bir şeye güvenmek"
+      ]
+    ],
+    "beantworten": [
+      [
+        "eine Frage beantworten",
+        "bir soruyu cevaplamak"
+      ],
+      [
+        "einen Brief beantworten",
+        "bir mektubu yanıtlamak"
+      ]
+    ],
+    "beschweren": [
+      [
+        "sich über etwas beschweren · über + Akkusativ",
+        "bir şeyden şikâyet etmek"
+      ],
+      [
+        "sich bei jemandem beschweren · bei + Dativ",
+        "birine şikâyette bulunmak"
+      ]
+    ],
+    "beschäftigen": [
+      [
+        "sich mit etwas beschäftigen · mit + Dativ",
+        "bir şeyle meşgul olmak"
+      ],
+      [
+        "jemanden beschäftigen (Akkusativ)",
+        "birini çalıştırmak / meşgul etmek"
+      ]
+    ],
+    "bestellen": [
+      [
+        "etwas bestellen (Akkusativ)",
+        "bir şey sipariş etmek"
+      ],
+      [
+        "einen Tisch bestellen",
+        "masa ayırtmak"
+      ],
+      [
+        "etwas bei jemandem bestellen · bei + Dativ",
+        "bir şeyi birinden sipariş etmek"
+      ]
+    ],
+    "besuchen": [
+      [
+        "jemanden besuchen (Akkusativ)",
+        "birini ziyaret etmek"
+      ],
+      [
+        "einen Kurs besuchen",
+        "bir kursa devam etmek"
+      ]
+    ],
+    "betreten": [
+      [
+        "einen Raum betreten",
+        "bir odaya girmek"
+      ],
+      [
+        "Betreten verboten!",
+        "Girmek yasaktır!"
+      ]
+    ],
+    "bewegen": [
+      [
+        "sich bewegen",
+        "hareket etmek"
+      ],
+      [
+        "etwas bewegen (Akkusativ)",
+        "bir şeyi oynatmak"
+      ],
+      [
+        "jemanden zu etwas bewegen · zu + Dativ",
+        "birini bir şeye ikna etmek"
+      ]
+    ],
+    "bewerben": [
+      [
+        "sich um eine Stelle bewerben · um + Akkusativ",
+        "bir işe başvurmak"
+      ],
+      [
+        "sich bei einer Firma bewerben · bei + Dativ",
+        "bir firmaya başvurmak"
+      ]
+    ],
+    "bezahlen": [
+      [
+        "etwas bezahlen (Akkusativ)",
+        "bir şeyin ücretini ödemek"
+      ],
+      [
+        "mit Karte bezahlen · mit + Dativ",
+        "kartla ödemek"
+      ],
+      [
+        "für etwas bezahlen · für + Akkusativ",
+        "bir şey için ödeme yapmak"
+      ],
+      [
+        "bar bezahlen",
+        "nakit ödemek"
+      ],
+      [
+        "per Überweisung bezahlen",
+        "havaleyle ödemek"
+      ]
+    ],
+    "bilden": [
+      [
+        "einen Satz bilden",
+        "cümle kurmak"
+      ],
+      [
+        "sich eine Meinung bilden",
+        "bir fikir oluşturmak"
+      ]
+    ],
+    "bleiben": [
+      [
+        "zu Hause bleiben",
+        "evde kalmak"
+      ],
+      [
+        "bei etwas bleiben · bei + Dativ",
+        "bir şeyde ısrar etmek / sabit kalmak"
+      ],
+      [
+        "ruhig bleiben",
+        "sakin kalmak"
+      ]
+    ],
+    "blenden": [
+      [
+        "jemanden blenden (Akkusativ)",
+        "birinin gözünü kamaştırmak"
+      ],
+      [
+        "Das Licht blendet mich.",
+        "Işık gözümü alıyor."
+      ]
+    ],
+    "brauchen": [
+      [
+        "etwas brauchen (Akkusativ)",
+        "bir şeye ihtiyaç duymak"
+      ],
+      [
+        "Zeit brauchen",
+        "zamana ihtiyacı olmak"
+      ],
+      [
+        "Du brauchst nicht zu kommen.",
+        "Gelmene gerek yok."
+      ]
+    ],
+    "brennen": [
+      [
+        "Das Licht brennt.",
+        "Işık yanıyor."
+      ],
+      [
+        "Es brennt!",
+        "Yangın var!"
+      ]
+    ],
+    "dauern": [
+      [
+        "Es dauert zwei Stunden.",
+        "İki saat sürüyor."
+      ],
+      [
+        "Wie lange dauert das?",
+        "Bu ne kadar sürer?"
+      ],
+      [
+        "Wie lange dauert die Lieferung?",
+        "Teslimat ne kadar sürer?"
+      ]
+    ],
+    "decken": [
+      [
+        "den Tisch decken",
+        "sofrayı kurmak"
+      ],
+      [
+        "die Kosten decken",
+        "masrafları karşılamak"
+      ]
+    ],
+    "drucken": [
+      [
+        "ein Dokument drucken",
+        "bir belge yazdırmak"
+      ],
+      [
+        "etwas auf Papier drucken · auf + Akkusativ",
+        "bir şeyi kâğıda basmak"
+      ]
+    ],
+    "drücken": [
+      [
+        "auf einen Knopf drücken · auf + Akkusativ",
+        "bir düğmeye basmak"
+      ],
+      [
+        "jemanden an sich drücken · an + Akkusativ",
+        "birine sarılmak"
+      ]
+    ],
+    "dürfen": [
+      [
+        "Darf ich?",
+        "Yapabilir miyim? / İzin var mı?"
+      ],
+      [
+        "Hier darf man nicht rauchen.",
+        "Burada sigara içmek yasak."
+      ]
+    ],
+    "eingeben": [
+      [
+        "Daten eingeben",
+        "veri girmek"
+      ],
+      [
+        "einen Text eingeben",
+        "bir metin girmek"
+      ]
+    ],
+    "einkaufen": [
+      [
+        "im Supermarkt einkaufen · in + Dativ",
+        "süpermarketten alışveriş yapmak"
+      ],
+      [
+        "einkaufen gehen",
+        "alışverişe gitmek"
+      ]
+    ],
+    "einstellen": [
+      [
+        "einen Mitarbeiter einstellen",
+        "bir çalışanı işe almak"
+      ],
+      [
+        "die Heizung einstellen",
+        "ısıtmayı ayarlamak"
+      ],
+      [
+        "sich auf etwas einstellen · auf + Akkusativ",
+        "bir şeye hazırlıklı olmak"
+      ]
+    ],
+    "entdecken": [
+      [
+        "etwas entdecken (Akkusativ)",
+        "bir şeyi keşfetmek"
+      ],
+      [
+        "einen Fehler entdecken",
+        "bir hata fark etmek"
+      ]
+    ],
+    "entschuldigen": [
+      [
+        "sich bei jemandem entschuldigen · bei + Dativ",
+        "birinden özür dilemek"
+      ],
+      [
+        "Entschuldigen Sie bitte!",
+        "Pardon! / Affedersiniz!"
+      ]
+    ],
+    "entstehen": [
+      [
+        "aus etwas entstehen · aus + Dativ",
+        "bir şeyden ortaya çıkmak"
+      ],
+      [
+        "Ein Problem entsteht.",
+        "Bir sorun ortaya çıkıyor."
+      ]
+    ],
+    "erfinden": [
+      [
+        "etwas erfinden (Akkusativ)",
+        "bir şeyi icat etmek"
+      ],
+      [
+        "eine Geschichte erfinden",
+        "bir hikâye uydurmak"
+      ]
+    ],
+    "ergänzen": [
+      [
+        "etwas ergänzen (Akkusativ)",
+        "bir şeyi tamamlamak / eklemek"
+      ],
+      [
+        "eine Liste ergänzen",
+        "bir listeyi tamamlamak"
+      ]
+    ],
+    "erhalten": [
+      [
+        "etwas erhalten (Akkusativ)",
+        "bir şey almak (resmî)"
+      ],
+      [
+        "eine Antwort erhalten",
+        "cevap almak"
+      ]
+    ],
+    "erinnern": [
+      [
+        "sich an etwas erinnern · an + Akkusativ",
+        "bir şeyi hatırlamak"
+      ],
+      [
+        "jemanden an etwas erinnern · an + Akkusativ",
+        "birine bir şeyi hatırlatmak"
+      ]
+    ],
+    "erklären": [
+      [
+        "jemandem etwas erklären (Dativ, Akkusativ)",
+        "birine bir şeyi açıklamak"
+      ],
+      [
+        "Das erkläre ich dir später.",
+        "Bunu sana sonra açıklarım."
+      ]
+    ],
+    "erlauben": [
+      [
+        "jemandem etwas erlauben (Dativ, Akkusativ)",
+        "birine bir şeye izin vermek"
+      ],
+      [
+        "sich etwas erlauben (Dativ)",
+        "kendine bir şeyi yakıştırmak / göze almak"
+      ]
+    ],
+    "erledigen": [
+      [
+        "etwas erledigen (Akkusativ)",
+        "bir işi halletmek"
+      ],
+      [
+        "Besorgungen erledigen",
+        "ufak işleri halletmek"
+      ]
+    ],
+    "erlöschen": [
+      [
+        "Das Feuer erlischt.",
+        "Ateş sönüyor."
+      ],
+      [
+        "Die Lampe erlischt.",
+        "Lamba sönüyor."
+      ]
+    ],
+    "ermöglichen": [
+      [
+        "jemandem etwas ermöglichen (Dativ, Akkusativ)",
+        "birine bir şeyi mümkün kılmak"
+      ],
+      [
+        "ein Studium ermöglichen",
+        "eğitimi mümkün kılmak"
+      ]
+    ],
+    "essen": [
+      [
+        "etwas essen (Akkusativ)",
+        "bir şey yemek"
+      ],
+      [
+        "zu Abend essen",
+        "akşam yemeği yemek"
+      ],
+      [
+        "essen gehen",
+        "yemeğe gitmek"
+      ]
+    ],
+    "existieren": [
+      [
+        "Es existiert nicht mehr.",
+        "Artık mevcut değil."
+      ],
+      [
+        "Das Problem existiert seit Jahren.",
+        "Sorun yıllardır var."
+      ]
+    ],
+    "fahren": [
+      [
+        "mit dem Bus fahren · mit + Dativ",
+        "otobüsle gitmek"
+      ],
+      [
+        "nach Berlin fahren · nach + Dativ",
+        "Berlin'e gitmek (araçla)"
+      ],
+      [
+        "Auto fahren",
+        "araba kullanmak"
+      ]
+    ],
+    "finden": [
+      [
+        "etwas finden (Akkusativ)",
+        "bir şeyi bulmak"
+      ],
+      [
+        "etwas gut finden",
+        "bir şeyi iyi bulmak"
+      ],
+      [
+        "Ich finde es schön.",
+        "Bence güzel."
+      ],
+      [
+        "etwas seltsam finden",
+        "bir şeyi garip bulmak"
+      ]
+    ],
+    "folgen": [
+      [
+        "jemandem folgen (Dativ)",
+        "birini takip etmek"
+      ],
+      [
+        "einem Rat folgen",
+        "bir öğüdü dinlemek"
+      ],
+      [
+        "aus etwas folgen · aus + Dativ",
+        "bir şeyden sonuçlanmak"
+      ]
+    ],
+    "geben": [
+      [
+        "jemandem etwas geben (Dativ, Akkusativ)",
+        "birine bir şey vermek"
+      ],
+      [
+        "Es gibt einen Park.",
+        "Bir park var."
+      ]
+    ],
+    "gefallen": [
+      [
+        "jemandem gefallen (Dativ)",
+        "birinin hoşuna gitmek"
+      ],
+      [
+        "Das gefällt mir.",
+        "Bu hoşuma gidiyor."
+      ],
+      [
+        "jemandem besser gefallen",
+        "birinin daha çok hoşuna gitmek"
+      ]
+    ],
+    "gehen": [
+      [
+        "zur Schule gehen · zu + Dativ",
+        "okula gitmek"
+      ],
+      [
+        "nach Hause gehen",
+        "eve gitmek"
+      ],
+      [
+        "Wie geht es dir?",
+        "Nasılsın?"
+      ]
+    ],
+    "gießen": [
+      [
+        "Blumen gießen",
+        "çiçekleri sulamak"
+      ],
+      [
+        "Wasser in ein Glas gießen · in + Akkusativ",
+        "bir bardağa su dökmek"
+      ]
+    ],
+    "gratulieren": [
+      [
+        "jemandem zum Geburtstag gratulieren · zu + Dativ",
+        "birinin doğum gününü kutlamak"
+      ],
+      [
+        "Ich gratuliere!",
+        "Tebrikler!"
+      ]
+    ],
+    "haben": [
+      [
+        "Hunger haben",
+        "acıkmış olmak"
+      ],
+      [
+        "Zeit haben",
+        "vakti olmak"
+      ],
+      [
+        "einen Hund haben",
+        "köpeği olmak"
+      ]
+    ],
+    "halten": [
+      [
+        "etwas halten (Akkusativ)",
+        "bir şeyi tutmak"
+      ],
+      [
+        "eine Rede halten",
+        "konuşma yapmak"
+      ],
+      [
+        "jemanden für etwas halten · für + Akkusativ",
+        "birini bir şey sanmak"
+      ]
+    ],
+    "heiraten": [
+      [
+        "jemanden heiraten (Akkusativ)",
+        "biriyle evlenmek"
+      ],
+      [
+        "Sie heiraten im Sommer.",
+        "Yazın evleniyorlar."
+      ]
+    ],
+    "helfen": [
+      [
+        "jemandem helfen (Dativ)",
+        "birine yardım etmek"
+      ],
+      [
+        "jemandem bei etwas helfen · bei + Dativ",
+        "birine bir işte yardım etmek"
+      ]
+    ],
+    "herstellen": [
+      [
+        "etwas herstellen (Akkusativ)",
+        "bir şeyi üretmek"
+      ],
+      [
+        "eine Verbindung herstellen",
+        "bağlantı kurmak"
+      ]
+    ],
+    "herumlaufen": [
+      [
+        "im Park herumlaufen · in + Dativ",
+        "parkta dolaşmak"
+      ],
+      [
+        "barfuß herumlaufen",
+        "çıplak ayakla dolaşmak"
+      ]
+    ],
+    "hinzufügen": [
+      [
+        "etwas hinzufügen (Akkusativ)",
+        "bir şey eklemek"
+      ],
+      [
+        "einen Kommentar hinzufügen",
+        "yorum eklemek"
+      ]
+    ],
+    "hängen": [
+      [
+        "an der Wand hängen · an + Dativ",
+        "duvarda asılı olmak"
+      ],
+      [
+        "etwas an die Wand hängen · an + Akkusativ",
+        "bir şeyi duvara asmak"
+      ]
+    ],
+    "kennen": [
+      [
+        "jemanden kennen (Akkusativ)",
+        "birini tanımak"
+      ],
+      [
+        "eine Stadt kennen",
+        "bir şehri bilmek"
+      ],
+      [
+        "jemanden kennenlernen",
+        "biriyle tanışmak"
+      ]
+    ],
+    "kochen": [
+      [
+        "Essen kochen",
+        "yemek pişirmek"
+      ],
+      [
+        "Wasser kochen",
+        "su kaynatmak"
+      ],
+      [
+        "für jemanden kochen · für + Akkusativ",
+        "biri için yemek yapmak"
+      ]
+    ],
+    "kommen": [
+      [
+        "nach Hause kommen",
+        "eve gelmek"
+      ],
+      [
+        "aus der Türkei kommen · aus + Dativ",
+        "Türkiye'den gelmek"
+      ],
+      [
+        "zu spät kommen · zu + Dativ",
+        "geç kalmak"
+      ],
+      [
+        "Komm mal bitte her!",
+        "Bir gel buraya lütfen!"
+      ]
+    ],
+    "korrigieren": [
+      [
+        "einen Fehler korrigieren",
+        "bir hatayı düzeltmek"
+      ],
+      [
+        "einen Text korrigieren",
+        "bir metni düzeltmek"
+      ]
+    ],
+    "können": [
+      [
+        "Ich kann schwimmen.",
+        "Yüzebilirim."
+      ],
+      [
+        "Können Sie mir helfen?",
+        "Bana yardım edebilir misiniz?"
+      ]
+    ],
+    "kündigen": [
+      [
+        "den Vertrag kündigen",
+        "sözleşmeyi feshetmek"
+      ],
+      [
+        "jemandem kündigen (Dativ)",
+        "birini işten çıkarmak / kiracıya süre vermek"
+      ]
+    ],
+    "lassen": [
+      [
+        "etwas machen lassen",
+        "bir şeyi yaptırmak"
+      ],
+      [
+        "jemanden in Ruhe lassen · in + Dativ",
+        "birini rahat bırakmak"
+      ],
+      [
+        "Lass uns gehen!",
+        "Hadi gidelim!"
+      ]
+    ],
+    "laufen": [
+      [
+        "zur Arbeit laufen · zu + Dativ",
+        "işe yürümek"
+      ],
+      [
+        "Der Film läuft im Kino.",
+        "Film sinemada oynuyor."
+      ]
+    ],
+    "legen": [
+      [
+        "etwas auf den Tisch legen · auf + Akkusativ",
+        "bir şeyi masaya koymak (yatırarak)"
+      ],
+      [
+        "sich ins Bett legen · in + Akkusativ",
+        "yatağa yatmak"
+      ]
+    ],
+    "lernen": [
+      [
+        "Deutsch lernen",
+        "Almanca öğrenmek"
+      ],
+      [
+        "für eine Prüfung lernen · für + Akkusativ",
+        "sınava çalışmak"
+      ]
+    ],
+    "lesen": [
+      [
+        "ein Buch lesen",
+        "kitap okumak"
+      ],
+      [
+        "eine Nachricht lesen",
+        "mesaj okumak"
+      ],
+      [
+        "über etwas lesen · über + Akkusativ",
+        "bir şey hakkında okumak"
+      ]
+    ],
+    "leuchten": [
+      [
+        "Die Sonne leuchtet.",
+        "Güneş parlıyor."
+      ],
+      [
+        "mit der Taschenlampe leuchten · mit + Dativ",
+        "el fenerini tutmak"
+      ]
+    ],
+    "liegen": [
+      [
+        "im Bett liegen · in + Dativ",
+        "yatakta yatmak"
+      ],
+      [
+        "Die Stadt liegt am Meer. · an + Dativ",
+        "Şehir denizin kıyısında."
+      ],
+      [
+        "an jemandem liegen · an + Dativ",
+        "birine bağlı olmak"
+      ]
+    ],
+    "losfahren": [
+      [
+        "um acht Uhr losfahren · um + Akkusativ",
+        "saat sekizde yola çıkmak"
+      ],
+      [
+        "Wir fahren gleich los.",
+        "Hemen yola çıkıyoruz."
+      ]
+    ],
+    "löschen": [
+      [
+        "eine Datei löschen",
+        "bir dosyayı silmek"
+      ],
+      [
+        "das Feuer löschen",
+        "yangını söndürmek"
+      ]
+    ],
+    "machen": [
+      [
+        "Hausaufgaben machen",
+        "ödev yapmak"
+      ],
+      [
+        "einen Spaziergang machen",
+        "yürüyüş yapmak"
+      ],
+      [
+        "Spaß machen",
+        "eğlenceli olmak"
+      ]
+    ],
+    "malen": [
+      [
+        "ein Bild malen",
+        "resim yapmak"
+      ],
+      [
+        "etwas mit Farbe malen · mit + Dativ",
+        "bir şeyi boyayla çizmek"
+      ]
+    ],
+    "mitbringen": [
+      [
+        "etwas mitbringen (Akkusativ)",
+        "bir şeyi yanında getirmek"
+      ],
+      [
+        "jemandem etwas mitbringen (Dativ, Akkusativ)",
+        "birine bir şey getirmek"
+      ]
+    ],
+    "mitgehen": [
+      [
+        "mit jemandem mitgehen · mit + Dativ",
+        "biriyle birlikte gitmek"
+      ],
+      [
+        "Gehst du mit?",
+        "Sen de geliyor musun?"
+      ]
+    ],
+    "mitkommen": [
+      [
+        "mit jemandem mitkommen · mit + Dativ",
+        "biriyle birlikte gelmek"
+      ],
+      [
+        "Kommst du mit?",
+        "Sen de geliyor musun?"
+      ]
+    ],
+    "müssen": [
+      [
+        "Ich muss gehen.",
+        "Gitmem gerekiyor."
+      ],
+      [
+        "Das musst du nicht.",
+        "Bunu yapmak zorunda değilsin."
+      ]
+    ],
+    "nehmen": [
+      [
+        "etwas nehmen (Akkusativ)",
+        "bir şeyi almak"
+      ],
+      [
+        "den Bus nehmen",
+        "otobüse binmek"
+      ],
+      [
+        "sich Zeit nehmen",
+        "acele etmemek / zaman ayırmak"
+      ]
+    ],
+    "nennen": [
+      [
+        "jemanden etwas nennen (Akkusativ, Akkusativ)",
+        "birine bir ad vermek"
+      ],
+      [
+        "etwas beim Namen nennen · bei + Dativ",
+        "bir şeyi adıyla anmak"
+      ]
+    ],
+    "sagen": [
+      [
+        "jemandem etwas sagen (Dativ, Akkusativ)",
+        "birine bir şey söylemek"
+      ],
+      [
+        "Was sagst du dazu?",
+        "Buna ne diyorsun?"
+      ]
+    ],
+    "sammeln": [
+      [
+        "Briefmarken sammeln",
+        "pul biriktirmek"
+      ],
+      [
+        "Informationen sammeln",
+        "bilgi toplamak"
+      ]
+    ],
+    "schließen": [
+      [
+        "die Tür schließen",
+        "kapıyı kapatmak"
+      ],
+      [
+        "einen Vertrag schließen",
+        "sözleşme yapmak"
+      ],
+      [
+        "aus etwas schließen · aus + Dativ",
+        "bir şeyden sonuç çıkarmak"
+      ]
+    ],
+    "schreiben": [
+      [
+        "einen Brief schreiben",
+        "mektup yazmak"
+      ],
+      [
+        "an jemanden schreiben · an + Akkusativ",
+        "birine yazmak"
+      ],
+      [
+        "mit der Hand schreiben · mit + Dativ",
+        "elle yazmak"
+      ]
+    ],
+    "schälen": [
+      [
+        "einen Apfel schälen",
+        "elma soymak"
+      ],
+      [
+        "die Kartoffeln schälen",
+        "patatesleri soymak"
+      ]
+    ],
+    "sehen": [
+      [
+        "einen Film sehen",
+        "film izlemek"
+      ],
+      [
+        "jemanden sehen (Akkusativ)",
+        "birini görmek"
+      ],
+      [
+        "nach etwas sehen · nach + Dativ",
+        "bir şeye göz kulak olmak"
+      ]
+    ],
+    "sein": [
+      [
+        "müde sein",
+        "yorgun olmak"
+      ],
+      [
+        "aus der Türkei sein · aus + Dativ",
+        "Türkiye'li olmak"
+      ],
+      [
+        "Es ist kalt.",
+        "Hava soğuk."
+      ]
+    ],
+    "setzen": [
+      [
+        "sich setzen",
+        "oturmak (hareketle)"
+      ],
+      [
+        "ein Kind auf den Stuhl setzen · auf + Akkusativ",
+        "çocuğu sandalyeye oturtmak"
+      ]
+    ],
+    "sich vorstellen": [
+      [
+        "sich vorstellen",
+        "kendini tanıtmak"
+      ],
+      [
+        "sich etwas vorstellen (Dativ, Akkusativ)",
+        "bir şeyi hayal etmek"
+      ],
+      [
+        "Darf ich mich vorstellen?",
+        "Kendimi tanıtabilir miyim?"
+      ]
+    ],
+    "sitzen": [
+      [
+        "am Tisch sitzen · an + Dativ",
+        "masada oturmak"
+      ],
+      [
+        "im Auto sitzen · in + Dativ",
+        "arabada oturmak"
+      ]
+    ],
+    "sollen": [
+      [
+        "Du sollst mehr schlafen.",
+        "Daha çok uyumalısın."
+      ],
+      [
+        "Was soll ich tun?",
+        "Ne yapmalıyım?"
+      ]
+    ],
+    "sparen": [
+      [
+        "Geld sparen",
+        "para biriktirmek / tasarruf etmek"
+      ],
+      [
+        "auf etwas sparen · auf + Akkusativ",
+        "bir şey için para biriktirmek"
+      ]
+    ],
+    "spazieren": [
+      [
+        "spazieren gehen",
+        "yürüyüşe çıkmak"
+      ],
+      [
+        "im Park spazieren gehen · in + Dativ",
+        "parkta gezmek"
+      ]
+    ],
+    "stagnieren": [
+      [
+        "Die Preise stagnieren.",
+        "Fiyatlar duraksıyor."
+      ],
+      [
+        "Die Wirtschaft stagniert.",
+        "Ekonomi durgun."
+      ]
+    ],
+    "stattfinden": [
+      [
+        "Die Party findet am Samstag statt.",
+        "Parti cumartesi günü yapılacak."
+      ],
+      [
+        "Das Treffen findet im Büro statt.",
+        "Toplantı ofiste yapılır."
+      ]
+    ],
+    "stehen": [
+      [
+        "an der Haltestelle stehen · an + Dativ",
+        "durakta durmak"
+      ],
+      [
+        "Das Wort steht im Text.",
+        "Kelime metinde yazıyor."
+      ],
+      [
+        "Das steht dir gut.",
+        "Bu sana yakışıyor."
+      ]
+    ],
+    "stellen": [
+      [
+        "eine Frage stellen",
+        "soru sormak"
+      ],
+      [
+        "etwas auf den Tisch stellen · auf + Akkusativ",
+        "bir şeyi masaya koymak (dik)"
+      ],
+      [
+        "den Wecker stellen",
+        "alarmı kurmak"
+      ]
+    ],
+    "streichen": [
+      [
+        "eine Wand streichen",
+        "duvarı boyamak"
+      ],
+      [
+        "einen Satz streichen",
+        "bir cümleyi silmek"
+      ],
+      [
+        "Butter aufs Brot streichen",
+        "ekmeğe tereyağı sürmek"
+      ]
+    ],
+    "treffen": [
+      [
+        "jemanden treffen (Akkusativ)",
+        "biriyle buluşmak"
+      ],
+      [
+        "sich mit jemandem treffen · mit + Dativ",
+        "biriyle buluşmak"
+      ],
+      [
+        "eine Entscheidung treffen",
+        "karar vermek"
+      ]
+    ],
+    "trennen": [
+      [
+        "etwas von etwas trennen · von + Dativ",
+        "bir şeyi bir şeyden ayırmak"
+      ],
+      [
+        "sich von jemandem trennen · von + Dativ",
+        "biriyle ayrılmak"
+      ],
+      [
+        "Müll trennen",
+        "çöpü ayrıştırmak"
+      ]
+    ],
+    "trinken": [
+      [
+        "Wasser trinken",
+        "su içmek"
+      ],
+      [
+        "etwas aus einem Glas trinken · aus + Dativ",
+        "bir bardaktan bir şey içmek"
+      ],
+      [
+        "auf jemanden trinken · auf + Akkusativ",
+        "birinin şerefine içmek"
+      ]
+    ],
+    "tun": [
+      [
+        "etwas tun (Akkusativ)",
+        "bir şey yapmak"
+      ],
+      [
+        "jemandem weh tun (Dativ)",
+        "birine acı vermek / incitmek"
+      ],
+      [
+        "Es tut mir leid.",
+        "Üzgünüm."
+      ],
+      [
+        "etwas für jemanden tun · für + Akkusativ",
+        "biri için bir şey yapmak"
+      ]
+    ],
+    "umdenken": [
+      [
+        "umdenken",
+        "bakış açısını değiştirmek"
+      ],
+      [
+        "bei etwas umdenken · bei + Dativ",
+        "bir konuda düşünce değiştirmek"
+      ]
+    ],
+    "umtauschen": [
+      [
+        "etwas umtauschen (Akkusativ)",
+        "bir şeyi değiştirmek (ürün)"
+      ],
+      [
+        "etwas gegen etwas umtauschen · gegen + Akkusativ",
+        "bir şeyi başkasıyla değiştirmek"
+      ]
+    ],
+    "unterhalten": [
+      [
+        "sich mit jemandem unterhalten · mit + Dativ",
+        "biriyle sohbet etmek"
+      ],
+      [
+        "sich über etwas unterhalten · über + Akkusativ",
+        "bir şey hakkında sohbet etmek"
+      ]
+    ],
+    "unterstützen": [
+      [
+        "jemanden unterstützen (Akkusativ)",
+        "birini desteklemek"
+      ],
+      [
+        "ein Projekt unterstützen",
+        "bir projeyi desteklemek"
+      ]
+    ],
+    "verbreiten": [
+      [
+        "Nachrichten verbreiten",
+        "haber yaymak"
+      ],
+      [
+        "sich verbreiten",
+        "yayılmak"
+      ]
+    ],
+    "verdienen": [
+      [
+        "Geld verdienen",
+        "para kazanmak"
+      ],
+      [
+        "Er verdient 3000 Euro im Monat.",
+        "Ayda 3000 euro kazanıyor."
+      ]
+    ],
+    "vereinbaren": [
+      [
+        "einen Termin vereinbaren",
+        "randevu ayarlamak"
+      ],
+      [
+        "etwas mit jemandem vereinbaren · mit + Dativ",
+        "bir şeyi biriyle kararlaştırmak"
+      ]
+    ],
+    "vergessen": [
+      [
+        "etwas vergessen (Akkusativ)",
+        "bir şeyi unutmak"
+      ],
+      [
+        "Vergiss es nicht!",
+        "Unutma!"
+      ]
+    ],
+    "verkürzen": [
+      [
+        "die Zeit verkürzen",
+        "süreyi kısaltmak"
+      ],
+      [
+        "den Weg verkürzen",
+        "yolu kısaltmak"
+      ]
+    ],
+    "verlieren": [
+      [
+        "etwas verlieren (Akkusativ)",
+        "bir şeyi kaybetmek"
+      ],
+      [
+        "gegen jemanden verlieren · gegen + Akkusativ",
+        "birine kaybetmek"
+      ]
+    ],
+    "verlängern": [
+      [
+        "den Vertrag verlängern",
+        "sözleşmeyi uzatmak"
+      ],
+      [
+        "das Visum verlängern",
+        "vizeyi uzatmak"
+      ]
+    ],
+    "verpassen": [
+      [
+        "den Bus verpassen",
+        "otobüsü kaçırmak"
+      ],
+      [
+        "eine Chance verpassen",
+        "bir fırsatı kaçırmak"
+      ]
+    ],
+    "verschieben": [
+      [
+        "einen Termin verschieben",
+        "randevuyu ertelemek"
+      ],
+      [
+        "etwas auf morgen verschieben · auf + Akkusativ",
+        "bir şeyi yarına ertelemek"
+      ]
+    ],
+    "verschwenden": [
+      [
+        "Zeit verschwenden",
+        "zaman harcamak (boşa)"
+      ],
+      [
+        "Geld für etwas verschwenden · für + Akkusativ",
+        "bir şey için para israf etmek"
+      ]
+    ],
+    "verstehen": [
+      [
+        "jemanden verstehen (Akkusativ)",
+        "birini anlamak"
+      ],
+      [
+        "etwas von etwas verstehen · von + Dativ",
+        "bir konuda anlayışı olmak"
+      ],
+      [
+        "sich mit jemandem verstehen · mit + Dativ",
+        "biriyle iyi anlaşmak"
+      ]
+    ],
+    "versuchen": [
+      [
+        "etwas versuchen (Akkusativ)",
+        "bir şeyi denemek"
+      ],
+      [
+        "zu helfen versuchen",
+        "yardım etmeye çalışmak"
+      ]
+    ],
+    "vervielfältigen": [
+      [
+        "ein Dokument vervielfältigen",
+        "bir belgeyi çoğaltmak"
+      ],
+      [
+        "Kopien vervielfältigen",
+        "kopyaları çoğaltmak"
+      ]
+    ],
+    "verändern": [
+      [
+        "sich verändern",
+        "değişmek"
+      ],
+      [
+        "etwas verändern (Akkusativ)",
+        "bir şeyi değiştirmek"
+      ]
+    ],
+    "vorschlagen": [
+      [
+        "jemandem etwas vorschlagen (Dativ, Akkusativ)",
+        "birine bir şey önermek"
+      ],
+      [
+        "Ich schlage vor, dass wir gehen.",
+        "Gitmemizi öneriyorum."
+      ]
+    ],
+    "waschen": [
+      [
+        "sich die Hände waschen",
+        "ellerini yıkamak"
+      ],
+      [
+        "die Wäsche waschen",
+        "çamaşır yıkamak"
+      ]
+    ],
+    "wechseln": [
+      [
+        "Geld wechseln",
+        "para bozdurmak"
+      ],
+      [
+        "die Schule wechseln",
+        "okul değiştirmek"
+      ],
+      [
+        "in einen anderen Zug wechseln · in + Akkusativ",
+        "başka bir trene geçmek"
+      ]
+    ],
+    "werden": [
+      [
+        "Lehrer werden",
+        "öğretmen olmak"
+      ],
+      [
+        "krank werden",
+        "hastalanmak"
+      ],
+      [
+        "Es wird dunkel.",
+        "Hava kararıyor."
+      ]
+    ],
+    "wiederholen": [
+      [
+        "etwas wiederholen (Akkusativ)",
+        "bir şeyi tekrar etmek"
+      ],
+      [
+        "Vokabeln wiederholen",
+        "kelime tekrar etmek"
+      ]
+    ],
+    "wollen": [
+      [
+        "Ich will schlafen.",
+        "Uyumak istiyorum."
+      ],
+      [
+        "Was willst du?",
+        "Ne istiyorsun?"
+      ]
+    ],
+    "zeichnen": [
+      [
+        "ein Bild zeichnen",
+        "resim çizmek"
+      ],
+      [
+        "einen Plan zeichnen",
+        "plan çizmek"
+      ]
+    ],
+    "zerlegen": [
+      [
+        "etwas in Teile zerlegen · in + Akkusativ",
+        "bir şeyi parçalara ayırmak"
+      ],
+      [
+        "ein Gerät zerlegen",
+        "bir cihazı sökmek"
+      ]
+    ],
+    "ziehen": [
+      [
+        "an der Tür ziehen · an + Dativ",
+        "kapıyı çekmek"
+      ],
+      [
+        "nach Berlin ziehen · nach + Dativ",
+        "Berlin'e taşınmak"
+      ],
+      [
+        "einen Zug ziehen",
+        "bir hamle yapmak"
+      ]
+    ],
+    "zugeben": [
+      [
+        "einen Fehler zugeben",
+        "hatayı kabul etmek"
+      ],
+      [
+        "zugeben, dass …",
+        "… olduğunu itiraf etmek"
+      ]
+    ],
+    "zuhören": [
+      [
+        "jemandem zuhören (Dativ)",
+        "birini dinlemek"
+      ],
+      [
+        "genau zuhören",
+        "dikkatle dinlemek"
+      ]
+    ],
+    "zumachen": [
+      [
+        "die Tür zumachen",
+        "kapıyı kapatmak"
+      ],
+      [
+        "Der Laden macht um sechs zu.",
+        "Dükkân altıda kapanıyor."
+      ]
+    ],
+    "zurückgeben": [
+      [
+        "etwas zurückgeben (Akkusativ)",
+        "bir şeyi geri vermek"
+      ],
+      [
+        "jemandem etwas zurückgeben (Dativ, Akkusativ)",
+        "birine bir şeyi geri vermek"
+      ]
+    ],
+    "zusammenfügen": [
+      [
+        "Teile zusammenfügen",
+        "parçaları birleştirmek"
+      ],
+      [
+        "zwei Dateien zusammenfügen",
+        "iki dosyayı birleştirmek"
+      ]
+    ],
+    "zusammenrechnen": [
+      [
+        "die Kosten zusammenrechnen",
+        "masrafları toplamak"
+      ],
+      [
+        "alles zusammenrechnen",
+        "hepsini toplamak"
+      ]
+    ],
+    "zustimmen": [
+      [
+        "jemandem zustimmen (Dativ)",
+        "birine katılmak"
+      ],
+      [
+        "einem Vorschlag zustimmen",
+        "bir öneriye katılmak"
+      ]
+    ],
+    "ärgern": [
+      [
+        "sich über etwas ärgern · über + Akkusativ",
+        "bir şeye kızmak"
+      ],
+      [
+        "jemanden ärgern (Akkusativ)",
+        "birini kızdırmak"
+      ]
+    ],
+    "überprüfen": [
+      [
+        "etwas überprüfen (Akkusativ)",
+        "bir şeyi kontrol etmek"
+      ],
+      [
+        "die Daten überprüfen",
+        "verileri kontrol etmek"
+      ]
+    ],
+    "überspringen": [
+      [
+        "eine Zeile überspringen",
+        "bir satırı atlamak"
+      ],
+      [
+        "einen Schritt überspringen",
+        "bir adımı atlamak"
+      ]
+    ],
+    "überweisen": [
+      [
+        "Geld überweisen",
+        "para havale etmek"
+      ],
+      [
+        "jemandem Geld überweisen (Dativ, Akkusativ)",
+        "birine havale etmek"
+      ],
+      [
+        "auf ein Konto überweisen · auf + Akkusativ",
+        "bir hesaba aktarmak"
+      ]
+    ],
+    "geboren werden": [
+      [
+        "in Berlin geboren werden · in + Dativ",
+        "Berlin'de doğmak"
+      ],
+      [
+        "Ich bin 1990 geboren.",
+        "1990'da doğdum."
+      ]
+    ],
+    "halten für": [
+      [
+        "jemanden für klug halten · für + Akkusativ",
+        "birini akıllı sanmak"
+      ],
+      [
+        "etwas für wahr halten · für + Akkusativ",
+        "bir şeyi doğru saymak"
+      ]
+    ],
+    "an": [
+      [
+        "an der Wand · an + Dativ",
+        "duvarda (nerede?)"
+      ],
+      [
+        "an die Wand · an + Akkusativ",
+        "duvara (nereye?)"
+      ],
+      [
+        "an etwas denken · an + Akkusativ",
+        "bir şeyi düşünmek"
+      ]
+    ],
+    "aus": [
+      [
+        "aus dem Haus · aus + Dativ",
+        "evden (dışarı)"
+      ],
+      [
+        "aus Holz · aus + Dativ",
+        "ahşaptan"
+      ],
+      [
+        "aus der Türkei · aus + Dativ",
+        "Türkiye'den"
+      ]
+    ],
+    "bei": [
+      [
+        "bei meiner Familie · bei + Dativ",
+        "ailemin yanında"
+      ],
+      [
+        "beim Arzt · bei + Dativ",
+        "doktorda"
+      ],
+      [
+        "bei der Arbeit · bei + Dativ",
+        "işte"
+      ]
+    ],
+    "bis": [
+      [
+        "bis morgen",
+        "yarına kadar"
+      ],
+      [
+        "bis nächste Woche",
+        "gelecek haftaya kadar"
+      ],
+      [
+        "bis zum Bahnhof",
+        "istasyona kadar"
+      ]
+    ],
+    "bis zu": [
+      [
+        "bis zu 100 Euro",
+        "100 euroya kadar"
+      ],
+      [
+        "bis zum Abend",
+        "akşama kadar"
+      ]
+    ],
+    "durch": [
+      [
+        "durch den Park · durch + Akkusativ",
+        "parkın içinden"
+      ],
+      [
+        "durch die Tür · durch + Akkusativ",
+        "kapıdan geçerek"
+      ]
+    ],
+    "für": [
+      [
+        "für dich · für + Akkusativ",
+        "senin için"
+      ],
+      [
+        "für zwei Stunden · für + Akkusativ",
+        "iki saatliğine"
+      ],
+      [
+        "Danke für alles!",
+        "Her şey için teşekkürler!"
+      ]
+    ],
+    "gegen": [
+      [
+        "gegen die Wand · gegen + Akkusativ",
+        "duvara karşı"
+      ],
+      [
+        "gegen Abend · gegen + Akkusativ",
+        "akşama doğru"
+      ],
+      [
+        "etwas gegen Kopfschmerzen · gegen + Akkusativ",
+        "baş ağrısına karşı bir şey"
+      ]
+    ],
+    "gegenüber": [
+      [
+        "dem Bahnhof gegenüber · Dativ",
+        "istasyonun karşısında"
+      ],
+      [
+        "Mir gegenüber ist er nett. · Dativ",
+        "bana karşı nazik."
+      ]
+    ],
+    "hinter": [
+      [
+        "hinter dem Haus · hinter + Dativ",
+        "evin arkasında"
+      ],
+      [
+        "hinter das Haus · hinter + Akkusativ",
+        "evin arkasına"
+      ]
+    ],
+    "im": [
+      [
+        "im Büro · in + Dativ",
+        "ofiste"
+      ],
+      [
+        "im Juli · in + Dativ",
+        "temmuzda"
+      ],
+      [
+        "im Bett",
+        "yatakta"
+      ]
+    ],
+    "in": [
+      [
+        "in der Stadt · in + Dativ",
+        "şehirde"
+      ],
+      [
+        "in die Stadt · in + Akkusativ",
+        "şehre"
+      ],
+      [
+        "in einer Stunde · in + Dativ",
+        "bir saat sonra"
+      ]
+    ],
+    "ins": [
+      [
+        "ins Kino gehen · in + Akkusativ",
+        "sinemaya gitmek"
+      ],
+      [
+        "ins Bett gehen",
+        "yatmaya gitmek"
+      ]
+    ],
+    "mit": [
+      [
+        "mit dem Bus · mit + Dativ",
+        "otobüsle"
+      ],
+      [
+        "mit meiner Freundin · mit + Dativ",
+        "arkadaşımla"
+      ],
+      [
+        "mit Hilfe · mit + Dativ",
+        "yardımla"
+      ]
+    ],
+    "mithilfe von": [
+      [
+        "mithilfe von Freunden",
+        "arkadaşların yardımıyla"
+      ],
+      [
+        "mithilfe eines Wörterbuchs (Genitiv)",
+        "bir sözlük yardımıyla"
+      ]
+    ],
+    "nach": [
+      [
+        "nach Hause · nach + Dativ",
+        "eve (doğru)"
+      ],
+      [
+        "nach dem Essen · nach + Dativ",
+        "yemekten sonra"
+      ],
+      [
+        "nach links",
+        "sola doğru"
+      ]
+    ],
+    "ohne": [
+      [
+        "ohne Zucker · ohne + Akkusativ",
+        "şekersiz"
+      ],
+      [
+        "ohne dich · ohne + Akkusativ",
+        "sensiz"
+      ]
+    ],
+    "seit": [
+      [
+        "seit einem Jahr · seit + Dativ",
+        "bir yıldır"
+      ],
+      [
+        "seit gestern · seit + Dativ",
+        "dünden beri"
+      ]
+    ],
+    "um": [
+      [
+        "um acht Uhr · um + Akkusativ",
+        "saat sekizde"
+      ],
+      [
+        "um die Ecke · um + Akkusativ",
+        "köşede"
+      ],
+      [
+        "um Hilfe bitten",
+        "yardım istemek"
+      ]
+    ],
+    "um … zu": [
+      [
+        "Ich lerne, um besser zu sprechen.",
+        "Daha iyi konuşmak için öğreniyorum."
+      ],
+      [
+        "Er kommt, um zu helfen.",
+        "Yardım etmek için geliyor."
+      ]
+    ],
+    "von": [
+      [
+        "von meiner Mutter · von + Dativ",
+        "annemden"
+      ],
+      [
+        "von Montag bis Freitag · von + Dativ",
+        "pazartesiden cumaya"
+      ],
+      [
+        "ein Freund von mir · von + Dativ",
+        "benim bir arkadaşım"
+      ]
+    ],
+    "von + Dativ": [
+      [
+        "von dem Mann · von + Dativ",
+        "o adamdan"
+      ],
+      [
+        "vom Chef · von + Dativ",
+        "patrondan"
+      ]
+    ],
+    "während": [
+      [
+        "während des Essens (Genitiv)",
+        "yemek sırasında"
+      ],
+      [
+        "Während ich koche, liest er.",
+        "Ben yemek yaparken o okuyor."
+      ]
+    ],
+    "zu": [
+      [
+        "zu Fuß",
+        "yürüyerek"
+      ],
+      [
+        "zu meiner Mutter · zu + Dativ",
+        "annemin yanına"
+      ],
+      [
+        "zu Weihnachten · zu + Dativ",
+        "Noel'de"
+      ]
+    ],
+    "zum": [
+      [
+        "zum Arzt gehen · zu + Dativ",
+        "doktora gitmek"
+      ],
+      [
+        "zum Frühstück · zu + Dativ",
+        "kahvaltıda"
+      ]
+    ],
+    "zur": [
+      [
+        "zur Schule gehen · zu + Dativ",
+        "okula gitmek"
+      ],
+      [
+        "zur Arbeit fahren · zu + Dativ",
+        "işe gitmek"
+      ]
+    ],
+    "zu + Adjektiv": [
+      [
+        "zu teuer",
+        "fazla pahalı"
+      ],
+      [
+        "zu spät",
+        "çok geç"
+      ]
+    ],
+    "zu + Infinitiv": [
+      [
+        "Ich habe keine Zeit, zu kommen.",
+        "Gelmek için vaktim yok."
+      ],
+      [
+        "Es ist schön, hier zu sein.",
+        "Burada olmak güzel."
+      ]
+    ],
+    "damit": [
+      [
+        "Ich lerne, damit ich eine Prüfung bestehe.",
+        "Sınavı geçmek için çalışıyorum."
+      ],
+      [
+        "Sprich laut, damit alle dich hören.",
+        "Herkes duysun diye yüksek sesle konuş."
+      ]
+    ],
+    "damit + Nebensatz": [
+      [
+        "Ich spare, damit ich reisen kann.",
+        "Seyahat edebileyim diye biriktiriyorum."
+      ]
+    ],
+    "obwohl": [
+      [
+        "Obwohl es regnet, gehen wir raus.",
+        "Yağmur yağmasına rağmen dışarı çıkıyoruz."
+      ],
+      [
+        "Er kommt, obwohl er krank ist.",
+        "Hasta olmasına rağmen geliyor."
+      ]
+    ],
+    "obwohl + Nebensatz": [
+      [
+        "Obwohl ich müde bin, arbeite ich.",
+        "Yorgun olmama rağmen çalışıyorum."
+      ]
+    ],
+    "weil + Nebensatz": [
+      [
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Hasta olduğum için evde kalıyorum."
+      ],
+      [
+        "Er ist müde, weil er wenig schläft.",
+        "Az uyuduğu için yorgun."
+      ]
+    ],
+    "allgemein": [
+      [
+        "im Allgemeinen",
+        "genel olarak"
+      ],
+      [
+        "allgemein bekannt",
+        "herkesçe bilinen"
+      ]
+    ],
+    "anschließend": [
+      [
+        "anschließend gehen wir essen",
+        "ardından yemeğe gideriz"
+      ],
+      [
+        "Anschließend ruft er an.",
+        "Sonra arayacak."
+      ]
+    ],
+    "damals": [
+      [
+        "damals war alles anders",
+        "o zamanlar her şey farklıydı"
+      ],
+      [
+        "damals in der Schule",
+        "o zamanlar okulda"
+      ]
+    ],
+    "demnächst": [
+      [
+        "Wir ziehen demnächst um.",
+        "Yakında taşınıyoruz."
+      ],
+      [
+        "demnächst im Kino",
+        "yakında sinemada"
+      ]
+    ],
+    "dort": [
+      [
+        "dort drüben",
+        "şurada, karşıda"
+      ],
+      [
+        "dort wohnen",
+        "orada yaşamak"
+      ],
+      [
+        "Wo ist er? – Dort!",
+        "O nerede? – Orada!"
+      ]
+    ],
+    "dringend": [
+      [
+        "dringend brauchen",
+        "acilen ihtiyacı olmak"
+      ],
+      [
+        "eine dringende Nachricht",
+        "acil bir mesaj"
+      ]
+    ],
+    "eben": [
+      [
+        "Das ist eben so.",
+        "Öyle işte."
+      ],
+      [
+        "eben noch",
+        "az önce / hâlâ az önce"
+      ]
+    ],
+    "ebenfalls": [
+      [
+        "Danke, ebenfalls!",
+        "Teşekkürler, size de!"
+      ],
+      [
+        "Ich komme ebenfalls.",
+        "Ben de geliyorum."
+      ]
+    ],
+    "eigentlich": [
+      [
+        "Was machst du eigentlich?",
+        "Sen aslında ne yapıyorsun?"
+      ],
+      [
+        "eigentlich schon",
+        "aslında evet"
+      ]
+    ],
+    "einst": [
+      [
+        "Einst war das ein Dorf.",
+        "Bir zamanlar burası bir köydü."
+      ],
+      [
+        "einst und jetzt",
+        "eskiden ve şimdi"
+      ]
+    ],
+    "erneut": [
+      [
+        "erneut versuchen",
+        "yeniden denemek"
+      ],
+      [
+        "Das Problem tritt erneut auf.",
+        "Sorun tekrar ortaya çıkıyor."
+      ]
+    ],
+    "etwa": [
+      [
+        "etwa zehn Minuten",
+        "yaklaşık on dakika"
+      ],
+      [
+        "Meinst du etwa mich?",
+        "Yoksa beni mi kastediyorsun?"
+      ]
+    ],
+    "gerade": [
+      [
+        "Ich esse gerade.",
+        "Şu an yemek yiyorum."
+      ],
+      [
+        "gerade angekommen sein",
+        "az önce gelmiş olmak"
+      ]
+    ],
+    "gern": [
+      [
+        "gern haben",
+        "sevmek / hoşlanmak"
+      ],
+      [
+        "Ich esse gern Pizza.",
+        "Pizza yemeyi severim."
+      ],
+      [
+        "Gern geschehen!",
+        "Rica ederim!"
+      ]
+    ],
+    "gestern": [
+      [
+        "gestern Abend",
+        "dün akşam"
+      ],
+      [
+        "gestern früh",
+        "dün sabah"
+      ]
+    ],
+    "gleich": [
+      [
+        "Ich komme gleich.",
+        "Hemen geliyorum."
+      ],
+      [
+        "Das ist mir gleich.",
+        "Bana fark etmez."
+      ]
+    ],
+    "heute": [
+      [
+        "heute Abend",
+        "bu akşam"
+      ],
+      [
+        "heute früh",
+        "bu sabah"
+      ],
+      [
+        "von heute an",
+        "bugünden itibaren"
+      ]
+    ],
+    "heutzutage": [
+      [
+        "Heutzutage lernen viele online.",
+        "Günümüzde birçok kişi çevrimiçi öğreniyor."
+      ]
+    ],
+    "hier": [
+      [
+        "hier wohnen",
+        "burada yaşamak"
+      ],
+      [
+        "Komm hierher!",
+        "Buraya gel!"
+      ],
+      [
+        "hier und da",
+        "ora burada"
+      ]
+    ],
+    "immer": [
+      [
+        "immer noch",
+        "hâlâ"
+      ],
+      [
+        "immer wieder",
+        "tekrar tekrar"
+      ],
+      [
+        "nicht immer",
+        "her zaman değil"
+      ]
+    ],
+    "insgesamt": [
+      [
+        "insgesamt zehn Euro",
+        "toplam on euro"
+      ],
+      [
+        "insgesamt gut",
+        "genel olarak iyi"
+      ]
+    ],
+    "jetzt": [
+      [
+        "jetzt gleich",
+        "hemen şimdi"
+      ],
+      [
+        "bis jetzt",
+        "şimdiye kadar"
+      ],
+      [
+        "Jetzt oder nie!",
+        "Şimdi ya da hiç!"
+      ]
+    ],
+    "künftig": [
+      [
+        "künftig pünktlich sein",
+        "bundan sonra dakik olmak"
+      ],
+      [
+        "künftige Pläne",
+        "gelecekteki planlar"
+      ]
+    ],
+    "kürzlich": [
+      [
+        "Ich habe ihn kürzlich gesehen.",
+        "Onu yakın zamanda gördüm."
+      ],
+      [
+        "kürzlich erschienen",
+        "yakın zamanda yayımlanmış"
+      ]
+    ],
+    "momentan": [
+      [
+        "momentan nicht verfügbar",
+        "şu an mevcut değil"
+      ],
+      [
+        "Ich habe momentan keine Zeit.",
+        "Şu an vaktim yok."
+      ]
+    ],
+    "morgen": [
+      [
+        "morgen früh",
+        "yarın sabah"
+      ],
+      [
+        "bis morgen",
+        "yarına kadar"
+      ],
+      [
+        "morgen Abend",
+        "yarın akşam"
+      ]
+    ],
+    "nachher": [
+      [
+        "Bis nachher!",
+        "Birazdan görüşürüz!"
+      ],
+      [
+        "Ich rufe dich nachher an.",
+        "Seni sonra ararım."
+      ]
+    ],
+    "neulich": [
+      [
+        "Neulich war ich im Kino.",
+        "Geçenlerde sinemaya gittim."
+      ],
+      [
+        "neulich im Zug",
+        "geçenlerde trende"
+      ]
+    ],
+    "nirgendwo": [
+      [
+        "nirgendwo finden",
+        "hiçbir yerde bulamamak"
+      ],
+      [
+        "Das gibt es nirgendwo.",
+        "Bu hiçbir yerde yok."
+      ]
+    ],
+    "noch": [
+      [
+        "noch nicht",
+        "henüz değil"
+      ],
+      [
+        "noch einmal",
+        "bir kez daha"
+      ],
+      [
+        "noch immer",
+        "hâlâ"
+      ]
+    ],
+    "nun": [
+      [
+        "Was nun?",
+        "Şimdi ne olacak?"
+      ],
+      [
+        "nun gut",
+        "peki, tamam"
+      ]
+    ],
+    "oben": [
+      [
+        "oben im Regal",
+        "rafın üstünde"
+      ],
+      [
+        "nach oben gehen",
+        "yukarı çıkmak"
+      ]
+    ],
+    "oft": [
+      [
+        "oft besuchen",
+        "sık sık ziyaret etmek"
+      ],
+      [
+        "Wie oft?",
+        "Ne sıklıkla?"
+      ]
+    ],
+    "pünktlich": [
+      [
+        "pünktlich sein",
+        "dakik olmak"
+      ],
+      [
+        "pünktlich kommen",
+        "zamanında gelmek"
+      ]
+    ],
+    "schnell": [
+      [
+        "schnell fahren",
+        "hızlı gitmek"
+      ],
+      [
+        "Mach schnell!",
+        "Çabuk ol!"
+      ]
+    ],
+    "schon": [
+      [
+        "schon einmal",
+        "daha önce bir kez"
+      ],
+      [
+        "Es ist schon spät.",
+        "Zaten geç oldu."
+      ]
+    ],
+    "sofort": [
+      [
+        "sofort anrufen",
+        "hemen aramak"
+      ],
+      [
+        "Komm sofort her!",
+        "Hemen buraya gel!"
+      ]
+    ],
+    "spät": [
+      [
+        "zu spät kommen",
+        "geç gelmek"
+      ],
+      [
+        "Wie spät ist es?",
+        "Saat kaç?"
+      ]
+    ],
+    "unbedingt": [
+      [
+        "unbedingt brauchen",
+        "kesinlikle gereksinmek"
+      ],
+      [
+        "Das musst du unbedingt sehen!",
+        "Bunu mutlaka görmelisin!"
+      ]
+    ],
+    "ungefähr": [
+      [
+        "ungefähr zehn Minuten",
+        "yaklaşık on dakika"
+      ],
+      [
+        "Das stimmt ungefähr.",
+        "Bu kabaca doğru."
+      ]
+    ],
+    "unheimlich": [
+      [
+        "unheimlich gut",
+        "müthiş iyi"
+      ],
+      [
+        "unheimlich müde",
+        "çok yorgun"
+      ]
+    ],
+    "vermutlich": [
+      [
+        "vermutlich kommt er später",
+        "muhtemelen daha sonra gelecek"
+      ]
+    ],
+    "vorgestern": [
+      [
+        "vorgestern Abend",
+        "evvelsi akşam"
+      ],
+      [
+        "vorgestern früh",
+        "evvelsi sabah"
+      ]
+    ],
+    "vorhin": [
+      [
+        "Ich habe ihn vorhin gesehen.",
+        "Onu az önce gördüm."
+      ],
+      [
+        "vorhin angerufen haben",
+        "az önce aramış olmak"
+      ]
+    ],
+    "wenig": [
+      [
+        "wenig Zeit haben",
+        "az vakti olmak"
+      ],
+      [
+        "ein wenig",
+        "biraz"
+      ]
+    ],
+    "zuletzt": [
+      [
+        "Wann hast du ihn zuletzt gesehen?",
+        "Onu en son ne zaman gördün?"
+      ],
+      [
+        "zuletzt kommen",
+        "en son gelmek"
+      ]
+    ],
+    "zurück": [
+      [
+        "hin und zurück",
+        "gidiş dönüş"
+      ],
+      [
+        "zurück nach Hause",
+        "eve geri"
+      ]
+    ],
+    "anwesend": [
+      [
+        "bei etwas anwesend sein · bei + Dativ",
+        "bir şeyde hazır bulunmak"
+      ],
+      [
+        "Alle sind anwesend.",
+        "Herkes burada."
+      ]
+    ],
+    "bequem": [
+      [
+        "bequem sitzen",
+        "rahat oturmak"
+      ],
+      [
+        "ein bequemer Stuhl",
+        "rahat bir sandalye"
+      ]
+    ],
+    "bestimmt": [
+      [
+        "Er kommt bestimmt.",
+        "O kesinlikle gelir."
+      ],
+      [
+        "ein bestimmter Tag",
+        "belirli bir gün"
+      ]
+    ],
+    "beweglich": [
+      [
+        "beweglich bleiben",
+        "hareketli kalmak"
+      ],
+      [
+        "bewegliche Teile",
+        "hareketli parçalar"
+      ]
+    ],
+    "billig": [
+      [
+        "billig einkaufen",
+        "ucuza alışveriş yapmak"
+      ],
+      [
+        "Das ist billig.",
+        "Bu ucuz."
+      ]
+    ],
+    "dunkel": [
+      [
+        "dunkel sein",
+        "karanlık olmak"
+      ],
+      [
+        "dunkle Haare",
+        "koyu saç"
+      ]
+    ],
+    "einzeln": [
+      [
+        "einzeln verkaufen",
+        "tek tek satmak"
+      ],
+      [
+        "jeder Einzelne",
+        "her bir kişi"
+      ]
+    ],
+    "folgend": [
+      [
+        "im folgenden Text",
+        "aşağıdaki metinde"
+      ],
+      [
+        "am folgenden Tag",
+        "ertesi gün"
+      ]
+    ],
+    "gegenständlich": [
+      [
+        "gegenständlich malen",
+        "nesnel / figüratif resim yapmak"
+      ],
+      [
+        "gegenständliche Kunst",
+        "figüratif sanat"
+      ]
+    ],
+    "gegenwärtig": [
+      [
+        "die gegenwärtige Lage",
+        "şimdiki durum"
+      ],
+      [
+        "gegenwärtig arbeiten",
+        "şu sıralar çalışmak"
+      ]
+    ],
+    "geschlossen": [
+      [
+        "geschlossen sein",
+        "kapalı olmak"
+      ],
+      [
+        "Das Geschäft ist geschlossen.",
+        "Dükkân kapalı."
+      ]
+    ],
+    "geöffnet": [
+      [
+        "geöffnet sein",
+        "açık olmak"
+      ],
+      [
+        "von 9 bis 18 Uhr geöffnet",
+        "9–18 arası açık"
+      ]
+    ],
+    "gratis": [
+      [
+        "gratis bekommen",
+        "bedava almak"
+      ],
+      [
+        "gratis sein",
+        "ücretsiz olmak"
+      ]
+    ],
+    "günstig": [
+      [
+        "günstig kaufen",
+        "uygun fiyata almak"
+      ],
+      [
+        "ein günstiger Preis",
+        "uygun bir fiyat"
+      ]
+    ],
+    "hübsch": [
+      [
+        "hübsch aussehen",
+        "güzel görünmek"
+      ],
+      [
+        "ein hübsches Kleid",
+        "şirin bir elbise"
+      ]
+    ],
+    "obsolet": [
+      [
+        "obsolet sein",
+        "eskimiş / geçersiz olmak"
+      ],
+      [
+        "obsolete Geräte",
+        "eskimiş cihazlar"
+      ]
+    ],
+    "störend": [
+      [
+        "störend sein für jemanden · für + Akkusativ",
+        "biri için rahatsız edici olmak"
+      ],
+      [
+        "störender Lärm",
+        "rahatsız edici gürültü"
+      ]
+    ],
+    "teuer": [
+      [
+        "teuer sein",
+        "pahalı olmak"
+      ],
+      [
+        "teuer bezahlen",
+        "pahalıya ödemek"
+      ]
+    ],
+    "zeitgenössisch": [
+      [
+        "zeitgenössische Kunst",
+        "çağdaş sanat"
+      ],
+      [
+        "ein zeitgenössischer Autor",
+        "çağdaş bir yazar"
+      ]
+    ],
+    "zeitraubend": [
+      [
+        "zeitraubend sein",
+        "zaman alıcı olmak"
+      ],
+      [
+        "eine zeitraubende Arbeit",
+        "zaman alan bir iş"
+      ]
+    ],
+    "zweibändig": [
+      [
+        "ein zweibändiges Lexikon",
+        "iki ciltlik bir sözlük"
+      ]
+    ],
+    "überflüssig machen": [
+      [
+        "etwas überflüssig machen",
+        "bir şeyi gereksiz kılmak"
+      ]
+    ],
+    "Angebot": [
+      [
+        "ein Angebot machen",
+        "teklifte bulunmak"
+      ],
+      [
+        "im Angebot sein",
+        "indirimde olmak"
+      ],
+      [
+        "Angebot und Nachfrage",
+        "arz ve talep"
+      ]
+    ],
+    "Anmeldung": [
+      [
+        "die Anmeldung zum Kurs · zu + Dativ",
+        "kursa kayıt"
+      ],
+      [
+        "eine Anmeldung ausfüllen",
+        "kayıt formu doldurmak"
+      ]
+    ],
+    "Einkaufswagen": [
+      [
+        "den Einkaufswagen schieben",
+        "alışveriş arabasını itmek"
+      ],
+      [
+        "etwas in den Einkaufswagen legen · in + Akkusativ",
+        "bir şeyi arabaya koymak"
+      ]
+    ],
+    "Erstattung": [
+      [
+        "eine Erstattung beantragen",
+        "geri ödeme talep etmek"
+      ],
+      [
+        "die Erstattung der Kosten (Genitiv)",
+        "masrafların geri ödenmesi"
+      ]
+    ],
+    "Größe": [
+      [
+        "Größe M",
+        "M beden"
+      ],
+      [
+        "die Größe ändern",
+        "boyutu değiştirmek"
+      ],
+      [
+        "in Größe 38",
+        "38 numara"
+      ]
+    ],
+    "Kassenbon": [
+      [
+        "den Kassenbon aufbewahren",
+        "fişi saklamak"
+      ],
+      [
+        "ohne Kassenbon",
+        "fişsiz"
+      ]
+    ],
+    "Quittung": [
+      [
+        "eine Quittung ausstellen",
+        "makbuz düzenlemek"
+      ],
+      [
+        "eine Quittung verlangen",
+        "makbuz istemek"
+      ]
+    ],
+    "Rechnung": [
+      [
+        "die Rechnung bezahlen",
+        "faturayı ödemek"
+      ],
+      [
+        "Die Rechnung, bitte!",
+        "Hesap lütfen!"
+      ],
+      [
+        "eine Rechnung schreiben",
+        "fatura kesmek"
+      ]
+    ],
+    "Termin": [
+      [
+        "einen Termin vereinbaren",
+        "randevu ayarlamak"
+      ],
+      [
+        "einen Termin absagen",
+        "randevuyu iptal etmek"
+      ],
+      [
+        "einen Termin beim Arzt haben · bei + Dativ",
+        "doktorda randevusu olmak"
+      ]
+    ],
+    "Versicherung": [
+      [
+        "eine Versicherung abschließen",
+        "sigorta yaptırmak"
+      ],
+      [
+        "bei einer Versicherung · bei + Dativ",
+        "bir sigortada"
+      ]
+    ],
+    "Öffnungszeit": [
+      [
+        "die Öffnungszeiten prüfen",
+        "çalışma saatlerini kontrol etmek"
+      ],
+      [
+        "zu den Öffnungszeiten · zu + Dativ",
+        "çalışma saatlerinde"
+      ]
+    ],
+    "Überweisung": [
+      [
+        "eine Überweisung machen",
+        "havale yapmak"
+      ],
+      [
+        "per Überweisung bezahlen · per + Akkusativ",
+        "havaleyle ödemek"
+      ]
+    ],
+    "Geld sparen": [
+      [
+        "Geld sparen",
+        "para biriktirmek"
+      ],
+      [
+        "Geld für etwas sparen · für + Akkusativ",
+        "bir şey için para biriktirmek"
+      ]
+    ],
+    "Zugang haben zu": [
+      [
+        "Zugang zu etwas haben · zu + Dativ",
+        "bir şeye erişimi olmak"
+      ],
+      [
+        "keinen Zugang haben",
+        "erişimi olmamak"
+      ]
+    ],
+    "an der Wand": [
+      [
+        "an der Wand hängen",
+        "duvarda asılı olmak"
+      ],
+      [
+        "an der Wand lehnen",
+        "duvara dayanmak"
+      ]
+    ],
+    "an die Wand": [
+      [
+        "etwas an die Wand hängen",
+        "bir şeyi duvara asmak"
+      ],
+      [
+        "an die Wand malen",
+        "duvara resim yapmak"
+      ]
+    ],
+    "auf den Tisch": [
+      [
+        "etwas auf den Tisch legen",
+        "bir şeyi masaya koymak"
+      ],
+      [
+        "auf den Tisch klopfen",
+        "masaya vurmak"
+      ]
+    ],
+    "eine Ausbildung machen": [
+      [
+        "eine Ausbildung zum Koch machen · zu + Dativ",
+        "aşçılık eğitimi görmek"
+      ],
+      [
+        "nach der Schule eine Ausbildung machen",
+        "okuldan sonra meslek eğitimi almak"
+      ]
+    ],
+    "im echten Leben": [
+      [
+        "im echten Leben anders sein",
+        "gerçek hayatta farklı olmak"
+      ],
+      [
+        "im echten Leben treffen",
+        "gerçek hayatta buluşmak"
+      ]
+    ],
+    "nach Hause": [
+      [
+        "nach Hause gehen",
+        "eve gitmek"
+      ],
+      [
+        "nach Hause kommen",
+        "eve gelmek"
+      ]
+    ],
+    "zu Beginn": [
+      [
+        "zu Beginn des Jahres",
+        "yılın başında"
+      ],
+      [
+        "zu Beginn des Kurses",
+        "kursun başında"
+      ]
+    ],
+    "zu Besuch": [
+      [
+        "zu Besuch kommen",
+        "ziyarete gelmek"
+      ],
+      [
+        "zu Besuch sein",
+        "misafir olmak"
+      ]
+    ],
+    "zu dritt": [
+      [
+        "zu dritt gehen",
+        "üç kişi olarak gitmek"
+      ],
+      [
+        "zu dritt wohnen",
+        "üç kişi yaşamak"
+      ]
+    ],
+    "zu Ende": [
+      [
+        "zu Ende sein",
+        "bitmek"
+      ],
+      [
+        "etwas zu Ende lesen",
+        "bir şeyi sonuna kadar okumak"
+      ]
+    ],
+    "zu Fuß": [
+      [
+        "zu Fuß gehen",
+        "yürüyerek gitmek"
+      ],
+      [
+        "zu Fuß zur Arbeit",
+        "işe yürüyerek"
+      ]
+    ],
+    "zu Gast sein": [
+      [
+        "bei Freunden zu Gast sein · bei + Dativ",
+        "arkadaşlarda misafir olmak"
+      ],
+      [
+        "zu Gast sein",
+        "konuk olmak"
+      ]
+    ],
+    "zu Hause": [
+      [
+        "zu Hause bleiben",
+        "evde kalmak"
+      ],
+      [
+        "zu Hause arbeiten",
+        "evde çalışmak"
+      ]
+    ],
+    "zu Recht": [
+      [
+        "zu Recht stolz sein",
+        "haklı olarak gurur duymak"
+      ],
+      [
+        "zu Recht fragen",
+        "haklı olarak sormak"
+      ]
+    ],
+    "zu zweit": [
+      [
+        "zu zweit essen",
+        "iki kişi yemek yemek"
+      ],
+      [
+        "zu zweit reisen",
+        "ikili seyahat etmek"
+      ]
+    ],
+    "zum Beispiel": [
+      [
+        "zum Beispiel Obst",
+        "örneğin meyve"
+      ],
+      [
+        "zum Beispiel heute",
+        "örneğin bugün"
+      ]
+    ],
+    "zum ersten Mal": [
+      [
+        "zum ersten Mal in Berlin sein",
+        "ilk kez Berlin'de olmak"
+      ],
+      [
+        "zum ersten Mal sehen",
+        "ilk kez görmek"
+      ]
+    ],
+    "zum Frühstück": [
+      [
+        "zum Frühstück Brot essen",
+        "kahvaltıda ekmek yemek"
+      ],
+      [
+        "zum Frühstück Kaffee trinken",
+        "kahvaltıda kahve içmek"
+      ]
+    ],
+    "zum Glück": [
+      [
+        "Zum Glück ist nichts passiert.",
+        "Neyse ki bir şey olmadı."
+      ],
+      [
+        "zum Glück rechtzeitig",
+        "neyse ki zamanında"
+      ]
+    ],
+    "zum Mittagessen": [
+      [
+        "zum Mittagessen gehen",
+        "öğle yemeğine gitmek"
+      ],
+      [
+        "zum Mittagessen einladen",
+        "öğle yemeğine davet etmek"
+      ]
+    ],
+    "zum Schluss": [
+      [
+        "zum Schluss sagen",
+        "sonunda söylemek"
+      ],
+      [
+        "zum Schluss danken",
+        "sonunda teşekkür etmek"
+      ]
+    ],
+    "Klatsch und Tratsch": [
+      [
+        "sich für Klatsch und Tratsch interessieren · für + Akkusativ",
+        "dedikoduyla ilgilenmek"
+      ],
+      [
+        "über Klatsch und Tratsch reden · über + Akkusativ",
+        "dedikodu yapmak"
+      ]
+    ],
+    "lauft herum": [
+      [
+        "Er läuft herum.",
+        "O dolaşıyor."
+      ],
+      [
+        "Ich laufe viel herum.",
+        "Çok dolaşıyorum."
+      ]
+    ],
+    "wissen": [
+      [
+        "etwas wissen (Akkusativ)",
+        "bir şeyi bilmek"
+      ],
+      [
+        "von etwas wissen · von + Dativ",
+        "bir şeyden haberdar olmak"
+      ],
+      [
+        "Ich weiß es nicht.",
+        "Bilmiyorum."
+      ]
+    ],
+    "kosten": [
+      [
+        "Das kostet fünf Euro.",
+        "Bu beş euro."
+      ],
+      [
+        "Wie viel kostet das?",
+        "Bu ne kadar?"
+      ],
+      [
+        "Es kostet viel Zeit.",
+        "Çok zaman alır."
+      ],
+      [
+        "Was kostet das Modell?",
+        "Model ne kadar?"
+      ]
+    ],
+    "spinnen": [
+      [
+        "Wolle spinnen",
+        "yün eğirmek"
+      ],
+      [
+        "Du spinnst!",
+        "Sen delirdin! / Çıldırdın mı!"
+      ]
+    ]
+  }
+}

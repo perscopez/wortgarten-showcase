@@ -1,0 +1,15 @@
+== gehen ({{Sprache|Deutsch}}) ==
+{{Deutsch Verb Übersicht
+|Präsens_ich=gehe
+|Präsens_du=gehst
+|Präsens_er, sie, es=geht
+|Präteritum_ich=ging
+|Partizip II=gegangen
+|Konjunktiv II_ich=ginge
+|Imperativ Singular=geh
+|Imperativ Singular*=gehe
+|Imperativ Plural=geht
+|Imperativ Plural*=gehet
+|Hilfsverb=sein
+|Bild=Blender3D NormalWalkCycle.gif|mini|1|Animation einer ''gehenden'' Person
+}}

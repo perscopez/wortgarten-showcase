@@ -1,0 +1,1828 @@
+{
+  "führen": {
+    "word": "führen",
+    "meaning": "götürmek; yönlendirmek; yönetmek; önde gitmek; (bir ürünü) satmak / bulundurmak",
+    "article": "",
+    "plural": "",
+    "example": "Der Knappe führt das Pferd in den Stall.",
+    "translation": "Yaver atı ahıra götürür.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/f%C3%BChren"
+  },
+  "zählen": {
+    "word": "zählen",
+    "meaning": "saymak; sayılmak; önem taşımak",
+    "article": "",
+    "plural": "",
+    "example": "Horst zählt die leeren Bierflaschen auf seinem Küchentisch.",
+    "translation": "Horst mutfak masasındaki boş bira şişelerini sayar.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/z%C3%A4hlen"
+  },
+  "dauern": {
+    "word": "dauern",
+    "meaning": "sürmek; devam etmek",
+    "article": "",
+    "plural": "",
+    "example": "Eine Massage dauert 45 Minuten.",
+    "translation": "Bir masaj 45 dakika sürer.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/dauern"
+  },
+  "entschuldigen": {
+    "word": "entschuldigen",
+    "meaning": "mazur görmek; (sich entschuldigen) özür dilemek",
+    "article": "",
+    "plural": "",
+    "example": "Dieser Fehler ist nicht zu entschuldigen.",
+    "translation": "Bu hata mazur görülemez.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/entschuldigen"
+  },
+  "ausstellungsbesucher": {
+    "word": "Ausstellungsbesucher",
+    "meaning": "sergi ziyaretçisi",
+    "article": "der",
+    "plural": "Ausstellungsbesucher",
+    "example": "Der Ausstellungsbesucher betrachtet ein Bild.",
+    "translation": "Sergi ziyaretçisi bir resme bakıyor.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Ausstellungsbesucher"
+  },
+  "tätigkeit": {
+    "word": "Tätigkeit",
+    "meaning": "iş; meşgale; meşguliyet",
+    "article": "die",
+    "plural": "Tätigkeiten",
+    "example": "Ihr Tag ist mit den verschiedensten Tätigkeiten ausgefüllt.",
+    "translation": "Günü çok çeşitli faaliyetlerle dolu.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/T%C3%A4tigkeit"
+  },
+  "massenmedium": {
+    "word": "Massenmedium",
+    "meaning": "kitle iletişim aracı",
+    "article": "das",
+    "plural": "Massenmedien",
+    "example": "Das Radio ist ein Massenmedium.",
+    "translation": "Radyo bir kitle iletişim aracıdır.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Massenmedium"
+  },
+  "eben": {
+    "word": "eben",
+    "meaning": "düz; zarf olarak: az önce / tam da",
+    "article": "",
+    "plural": "",
+    "example": "Die ebene Landschaft erstreckt sich bis zum Horizont.",
+    "translation": "Düz manzara ufka kadar uzanır.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/eben"
+  },
+  "momentan": {
+    "word": "momentan",
+    "meaning": "şu anda; şu anki",
+    "article": "",
+    "plural": "",
+    "example": "Momentan habe ich sehr wenig Zeit.",
+    "translation": "Şu anda çok az zamanım var.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/momentan"
+  },
+  "kaffee": {
+    "word": "Kaffee",
+    "meaning": "kahve",
+    "article": "der",
+    "plural": "Kaffees",
+    "example": "Ich trinke eine Tasse Kaffee.",
+    "translation": "Bir fincan kahve içiyorum.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Kaffee"
+  },
+  "holz": {
+    "word": "Holz",
+    "meaning": "odun; ahşap; kereste; yöresel olarak: orman",
+    "article": "das",
+    "plural": "Hölzer",
+    "example": "Das Holz ist morsch.",
+    "translation": "Ahşap çürümüş.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Holz"
+  },
+  "weiterbildung": {
+    "word": "Weiterbildung",
+    "meaning": "mesleki gelişim; ileri eğitim",
+    "article": "die",
+    "plural": "—",
+    "example": "Sie macht eine Weiterbildung im Bereich Pflege.",
+    "translation": "Hasta bakımı alanında ileri eğitim alıyor.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Weiterbildung"
+  },
+  "störend": {
+    "word": "störend",
+    "meaning": "rahatsız edici",
+    "article": "",
+    "plural": "",
+    "example": "Das laute Geräusch ist sehr störend.",
+    "translation": "Yüksek ses çok rahatsız edici.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/st%C3%B6rend"
+  },
+  "bewerben": {
+    "word": "bewerben",
+    "meaning": "(sich um etwas bewerben) başvurmak; (etwas bewerben) tanıtımını / reklamını yapmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich bewerbe mich um die Stelle.",
+    "translation": "Bu pozisyona başvuruyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/bewerben"
+  },
+  "unterhalten": {
+    "word": "unterhalten",
+    "meaning": "eğlendirmek; (sich mit jemandem unterhalten) sohbet etmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich unterhalte mich mit meiner Nachbarin.",
+    "translation": "Komşumla sohbet ediyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/unterhalten"
+  },
+  "erkundingen": {
+    "word": "sich erkundigen",
+    "meaning": "bilgi almak; soruşturmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich erkundige mich nach dem Weg.",
+    "translation": "Yolu soruyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/erkundigen"
+  },
+  "sich erkundigen": {
+    "word": "sich erkundigen",
+    "meaning": "bilgi almak; soruşturmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich erkundige mich nach dem Weg.",
+    "translation": "Yolu soruyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/erkundigen"
+  },
+  "gleich": {
+    "word": "gleich",
+    "meaning": "aynı; eşit; zarf olarak: birazdan / hemen",
+    "article": "",
+    "plural": "",
+    "example": "Ich komme gleich.",
+    "translation": "Birazdan geliyorum.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/gleich"
+  },
+  "damals": {
+    "word": "damals",
+    "meaning": "o zamanlar; o dönemde",
+    "article": "",
+    "plural": "",
+    "example": "Damals wohnte ich noch in der Türkei.",
+    "translation": "O zamanlar hâlâ Türkiye’de yaşıyordum.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/damals"
+  },
+  "honig": {
+    "word": "Honig",
+    "meaning": "bal",
+    "article": "der",
+    "plural": "Honige",
+    "example": "Ich esse Brot mit Honig.",
+    "translation": "Ballı ekmek yiyorum.",
+    "source": "https://de.wiktionary.org/wiki/Honig"
+  },
+  "koffer": {
+    "word": "Koffer",
+    "meaning": "bavul; valiz; argo (Avusturya): aptal",
+    "article": "der",
+    "plural": "Koffer",
+    "example": "Ich packe meinen Koffer.",
+    "translation": "Bavulumu hazırlıyorum.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Koffer"
+  },
+  "medium": {
+    "word": "Medium",
+    "meaning": "iletişim aracı; ortam; medyum",
+    "article": "das",
+    "plural": "Medien (auch: Media)",
+    "example": "Medien sind wie Sprache und Texte analysierbar und erforschbar.",
+    "translation": "Dil ve metinler gibi medya analiz edilebilir ve araştırılabilir.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Medium"
+  },
+  "kurtzlich": {
+    "word": "kürzlich",
+    "meaning": "geçenlerde; yakın zamanda",
+    "article": "",
+    "plural": "",
+    "example": "Ich habe ihn kürzlich gesehen.",
+    "translation": "Onu geçenlerde gördüm.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/k%C3%BCrzlich"
+  },
+  "kürzlich": {
+    "word": "kürzlich",
+    "meaning": "geçenlerde; yakın zamanda",
+    "article": "",
+    "plural": "",
+    "example": "Ich habe ihn kürzlich gesehen.",
+    "translation": "Onu geçenlerde gördüm.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/k%C3%BCrzlich"
+  },
+  "sich bedanken": {
+    "word": "sich bedanken",
+    "meaning": "teşekkür etmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte mich bei Ihnen für Ihre große Hilfe bedanken.",
+    "translation": "Büyük yardımınız için teşekkür ederim.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/bedanken"
+  },
+  "vorgestern": {
+    "word": "vorgestern",
+    "meaning": "evvelsi gün; dünden önceki gün",
+    "article": "",
+    "plural": "",
+    "example": "Vorgestern hätte ich fast einen schlimmen Autounfall verursacht.",
+    "translation": "Evvelsi gün az kalsın kötü bir araba kazasına sebep oluyordum.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/vorgestern"
+  },
+  "sahne": {
+    "word": "Sahne",
+    "meaning": "krema; çırpılmış krema / krem şanti",
+    "article": "die",
+    "plural": "—",
+    "example": "Ich trinke meinen Kaffee mit Sahne.",
+    "translation": "Kahvemi kremalı içiyorum.",
+    "source": "https://de.wiktionary.org/wiki/Sahne"
+  },
+  "abteilungsbesprechung": {
+    "word": "Abteilungsbesprechung",
+    "meaning": "bölüm toplantısı",
+    "article": "die",
+    "plural": "Abteilungsbesprechungen",
+    "example": "Die Abteilungsbesprechung beginnt um zehn Uhr.",
+    "translation": "Bölüm toplantısı saat onda başlıyor.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Abteilungsbesprechung"
+  },
+  "fahren": {
+    "word": "fahren",
+    "meaning": "(araçla) gitmek; araç sürmek; taşımak / gezdirmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich fahre morgen nach Paris.",
+    "translation": "Yarın Paris'e gidiyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/fahren"
+  },
+  "tun": {
+    "word": "tun",
+    "meaning": "yapmak; etmek",
+    "article": "",
+    "plural": "",
+    "example": "Was tust du?",
+    "translation": "Ne yapıyorsun?",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/tun"
+  },
+  "verspätung": {
+    "word": "Verspätung",
+    "meaning": "Gecikme",
+    "article": "die",
+    "plural": "Verspätungen",
+    "example": "Der Flieger nach Berlin hat schon wieder Verspätung.",
+    "translation": "Berlin uçağı yine gecikti.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Versp%C3%A4tung"
+  },
+  "unbedingt": {
+    "word": "unbedingt",
+    "meaning": "mutlaka; kesinlikle",
+    "article": "",
+    "plural": "",
+    "example": "Ich muss unbedingt mit dir sprechen.",
+    "translation": "Seninle mutlaka konuşmam gerek.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/unbedingt"
+  },
+  "preis": {
+    "word": "Preis",
+    "meaning": "fiyat; paha; ödül; nişan",
+    "article": "der",
+    "plural": "Preise",
+    "example": "Der Preis für das Ticket beträgt zwanzig Euro.",
+    "translation": "Biletin fiyatı yirmi avro.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Preis"
+  },
+  "vorhin": {
+    "word": "vorhin",
+    "meaning": "az önce; biraz önce",
+    "article": "",
+    "plural": "",
+    "example": "Ich habe vorhin gerade erst eine Suppe gegessen, danke, ich habe jetzt keinen Appetit mehr.",
+    "translation": "Az önce çorba içtim, sağ ol, iştahım yok şimdi.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/vorhin"
+  },
+  "sinvoll": {
+    "word": "sinnvoll",
+    "meaning": "anlamlı; mantıklı",
+    "article": "",
+    "plural": "",
+    "example": "Das ist eine sinnvolle Lösung.",
+    "translation": "Bu mantıklı bir çözüm.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/sinnvoll"
+  },
+  "sinnvoll": {
+    "word": "sinnvoll",
+    "meaning": "anlamlı; mantıklı",
+    "article": "",
+    "plural": "",
+    "example": "Das ist eine sinnvolle Lösung.",
+    "translation": "Bu mantıklı bir çözüm.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/sinnvoll"
+  },
+  "aufstehen": {
+    "word": "aufstehen",
+    "meaning": "ayağa kalkmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich bin heute extra früh aufgestanden.",
+    "translation": "Bugün özellikle erken kalktım.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/aufstehen"
+  },
+  "obwohl": {
+    "word": "obwohl",
+    "meaning": "... olmasına rağmen; her ne kadar ...",
+    "article": "",
+    "plural": "",
+    "example": "Das Fenster war wieder zu, obwohl ich es geöffnet hatte.",
+    "translation": "Açmış olmama rağmen pencere tekrar kapandı.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/obwohl"
+  },
+  "verzichten": {
+    "word": "verzichten",
+    "meaning": "vazgeçmek; feragat etmek (auf + Akkusativ)",
+    "article": "",
+    "plural": "",
+    "example": "Ich verzichte heute auf Süßigkeiten.",
+    "translation": "Bugün tatlı yemekten vazgeçiyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/verzichten"
+  },
+  "verschieben": {
+    "word": "verschieben",
+    "meaning": "kaydırmak; yerini değiştirmek; ertelemek",
+    "article": "",
+    "plural": "",
+    "example": "Der Kommandant befahl, die Truppen auf die gegenüberliegende Hügelkette zu verschieben.",
+    "translation": "Komutan, birliklerin karşıt tepelere taşınmasını emretti.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/verschieben"
+  },
+  "heutzutage": {
+    "word": "heutzutage",
+    "meaning": "günümüzde; bugünlerde",
+    "article": "",
+    "plural": "",
+    "example": "Heutzutage wird viel weniger gelesen.",
+    "translation": "Günümüzde çok daha az kitap okunuyor.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/heutzutage"
+  },
+  "gegenstand": {
+    "word": "Gegenstand",
+    "meaning": "nesne; eşya; konu",
+    "article": "der",
+    "plural": "Gegenstände",
+    "example": "Räume bitte all deine Gegenstände aus meinem Zimmer.",
+    "translation": "Lütfen bütün eşyalarını odamdan çıkar.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Gegenstand"
+  },
+  "verkehrssystem": {
+    "word": "Verkehrssystem",
+    "meaning": "ulaşım sistemi",
+    "article": "das",
+    "plural": "Verkehrssysteme",
+    "example": "Die Stadt hat ein modernes Verkehrssystem.",
+    "translation": "Şehrin modern bir ulaşım sistemi var.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Verkehrssystem"
+  },
+  "bilden": {
+    "word": "bilden",
+    "meaning": "oluşturmak; meydana getirmek",
+    "article": "",
+    "plural": "",
+    "example": "Wir bilden einen Kreis.",
+    "translation": "Bir çember oluşturuyoruz.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/bilden"
+  },
+  "ebenfalls": {
+    "word": "ebenfalls",
+    "meaning": "de / da; aynı şekilde; ayrıca",
+    "article": "",
+    "plural": "",
+    "example": "Ich werde ebenfalls nach Hause gehen.",
+    "translation": "Ben de eve gideceğim.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/ebenfalls"
+  },
+  "kosten": {
+    "word": "kosten",
+    "meaning": "mal olmak; fiyatı olmak; tatmak",
+    "article": "",
+    "plural": "",
+    "example": "Diese Vase hat ihn sehr viel Geld gekostet.",
+    "translation": "Bu vazo ona çok paraya mal oldu.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/kosten"
+  },
+  "beschäftigen": {
+    "word": "beschäftigen",
+    "meaning": "istihdam etmek; meşgul etmek; (sich mit etwas beschäftigen) bir şeyle uğraşmak / ilgilenmek",
+    "article": "",
+    "plural": "",
+    "example": "Dieses Problem beschäftigte ihn so sehr, dass er kaum Zeit für andere Tätigkeiten hatte.",
+    "translation": "Bu sorun onu o kadar meşgul ediyordu ki, diğer faaliyetlere neredeyse hiç zamanı yoktu.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/besch%C3%A4ftigen"
+  },
+  "besitzer": {
+    "word": "Besitzer",
+    "meaning": "zilyet; elinde / kullanımında bulunduran kişi (malik olmak zorunda değil)",
+    "article": "der",
+    "plural": "Besitzer",
+    "example": "Hans ist als Mieter Besitzer des Wagens, aber Klaus ist rechtlich gesehen Eigentümer.",
+    "translation": "Hans kiracı olarak aracı elinde bulunduruyor; fakat hukuken aracın maliki Klaus.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Besitzer"
+  },
+  "stock": {
+    "word": "Stock",
+    "meaning": "sopa (çoğul: Stöcke); kat (çoğul: Stockwerke; kat numarasında: Stock)",
+    "article": "der",
+    "plural": "Stöcke (sopa); Stockwerke (kat)",
+    "example": "Der Kampf mit dem Stock ist eine raue japanische Sportart.",
+    "translation": "Sopayla mücadele sert bir Japon sporudur.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Stock"
+  },
+  "beschweren": {
+    "word": "beschweren",
+    "meaning": "(sich über etwas beschweren) şikâyet etmek; (etwas beschweren) üzerine ağırlık koymak",
+    "article": "",
+    "plural": "",
+    "example": "Ich beschwere mich über den Lärm.",
+    "translation": "Gürültüden şikâyet ediyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/beschweren"
+  },
+  "verlängern": {
+    "word": "verlängern",
+    "meaning": "uzatmak",
+    "article": "",
+    "plural": "",
+    "example": "Die Schneiderin verlängert die Hosenbeine mit viel Aufwand und Können.",
+    "translation": "Terzi pantolon paçalarını büyük emek ve ustalıkla uzatıyor.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/verl%C3%A4ngern"
+  },
+  "verschwenden": {
+    "word": "verschwenden",
+    "meaning": "boşa harcamak; israf etmek",
+    "article": "",
+    "plural": "",
+    "example": "Verschwende keine Zeit.",
+    "translation": "Zamanını boşa harcama.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/verschwenden"
+  },
+  "echten leben": {
+    "word": "im echten Leben",
+    "meaning": "gerçek hayatta",
+    "article": "",
+    "plural": "",
+    "example": "Im echten Leben ist er ganz anders.",
+    "translation": "Gerçek hayatta o çok farklı.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/im%20echten%20Leben"
+  },
+  "im echten leben": {
+    "word": "im echten Leben",
+    "meaning": "gerçek hayatta",
+    "article": "",
+    "plural": "",
+    "example": "Im echten Leben ist er ganz anders.",
+    "translation": "Gerçek hayatta o çok farklı.",
+    "partOfSpeech": "unknown",
+    "source": "https://de.wiktionary.org/wiki/im%20echten%20Leben"
+  },
+  "eigentümer": {
+    "word": "Eigentümer",
+    "meaning": "malik; mülkün hukuki sahibi",
+    "article": "der",
+    "plural": "Eigentümer",
+    "example": "Klaus ist Eigentümer dieses Fahrrads.",
+    "translation": "Bu bisiklet Klaus'un.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Eigent%C3%BCmer"
+  },
+  "trennen": {
+    "word": "trennen",
+    "meaning": "ayırmak",
+    "article": "",
+    "plural": "",
+    "example": "Der Türsteher musste die beiden Streithähne trennen.",
+    "translation": "Kapı görevlisi tartışan iki kişiyi ayırmak zorunda kaldı.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/trennen"
+  },
+  "beantworten": {
+    "word": "beantworten",
+    "meaning": "cevaplamak; yanıtlamak",
+    "article": "",
+    "plural": "",
+    "example": "Er beantwortet die Fragen blitzschnell.",
+    "translation": "Soruları bir çırpıda cevaplar.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/beantworten"
+  },
+  "schließen": {
+    "word": "schließen",
+    "meaning": "kapatmak",
+    "article": "",
+    "plural": "",
+    "example": "Tür bitte schließen!",
+    "translation": "Lütfen kapıyı kapatın!",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/schlie%C3%9Fen"
+  },
+  "ölbild": {
+    "word": "Ölbild",
+    "meaning": "yağlıboya tablo",
+    "article": "das",
+    "plural": "Ölbilder",
+    "example": "An der Wand hängt ein Ölbild.",
+    "translation": "Duvarda bir yağlıboya tablo asılı.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/%C3%96lbild"
+  },
+  "winterzeit": {
+    "word": "Winterzeit",
+    "meaning": "kış mevsimi; kış saati (standart saat uygulaması)",
+    "article": "die",
+    "plural": "Winterzeiten",
+    "example": "In der Winterzeit zieht man sich warm an.",
+    "translation": "Kış mevsiminde kalın giyinilir.",
+    "source": "https://de.wiktionary.org/wiki/Winterzeit"
+  },
+  "film": {
+    "word": "Film",
+    "meaning": "film; ince tabaka",
+    "article": "der",
+    "plural": "Filme",
+    "example": "Heute schaue ich einen Film.",
+    "translation": "Bugün bir film izliyorum.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Film"
+  },
+  "dürfen": {
+    "word": "dürfen",
+    "meaning": "izinli olmak; izin verilmek; -ebilmek (izin)",
+    "article": "",
+    "plural": "",
+    "example": "Mama, darf ich morgen ins Kino gehen?",
+    "translation": "Anne, yarın sinemaya gidebilir miyim?",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/d%C3%BCrfen"
+  },
+  "gefallen": {
+    "word": "gefallen",
+    "meaning": "hoşuna gitmek (+ Dativ); fallen fiilinin Partizip II biçimi olarak: düşmüş",
+    "article": "",
+    "plural": "",
+    "example": "Das Bild gefällt mir.",
+    "translation": "Bu resim hoşuma gidiyor.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/gefallen"
+  },
+  "losfahren": {
+    "word": "losfahren",
+    "meaning": "yola çıkmak; hareket etmek",
+    "article": "",
+    "plural": "",
+    "example": "Wir fahren morgen um acht Uhr los.",
+    "translation": "Yarın saat sekizde yola çıkıyoruz.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/losfahren"
+  },
+  "thema": {
+    "word": "Thema",
+    "meaning": "konu; mevzu; tema",
+    "article": "das",
+    "plural": "Themen",
+    "example": "Das Thema der Ausstellung ist Kunst des 19. Jahrhunderts.",
+    "translation": "Serginin teması 19. yüzyıl sanatıdır.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Thema"
+  },
+  "erinnern": {
+    "word": "erinnern",
+    "meaning": "hatırlatmak; (sich an etwas erinnern) hatırlamak",
+    "article": "",
+    "plural": "",
+    "example": "Ich erinnere mich an den Urlaub.",
+    "translation": "Tatili hatırlıyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/erinnern"
+  },
+  "gerade": {
+    "word": "gerade",
+    "meaning": "düz; doğru; (sayı) çift; zarf olarak: şu anda / az önce / tam",
+    "article": "",
+    "plural": "",
+    "example": "Diese Strecke ist sehr kurvenreich, die andere ist viel gerader.",
+    "translation": "Bu güzergâh çok virajlı, diğeri çok daha düz.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/gerade"
+  },
+  "ablösen": {
+    "word": "ablösen",
+    "meaning": "yerini almak; görevi devralmak; ayırıp çıkarmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich löse meinen Kollegen bei der Arbeit ab.",
+    "translation": "İşte meslektaşımın görevini devralıyorum.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/abl%C3%B6sen"
+  },
+  "zeitumstellung": {
+    "word": "Zeitumstellung",
+    "meaning": "saat değişikliği; yaz / kış saatine geçiş",
+    "article": "die",
+    "plural": "Zeitumstellungen",
+    "example": "Bei der Zeitumstellung stellen wir die Uhren um.",
+    "translation": "Yaz / kış saatine geçerken saatleri değiştiriyoruz.",
+    "source": "https://de.wiktionary.org/wiki/Zeitumstellung"
+  },
+  "warteschlange": {
+    "word": "Warteschlange",
+    "meaning": "kuyruk",
+    "article": "die",
+    "plural": "Warteschlangen",
+    "example": "Vor der Kinokasse bildet sich eine lange Warteschlange.",
+    "translation": "Sinema gişesinin önünde uzun bir kuyruk oluşuyor.",
+    "partOfSpeech": "noun",
+    "source": "https://de.wiktionary.org/wiki/Warteschlange"
+  },
+  "anwesend": {
+    "word": "anwesend",
+    "meaning": "hazır bulunan; orada bulunan",
+    "article": "",
+    "plural": "",
+    "example": "Heute sind alle Kursteilnehmer anwesend.",
+    "translation": "Bugün bütün kurs katılımcıları burada.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/anwesend"
+  },
+  "achten": {
+    "word": "achten",
+    "meaning": "dikkat etmek (auf + Akkusativ); saygı duymak",
+    "article": "",
+    "plural": "",
+    "example": "Achte bitte auf den Verkehr.",
+    "translation": "Lütfen trafiğe dikkat et.",
+    "partOfSpeech": "adjective",
+    "source": "https://de.wiktionary.org/wiki/achten"
+  },
+  "handeln": {
+    "word": "handeln",
+    "meaning": "davranmak; harekete geçmek; ticaret yapmak; (es handelt sich um) söz konusu olmak",
+    "article": "",
+    "plural": "",
+    "example": "Sie handelte sehr besonnen.",
+    "translation": "Çok sakince davrandı.",
+    "partOfSpeech": "verb",
+    "source": "https://de.wiktionary.org/wiki/handeln"
+  },
+  "verwandter": {
+    "word": "Verwandte",
+    "meaning": "akraba (der Verwandte / ein Verwandter; die Verwandte / eine Verwandte)",
+    "article": "der",
+    "plural": "Verwandten",
+    "example": "Ich habe keinen lebenden Verwandten mehr.",
+    "translation": "Artık yaşayan bir akrabam yok.",
+    "partOfSpeech": "noun",
+    "source": "https://www.duden.de/rechtschreibung/Verwandter"
+  },
+  "verwandte": {
+    "word": "Verwandte",
+    "meaning": "akraba (der Verwandte / ein Verwandter; die Verwandte / eine Verwandte)",
+    "article": "der",
+    "plural": "Verwandten",
+    "example": "Ich habe keinen lebenden Verwandten mehr.",
+    "translation": "Artık yaşayan bir akrabam yok.",
+    "partOfSpeech": "noun",
+    "source": "https://www.duden.de/rechtschreibung/Verwandter"
+  },
+  "taste": {
+    "word": "Taste",
+    "article": "die",
+    "plural": "Tasten",
+    "meaning": "tuş; düğme",
+    "example": "Drücke die grüne Taste.",
+    "translation": "Yeşil düğmeye bas.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "drücken": {
+    "word": "drücken",
+    "article": "",
+    "plural": "",
+    "meaning": "basmak; bastırmak; sıkmak",
+    "example": "Drücke bitte auf die Taste.",
+    "translation": "Lütfen tuşa bas.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "lesegerät": {
+    "word": "Lesegerät",
+    "article": "das",
+    "plural": "Lesegeräte",
+    "meaning": "okuyucu cihaz",
+    "example": "Das Lesegerät erkennt meine Karte.",
+    "translation": "Okuyucu cihaz kartımı tanıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "gerät": {
+    "word": "Gerät",
+    "article": "das",
+    "plural": "Geräte",
+    "meaning": "cihaz; alet",
+    "example": "Dieses Gerät funktioniert gut.",
+    "translation": "Bu cihaz iyi çalışıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "stellen": {
+    "word": "stellen",
+    "article": "",
+    "plural": "",
+    "meaning": "koymak; yerleştirmek (genellikle dik konumda)",
+    "example": "Ich stelle die Flasche auf den Tisch.",
+    "translation": "Şişeyi masanın üzerine koyuyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "verbindung": {
+    "word": "Verbindung",
+    "article": "die",
+    "plural": "Verbindungen",
+    "meaning": "bağlantı; ulaşım bağlantısı",
+    "example": "Die Verbindung ist stabil.",
+    "translation": "Bağlantı kararlı.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "verbinden": {
+    "word": "verbinden",
+    "article": "",
+    "plural": "",
+    "meaning": "bağlamak; bağlantı kurmak",
+    "example": "Ich verbinde mein Handy mit dem Computer.",
+    "translation": "Telefonumu bilgisayara bağlıyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "hinweisen": {
+    "word": "hinweisen",
+    "article": "",
+    "plural": "",
+    "meaning": "dikkat çekmek; belirtmek; işaret etmek (auf + Akkusativ)",
+    "example": "Die Lehrerin weist auf einen Fehler hin.",
+    "translation": "Öğretmen bir hataya dikkat çekiyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "benachrichtigen": {
+    "word": "benachrichtigen",
+    "article": "",
+    "plural": "",
+    "meaning": "haber vermek; bildirmek; bilgilendirmek",
+    "example": "Bitte benachrichtige mich per E-Mail.",
+    "translation": "Lütfen bana e-postayla haber ver.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "teilen": {
+    "word": "teilen",
+    "article": "",
+    "plural": "",
+    "meaning": "paylaşmak; bölmek",
+    "example": "Wir teilen die Rechnung.",
+    "translation": "Hesabı paylaşıyoruz.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "familienfreigabe": {
+    "word": "Familienfreigabe",
+    "article": "die",
+    "plural": "Familienfreigaben",
+    "meaning": "aile paylaşımı (dijital hizmetlerde)",
+    "example": "Ich aktiviere die Familienfreigabe.",
+    "translation": "Aile paylaşımını etkinleştiriyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "freigabe": {
+    "word": "Freigabe",
+    "article": "die",
+    "plural": "Freigaben",
+    "meaning": "paylaşım izni; erişime izin verme; onay",
+    "example": "Für die Freigabe brauche ich deine Zustimmung.",
+    "translation": "Paylaşım izni için onayına ihtiyacım var.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "genehmigung": {
+    "word": "Genehmigung",
+    "article": "die",
+    "plural": "Genehmigungen",
+    "meaning": "izin; resmî onay",
+    "example": "Wir brauchen eine Genehmigung.",
+    "translation": "Bir izne ihtiyacımız var.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "anfordern": {
+    "word": "anfordern",
+    "article": "",
+    "plural": "",
+    "meaning": "talep etmek; gönderilmesini istemek",
+    "example": "Ich fordere eine Kopie an.",
+    "translation": "Bir kopya talep ediyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "speicher": {
+    "word": "Speicher",
+    "article": "der",
+    "plural": "Speicher",
+    "meaning": "bellek; depolama alanı; depo",
+    "example": "Der Speicher meines Handys ist voll.",
+    "translation": "Telefonumun depolama alanı dolu.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "rabatt": {
+    "word": "Rabatt",
+    "article": "der",
+    "plural": "Rabatte",
+    "meaning": "indirim; iskonto",
+    "example": "Ich bekomme zehn Prozent Rabatt.",
+    "translation": "Yüzde on indirim alıyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "vollpreisartikel": {
+    "word": "Vollpreisartikel",
+    "article": "der",
+    "plural": "Vollpreisartikel",
+    "meaning": "normal fiyatlı / indirimsiz ürün",
+    "example": "Der Gutschein gilt nur für Vollpreisartikel.",
+    "translation": "Kupon yalnızca indirimsiz ürünlerde geçerli.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "verkauf": {
+    "word": "Verkauf",
+    "article": "der",
+    "plural": "Verkäufe",
+    "meaning": "satış",
+    "example": "Der Verkauf beginnt morgen.",
+    "translation": "Satış yarın başlıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "unheimlich": {
+    "word": "unheimlich",
+    "article": "",
+    "plural": "",
+    "meaning": "ürkütücü; tekinsiz; zarf olarak: çok / son derece",
+    "example": "Das alte Haus ist unheimlich.",
+    "translation": "Eski ev ürkütücü.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "schwach": {
+    "word": "schwach",
+    "article": "",
+    "plural": "",
+    "meaning": "zayıf; güçsüz",
+    "example": "Ich fühle mich heute schwach.",
+    "translation": "Bugün kendimi güçsüz hissediyorum.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "erfahren": {
+    "word": "erfahren",
+    "article": "",
+    "plural": "",
+    "meaning": "öğrenmek; haber almak; deneyimlemek / yaşamak",
+    "example": "Ich habe die Neuigkeit heute erfahren.",
+    "translation": "Haberi bugün öğrendim.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "anzeige": {
+    "word": "Anzeige",
+    "article": "die",
+    "plural": "Anzeigen",
+    "meaning": "ilan; reklam; gösterge / ekran göstergesi; suç duyurusu",
+    "example": "Die Anzeige zeigt die Temperatur.",
+    "translation": "Gösterge sıcaklığı gösteriyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "überspringen": {
+    "word": "überspringen",
+    "article": "",
+    "plural": "",
+    "meaning": "atlamak; es geçmek",
+    "example": "Du kannst diese Aufgabe überspringen.",
+    "translation": "Bu alıştırmayı atlayabilirsin.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "folgen": {
+    "word": "folgen",
+    "article": "",
+    "plural": "",
+    "meaning": "takip etmek; izlemek (+ Dativ)",
+    "example": "Bitte folgen Sie mir.",
+    "translation": "Lütfen beni takip edin.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "vollbildschirm": {
+    "word": "Vollbildschirm",
+    "article": "der",
+    "plural": "Vollbildschirme",
+    "meaning": "tam ekran",
+    "example": "Mit einem Klick wechselst du zum Vollbildschirm.",
+    "translation": "Bir tıklamayla tam ekrana geçersin.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "einstellung": {
+    "word": "Einstellung",
+    "article": "die",
+    "plural": "Einstellungen",
+    "meaning": "ayar; tutum / tavır",
+    "example": "Diese Einstellung spart Strom.",
+    "translation": "Bu ayar elektrik tasarrufu sağlar.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "abbrechen": {
+    "word": "abbrechen",
+    "article": "",
+    "plural": "",
+    "meaning": "iptal etmek; yarıda kesmek; kırılıp kopmak",
+    "example": "Ich breche den Download ab.",
+    "translation": "İndirmeyi iptal ediyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "flugmodus": {
+    "word": "Flugmodus",
+    "article": "der",
+    "plural": "Flugmodi",
+    "meaning": "uçak modu",
+    "example": "Bitte schalte den Flugmodus ein.",
+    "translation": "Lütfen uçak modunu aç.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "mobilfunk": {
+    "word": "Mobilfunk",
+    "article": "der",
+    "plural": "",
+    "meaning": "mobil iletişim; cep telefonu şebekesi",
+    "example": "Hier gibt es keinen Mobilfunkempfang.",
+    "translation": "Burada cep telefonu çekmiyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "allgemein": {
+    "word": "allgemein",
+    "article": "",
+    "plural": "",
+    "meaning": "genel; genel olarak",
+    "example": "Die Regel gilt allgemein.",
+    "translation": "Kural genel olarak geçerlidir.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "bedienungshilfe": {
+    "word": "Bedienungshilfe",
+    "article": "die",
+    "plural": "Bedienungshilfen",
+    "meaning": "erişilebilirlik yardımı / özelliği",
+    "example": "Diese Bedienungshilfe liest Texte vor.",
+    "translation": "Bu erişilebilirlik özelliği metinleri sesli okur.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "helligkeit": {
+    "word": "Helligkeit",
+    "article": "die",
+    "plural": "",
+    "meaning": "parlaklık; aydınlık",
+    "example": "Ich reduziere die Helligkeit des Bildschirms.",
+    "translation": "Ekranın parlaklığını azaltıyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "hintergrundbild": {
+    "word": "Hintergrundbild",
+    "article": "das",
+    "plural": "Hintergrundbilder",
+    "meaning": "arka plan resmi; duvar kâğıdı",
+    "example": "Ich ändere mein Hintergrundbild.",
+    "translation": "Arka plan resmimi değiştiriyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "bildschirm": {
+    "word": "Bildschirm",
+    "article": "der",
+    "plural": "Bildschirme",
+    "meaning": "ekran",
+    "example": "Der Bildschirm ist sehr hell.",
+    "translation": "Ekran çok parlak.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "kontrollzentrum": {
+    "word": "Kontrollzentrum",
+    "article": "das",
+    "plural": "Kontrollzentren",
+    "meaning": "denetim merkezi; kontrol merkezi",
+    "example": "Ich öffne das Kontrollzentrum.",
+    "translation": "Denetim merkezini açıyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "notruf": {
+    "word": "Notruf",
+    "article": "der",
+    "plural": "Notrufe",
+    "meaning": "acil yardım çağrısı",
+    "example": "Er setzt einen Notruf ab.",
+    "translation": "Acil yardım çağrısı yapıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "datenschutz": {
+    "word": "Datenschutz",
+    "article": "der",
+    "plural": "",
+    "meaning": "kişisel verilerin korunması; veri koruma",
+    "example": "Datenschutz ist uns wichtig.",
+    "translation": "Kişisel verilerin korunması bizim için önemli.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "versand": {
+    "word": "Versand",
+    "article": "der",
+    "plural": "",
+    "meaning": "gönderim; sevkiyat; kargolama",
+    "example": "Der Versand ist kostenlos.",
+    "translation": "Gönderim ücretsiz.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "leistung": {
+    "word": "Leistung",
+    "article": "die",
+    "plural": "Leistungen",
+    "meaning": "hizmet; performans; başarı; teknik anlamda: güç",
+    "example": "Im Preis sind alle Leistungen enthalten.",
+    "translation": "Bütün hizmetler fiyata dâhil.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "bonus": {
+    "word": "Bonus",
+    "article": "der",
+    "plural": "Boni; Bonusse",
+    "meaning": "prim; ek kazanç; bonus",
+    "example": "Sie bekommt einen Bonus.",
+    "translation": "Bir prim alıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "erlauben": {
+    "word": "erlauben",
+    "article": "",
+    "plural": "",
+    "meaning": "izin vermek (+ Dativ kişi, Akkusativ şey)",
+    "example": "Meine Eltern erlauben mir die Reise.",
+    "translation": "Annemle babam yolculuğa çıkmama izin veriyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "seitentaste": {
+    "word": "Seitentaste",
+    "article": "die",
+    "plural": "Seitentasten",
+    "meaning": "yan düğme; yan tuş",
+    "example": "Halte die Seitentaste gedrückt.",
+    "translation": "Yan düğmeyi basılı tut.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "anschließend": {
+    "word": "anschließend",
+    "article": "",
+    "plural": "",
+    "meaning": "ardından; sonrasında",
+    "example": "Wir essen und gehen anschließend spazieren.",
+    "translation": "Yemek yiyoruz ve ardından yürüyüşe çıkıyoruz.",
+    "partOfSpeech": "adverb",
+    "source": ""
+  },
+  "werbemaler": {
+    "word": "Werbemaler",
+    "article": "der",
+    "plural": "Werbemaler",
+    "meaning": "reklam ressamı; reklam / tabela boyama ustası",
+    "example": "Er arbeitet als Werbemaler.",
+    "translation": "Reklam ressamı olarak çalışıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "bühnenmaler": {
+    "word": "Bühnenmaler",
+    "article": "der",
+    "plural": "Bühnenmaler",
+    "meaning": "sahne dekoru ressamı",
+    "example": "Der Bühnenmaler malt die Kulissen.",
+    "translation": "Sahne dekoru ressamı dekorları boyuyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "umziehen": {
+    "word": "umziehen",
+    "article": "",
+    "plural": "",
+    "meaning": "taşınmak; (sich umziehen) kıyafet değiştirmek",
+    "example": "Ich ziehe nächste Woche nach Berlin um.",
+    "translation": "Gelecek hafta Berlin’e taşınıyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "app-mediathek": {
+    "word": "App-Mediathek",
+    "article": "die",
+    "plural": "App-Mediatheken",
+    "meaning": "uygulama arşivi (iPhone’daki uygulama kitaplığı)",
+    "example": "Ich suche die App in der App-Mediathek.",
+    "translation": "Uygulamayı uygulama arşivinde arıyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "vorschlag": {
+    "word": "Vorschlag",
+    "article": "der",
+    "plural": "Vorschläge",
+    "meaning": "öneri; teklif",
+    "example": "Dein Vorschlag gefällt mir.",
+    "translation": "Önerin hoşuma gidiyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "zuletzt": {
+    "word": "zuletzt",
+    "article": "",
+    "plural": "",
+    "meaning": "son olarak; en son; en sonuncu olarak",
+    "example": "Ich habe ihn zuletzt im Mai gesehen.",
+    "translation": "Onu en son mayısta gördüm.",
+    "partOfSpeech": "adverb",
+    "source": ""
+  },
+  "hinzufügen": {
+    "word": "hinzufügen",
+    "article": "",
+    "plural": "",
+    "meaning": "eklemek; ilave etmek",
+    "example": "Ich füge ein neues Wort hinzu.",
+    "translation": "Yeni bir kelime ekliyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "dienstprogramm": {
+    "word": "Dienstprogramm",
+    "article": "das",
+    "plural": "Dienstprogramme",
+    "meaning": "yardımcı program; sistem aracı",
+    "example": "Dieses Dienstprogramm prüft die Festplatte.",
+    "translation": "Bu yardımcı program sabit diski denetler.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "kreativität": {
+    "word": "Kreativität",
+    "article": "die",
+    "plural": "",
+    "meaning": "yaratıcılık",
+    "example": "Malen fördert die Kreativität.",
+    "translation": "Resim yapmak yaratıcılığı geliştirir.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "unterhaltung": {
+    "word": "Unterhaltung",
+    "article": "die",
+    "plural": "Unterhaltungen",
+    "meaning": "eğlence; sohbet",
+    "example": "Wir hatten eine interessante Unterhaltung.",
+    "translation": "İlginç bir sohbet ettik.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "bildung": {
+    "word": "Bildung",
+    "article": "die",
+    "plural": "Bildungen",
+    "meaning": "eğitim; öğrenim; kültürel birikim; oluşum",
+    "example": "Bildung eröffnet neue Möglichkeiten.",
+    "translation": "Eğitim yeni olanaklar açar.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "sonstige": {
+    "word": "Sonstige",
+    "article": "das",
+    "plural": "",
+    "meaning": "diğer şeyler; diğerleri (menü başlığı: Sonstiges)",
+    "example": "Unter „Sonstiges“ findest du weitere Optionen.",
+    "translation": "Diğer bölümünde başka seçenekler bulabilirsin.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "ausblenden": {
+    "word": "ausblenden",
+    "article": "",
+    "plural": "",
+    "meaning": "gizlemek; görünmez hâle getirmek; göz ardı etmek",
+    "example": "Du kannst diese Spalte ausblenden.",
+    "translation": "Bu sütunu gizleyebilirsin.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "blenden": {
+    "word": "blenden",
+    "article": "",
+    "plural": "",
+    "meaning": "gözünü kamaştırmak; görmeyi geçici olarak zorlaştırmak",
+    "example": "Die Sonne blendet mich.",
+    "translation": "Güneş gözümü kamaştırıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "erledigen": {
+    "word": "erledigen",
+    "article": "",
+    "plural": "",
+    "meaning": "halletmek; tamamlamak; bir işi bitirmek",
+    "example": "Ich erledige zuerst meine Hausaufgaben.",
+    "translation": "Önce ödevlerimi bitiriyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "anstehen": {
+    "word": "anstehen",
+    "article": "",
+    "plural": "",
+    "meaning": "yaklaşmak / gündemde olmak; sırada beklemek",
+    "example": "Diese Woche steht eine Prüfung an.",
+    "translation": "Bu hafta bir sınav var.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "ereignis": {
+    "word": "Ereignis",
+    "article": "das",
+    "plural": "Ereignisse",
+    "meaning": "olay; önemli gelişme",
+    "example": "Das war ein wichtiges Ereignis.",
+    "translation": "Bu önemli bir olaydı.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "einstellen": {
+    "word": "einstellen",
+    "article": "",
+    "plural": "",
+    "meaning": "ayarlamak; işe almak; durdurmak / sona erdirmek",
+    "example": "Ich stelle die Lautstärke ein.",
+    "translation": "Ses düzeyini ayarlıyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "verpassen": {
+    "word": "verpassen",
+    "article": "",
+    "plural": "",
+    "meaning": "kaçırmak; yetişememek",
+    "example": "Ich habe den Bus verpasst.",
+    "translation": "Otobüsü kaçırdım.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "mitteilung": {
+    "word": "Mitteilung",
+    "article": "die",
+    "plural": "Mitteilungen",
+    "meaning": "bildirim; ileti; duyuru",
+    "example": "Auf meinem Handy erscheint eine Mitteilung.",
+    "translation": "Telefonumda bir bildirim görünüyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "oben": {
+    "word": "oben",
+    "article": "",
+    "plural": "",
+    "meaning": "yukarıda; üstte",
+    "example": "Das Menü ist oben.",
+    "translation": "Menü üstte.",
+    "partOfSpeech": "adverb",
+    "source": ""
+  },
+  "streichen": {
+    "word": "streichen",
+    "article": "",
+    "plural": "",
+    "meaning": "üzerinde kaydırmak / sıvazlamak; boyamak; üstünü çizmek / listeden çıkarmak",
+    "example": "Streiche nach links.",
+    "translation": "Sola kaydır.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "eingeben": {
+    "word": "eingeben",
+    "article": "",
+    "plural": "",
+    "meaning": "girmek (veri / metin); yazıp sisteme girmek",
+    "example": "Bitte gib dein Passwort ein.",
+    "translation": "Lütfen şifreni gir.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "bewegen": {
+    "word": "bewegen",
+    "article": "",
+    "plural": "",
+    "meaning": "hareket ettirmek; (sich bewegen) hareket etmek",
+    "example": "Bewege den Zeiger nach rechts.",
+    "translation": "İşaretçiyi sağa hareket ettir.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "anfragen": {
+    "word": "anfragen",
+    "article": "",
+    "plural": "",
+    "meaning": "bilgi istemek; başvurup sormak; talepte bulunmak",
+    "example": "Ich frage bei der Schule an, ob noch Plätze frei sind.",
+    "translation": "Okula hâlâ boş yer olup olmadığını soruyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "verdienen": {
+    "word": "verdienen",
+    "article": "",
+    "plural": "",
+    "meaning": "kazanmak (para); hak etmek",
+    "example": "Wie viel verdient sie im Monat?",
+    "translation": "Ayda ne kadar kazanıyor?",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "aquarell": {
+    "word": "Aquarell",
+    "article": "das",
+    "plural": "Aquarelle",
+    "meaning": "sulu boya resim",
+    "example": "Dieses Aquarell zeigt eine Landschaft.",
+    "translation": "Bu sulu boya resim bir manzara gösteriyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "zeichnung": {
+    "word": "Zeichnung",
+    "article": "die",
+    "plural": "Zeichnungen",
+    "meaning": "çizim; desen",
+    "example": "Die Zeichnung hängt an der Wand.",
+    "translation": "Çizim duvarda asılı.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "druck": {
+    "word": "Druck",
+    "article": "der",
+    "plural": "Drucke (baskı eserler); Drücke (basınç değerleri)",
+    "meaning": "baskı; basınç",
+    "example": "Dieser Druck stammt aus dem neunzehnten Jahrhundert.",
+    "translation": "Bu baskı on dokuzuncu yüzyıldan kalma.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "ausstellen": {
+    "word": "ausstellen",
+    "article": "",
+    "plural": "",
+    "meaning": "sergilemek; düzenleyip vermek (belge)",
+    "example": "Das Museum stellt neue Gemälde aus.",
+    "translation": "Müze yeni tablolar sergiliyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "welt": {
+    "word": "Welt",
+    "article": "die",
+    "plural": "Welten",
+    "meaning": "dünya",
+    "example": "Sie reist um die Welt.",
+    "translation": "Dünyayı dolaşıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "stagnieren": {
+    "word": "stagnieren",
+    "article": "",
+    "plural": "",
+    "meaning": "duraklamak; ilerlememek; durağanlaşmak",
+    "example": "Die Entwicklung stagniert.",
+    "translation": "Gelişme duraklıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "weltmeister": {
+    "word": "Weltmeister",
+    "article": "der",
+    "plural": "Weltmeister",
+    "meaning": "dünya şampiyonu",
+    "example": "Er ist Weltmeister im Schwimmen.",
+    "translation": "Yüzmede dünya şampiyonu.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "nirgendwo": {
+    "word": "nirgendwo",
+    "article": "",
+    "plural": "",
+    "meaning": "hiçbir yerde",
+    "example": "Ich finde meinen Schlüssel nirgendwo.",
+    "translation": "Anahtarımı hiçbir yerde bulamıyorum.",
+    "partOfSpeech": "adverb",
+    "source": ""
+  },
+  "gegenständlich": {
+    "word": "gegenständlich",
+    "article": "",
+    "plural": "",
+    "meaning": "somut; nesnesel; sanatta: figüratif (tanınabilir nesneleri betimleyen)",
+    "example": "Ihre Bilder sind gegenständlich, nicht abstrakt.",
+    "translation": "Resimleri figüratif, soyut değil.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "anregen": {
+    "word": "anregen",
+    "article": "",
+    "plural": "",
+    "meaning": "teşvik etmek; uyarmak / canlandırmak; bir fikir önermek",
+    "example": "Das Gespräch regt mich zum Nachdenken an.",
+    "translation": "Konuşma beni düşünmeye teşvik ediyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "abbilden": {
+    "word": "abbilden",
+    "article": "",
+    "plural": "",
+    "meaning": "resmetmek; tasvir etmek; görsel olarak göstermek",
+    "example": "Das Foto bildet das alte Rathaus ab.",
+    "translation": "Fotoğraf eski belediye binasını gösteriyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "gemälde": {
+    "word": "Gemälde",
+    "article": "das",
+    "plural": "Gemälde",
+    "meaning": "tablo; resim (boyayla yapılmış eser)",
+    "example": "Dieses Gemälde ist sehr alt.",
+    "translation": "Bu tablo çok eski.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "zeitgenössisch": {
+    "word": "zeitgenössisch",
+    "article": "",
+    "plural": "",
+    "meaning": "çağdaş; aynı döneme ait",
+    "example": "Das Museum zeigt zeitgenössische Kunst.",
+    "translation": "Müze çağdaş sanat sergiliyor.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "leuchten": {
+    "word": "leuchten",
+    "article": "",
+    "plural": "",
+    "meaning": "parlamak; ışık saçmak",
+    "example": "Die Sterne leuchten.",
+    "translation": "Yıldızlar parlıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "stattfinden": {
+    "word": "stattfinden",
+    "article": "",
+    "plural": "",
+    "meaning": "gerçekleşmek; yapılmak (etkinlik)",
+    "example": "Der Kurs findet am Montag statt.",
+    "translation": "Kurs pazartesi yapılıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "erfinden": {
+    "word": "erfinden",
+    "article": "",
+    "plural": "",
+    "meaning": "icat etmek; uydurmak",
+    "example": "Wer hat das Telefon erfunden?",
+    "translation": "Telefonu kim icat etti?",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "erhalten": {
+    "word": "erhalten",
+    "article": "",
+    "plural": "",
+    "meaning": "almak; teslim almak; korumak / sürdürmek",
+    "example": "Ich habe deine Nachricht erhalten.",
+    "translation": "Mesajını aldım.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "sammeln": {
+    "word": "sammeln",
+    "article": "",
+    "plural": "",
+    "meaning": "toplamak; biriktirmek; koleksiyon yapmak",
+    "example": "Sie sammelt alte Münzen.",
+    "translation": "Eski madeni paraları biriktiriyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "gliederung": {
+    "word": "Gliederung",
+    "article": "die",
+    "plural": "Gliederungen",
+    "meaning": "bölümleme; yapı; ana hatlar / taslak",
+    "example": "Zuerst schreibe ich die Gliederung meines Vortrags.",
+    "translation": "Önce sunumumun ana hatlarını yazıyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "sich vorstellen": {
+    "word": "sich vorstellen",
+    "article": "",
+    "plural": "",
+    "meaning": "kendini tanıtmak; hayal etmek",
+    "example": "Ich stelle mich kurz vor.",
+    "translation": "Kendimi kısaca tanıtıyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "lebenslauf": {
+    "word": "Lebenslauf",
+    "article": "der",
+    "plural": "Lebensläufe",
+    "meaning": "özgeçmiş; hayatın akışı",
+    "example": "Ich schicke Ihnen meinen Lebenslauf.",
+    "translation": "Size özgeçmişimi gönderiyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "geboren werden": {
+    "word": "geboren werden",
+    "article": "",
+    "plural": "",
+    "meaning": "doğmak",
+    "example": "Sie wurde in Berlin geboren.",
+    "translation": "Berlin’de doğdu.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "aufwachsen": {
+    "word": "aufwachsen",
+    "article": "",
+    "plural": "",
+    "meaning": "büyümek; yetişmek (çocukluğunu geçirmek)",
+    "example": "Ich bin in der Türkei aufgewachsen.",
+    "translation": "Türkiye’de büyüdüm.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "ort": {
+    "word": "Ort",
+    "article": "der",
+    "plural": "Orte",
+    "meaning": "yer; yerleşim yeri",
+    "example": "Wir treffen uns an einem ruhigen Ort.",
+    "translation": "Sakin bir yerde buluşuyoruz.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "eine ausbildung machen": {
+    "word": "eine Ausbildung machen",
+    "article": "",
+    "plural": "",
+    "meaning": "mesleki eğitim almak",
+    "example": "Ich mache eine Ausbildung zum Pfleger.",
+    "translation": "Hasta bakıcı olmak için mesleki eğitim alıyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "theatermaler": {
+    "word": "Theatermaler",
+    "article": "der",
+    "plural": "Theatermaler",
+    "meaning": "tiyatro dekoru ressamı",
+    "example": "Der Theatermaler gestaltet die Kulissen.",
+    "translation": "Tiyatro dekoru ressamı dekorları tasarlar.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "reagieren": {
+    "word": "reagieren",
+    "article": "",
+    "plural": "",
+    "meaning": "tepki vermek (auf + Akkusativ)",
+    "example": "Sie reagiert auf meine Nachricht.",
+    "translation": "Mesajıma tepki veriyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "malerei": {
+    "word": "Malerei",
+    "article": "die",
+    "plural": "Malereien",
+    "meaning": "resim sanatı; resim yapma; boyama",
+    "example": "Ich interessiere mich für Malerei.",
+    "translation": "Resim sanatına ilgi duyuyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "bildhauer": {
+    "word": "Bildhauer",
+    "article": "der",
+    "plural": "Bildhauer",
+    "meaning": "heykeltıraş",
+    "example": "Der Bildhauer arbeitet mit Stein.",
+    "translation": "Heykeltıraş taşla çalışıyor.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "malen": {
+    "word": "malen",
+    "article": "",
+    "plural": "",
+    "meaning": "resim yapmak; boyamak",
+    "example": "Das Kind malt ein Haus.",
+    "translation": "Çocuk bir ev resmi yapıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "zeichnen": {
+    "word": "zeichnen",
+    "article": "",
+    "plural": "",
+    "meaning": "çizmek; çizim yapmak",
+    "example": "Ich zeichne mit einem Bleistift.",
+    "translation": "Kurşun kalemle çiziyorum.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "betreten": {
+    "word": "betreten",
+    "article": "",
+    "plural": "",
+    "meaning": "girmek; adım atmak (bir yere, + Akkusativ)",
+    "example": "Bitte betreten Sie den Raum leise.",
+    "translation": "Lütfen odaya sessizce girin.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "verkürzen": {
+    "word": "verkürzen",
+    "article": "",
+    "plural": "",
+    "meaning": "kısaltmak",
+    "example": "Wir verkürzen die Pause.",
+    "translation": "Molayı kısaltıyoruz.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "sache": {
+    "word": "Sache",
+    "article": "die",
+    "plural": "Sachen",
+    "meaning": "şey; eşya; mesele",
+    "example": "Ich packe meine Sachen.",
+    "translation": "Eşyalarımı topluyorum.",
+    "partOfSpeech": "noun",
+    "source": ""
+  },
+  "antworten": {
+    "word": "antworten",
+    "article": "",
+    "plural": "",
+    "meaning": "cevap vermek; yanıt vermek (+ Dativ kişi; auf + Akkusativ soru)",
+    "example": "Bitte antworte mir.",
+    "translation": "Lütfen bana cevap ver.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "unangenehm": {
+    "word": "unangenehm",
+    "article": "",
+    "plural": "",
+    "meaning": "hoş olmayan; rahatsız edici",
+    "example": "Das Gespräch war unangenehm.",
+    "translation": "Konuşma rahatsız ediciydi.",
+    "partOfSpeech": "adjective",
+    "source": ""
+  },
+  "ausüben": {
+    "word": "ausüben",
+    "article": "",
+    "plural": "",
+    "meaning": "icra etmek; yapmak (meslek); uygulamak (etki / baskı)",
+    "example": "Sie übt ihren Beruf gern aus.",
+    "translation": "Mesleğini severek yapıyor.",
+    "partOfSpeech": "verb",
+    "source": ""
+  },
+  "ungefähr": {
+    "word": "ungefähr",
+    "article": "",
+    "plural": "",
+    "meaning": "yaklaşık; aşağı yukarı",
+    "example": "Der Weg dauert ungefähr zehn Minuten.",
+    "translation": "Yol yaklaşık on dakika sürüyor.",
+    "partOfSpeech": "adverb",
+    "source": ""
+  },
+  "sonstiges": {
+    "word": "Sonstige",
+    "article": "das",
+    "plural": "",
+    "meaning": "diğer şeyler; diğerleri (menü başlığı: Sonstiges)",
+    "example": "Unter „Sonstiges“ findest du weitere Optionen.",
+    "translation": "Diğer bölümünde başka seçenekler bulabilirsin.",
+    "partOfSpeech": "noun",
+    "source": ""
+  }
+}

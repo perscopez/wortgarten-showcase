@@ -1,0 +1,6 @@
+== gut ({{Sprache|Deutsch}}) ==
+{{Deutsch Adjektiv Übersicht
+|Positiv=gut
+|Komparativ=besser
+|Superlativ=besten
+}}

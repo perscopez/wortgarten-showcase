@@ -1,0 +1,20 @@
+== Haus ({{Sprache|Deutsch}}) ==
+{{Deutsch Substantiv Übersicht
+|Genus=n
+|Nominativ Singular=Haus
+|Nominativ Plural=Häuser
+|Genitiv Singular=Hauses
+|Genitiv Plural=Häuser
+|Dativ Singular=Haus
+|Dativ Singular*=Hause
+|Dativ Plural=Häusern
+|Akkusativ Singular=Haus
+|Akkusativ Plural=Häuser
+|Bild 1=Leamouth riverside building 1.jpg|mini|1|ein ''Haus'' im [[modern]]en [[Baustil]]
+|Bild 2=Schiller Weimar.jpg|mini|1, 2|[[w:Schillers Wohnhaus|Schiller-''Haus'']] in [[Weimar]]
+|Bild 3=Auenstein-fachwerk2.jpg|mini|2|ein ''Haus'' in [[Fachwerk]]bauweise
+|Bild 4=Wiki pogodinskaya izba moscow.jpg|mini|2|[[traditionell]]es, [[hölzern]]es [[russisch]]es ''Haus''
+|Bild 5=Cepaea nemoralis MHNT.CON.2002.776.face.jpg|mini|11|''Haus'' einer [[Schnecke]]
+|Bild 6=Krönungshoroskop Manuel II Palaiologos.jpg|mini|12| Nummerierung der ''Häuser'' in der Astrologie
+|Bild 7=8-ender.tiff|mini|15|[[Draufsicht]] auf ein ''Haus''
+}}

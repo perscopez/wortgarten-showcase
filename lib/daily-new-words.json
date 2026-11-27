@@ -1,0 +1,317 @@
+{
+  "bezahlen": {
+    "word": "bezahlen",
+    "meaning": "ödemek",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte mit Karte bezahlen.",
+    "translation": "Kartla ödemek istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/bezahlen"
+  },
+  "umtauschen": {
+    "word": "umtauschen",
+    "meaning": "değiştirmek; satın alınan ürünü başka ürünle değiştirmek",
+    "article": "",
+    "plural": "",
+    "example": "Kann ich das umtauschen?",
+    "translation": "Bunu değiştirebilir miyim?",
+    "source": "https://de.wiktionary.org/wiki/umtauschen"
+  },
+  "anprobieren": {
+    "word": "anprobieren",
+    "meaning": "giysi deneyip bedenine bakmak",
+    "article": "",
+    "plural": "",
+    "example": "Kann ich die Jacke anprobieren?",
+    "translation": "Ceketi deneyebilir miyim?",
+    "source": "https://de.wiktionary.org/wiki/anprobieren"
+  },
+  "zurückgeben": {
+    "word": "zurückgeben",
+    "meaning": "geri vermek; iade etmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte die Schuhe zurückgeben.",
+    "translation": "Ayakkabıları iade etmek istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/zurückgeben"
+  },
+  "rechnung": {
+    "word": "Rechnung",
+    "meaning": "fatura; hesap",
+    "article": "die",
+    "plural": "Rechnungen",
+    "example": "Die Rechnung, bitte.",
+    "translation": "Hesap, lütfen.",
+    "source": "https://de.wiktionary.org/wiki/Rechnung"
+  },
+  "quittung": {
+    "word": "Quittung",
+    "meaning": "makbuz; ödemenin yapıldığını gösteren fiş",
+    "article": "die",
+    "plural": "Quittungen",
+    "example": "Kann ich eine Quittung bekommen?",
+    "translation": "Makbuz alabilir miyim?",
+    "source": "https://de.wiktionary.org/wiki/Quittung"
+  },
+  "kassenbon": {
+    "word": "Kassenbon",
+    "meaning": "kasa fişi",
+    "article": "der",
+    "plural": "Kassenbons",
+    "example": "Brauchen Sie den Kassenbon?",
+    "translation": "Kasa fişini ister misiniz?",
+    "source": "https://de.wiktionary.org/wiki/Kassenbon"
+  },
+  "einkaufswagen": {
+    "word": "Einkaufswagen",
+    "meaning": "alışveriş arabası",
+    "article": "der",
+    "plural": "Einkaufswagen",
+    "example": "Wo stehen die Einkaufswagen?",
+    "translation": "Alışveriş arabaları nerede?",
+    "source": "https://de.wiktionary.org/wiki/Einkaufswagen"
+  },
+  "termin": {
+    "word": "Termin",
+    "meaning": "randevu; belirlenmiş tarih",
+    "article": "der",
+    "plural": "Termine",
+    "example": "Ich habe morgen einen Termin.",
+    "translation": "Yarın bir randevum var.",
+    "source": "https://de.wiktionary.org/wiki/Termin"
+  },
+  "vereinbaren": {
+    "word": "vereinbaren",
+    "meaning": "kararlaştırmak; üzerinde anlaşmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte einen Termin vereinbaren.",
+    "translation": "Randevu almak istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/vereinbaren"
+  },
+  "verschieben": {
+    "word": "verschieben",
+    "meaning": "ertelemek; başka bir zamana veya yere kaydırmak",
+    "article": "",
+    "plural": "",
+    "example": "Können wir den Termin verschieben?",
+    "translation": "Randevuyu erteleyebilir miyiz?",
+    "source": "https://de.wiktionary.org/wiki/verschieben"
+  },
+  "absagen": {
+    "word": "absagen",
+    "meaning": "iptal etmek; katılamayacağını bildirmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich muss den Termin absagen.",
+    "translation": "Randevuyu iptal etmem gerekiyor.",
+    "source": "https://de.wiktionary.org/wiki/absagen"
+  },
+  "abholen": {
+    "word": "abholen",
+    "meaning": "gidip almak; teslim almak",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte mein Paket abholen.",
+    "translation": "Paketimi teslim almak istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/abholen"
+  },
+  "anmelden": {
+    "word": "anmelden",
+    "meaning": "kaydettirmek; sich anmelden = kayıt olmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte mich für den Kurs anmelden.",
+    "translation": "Kursa kaydolmak istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/anmelden"
+  },
+  "anmeldung": {
+    "word": "Anmeldung",
+    "meaning": "kayıt; kayıt işlemi; bağlama göre ikamet kaydı",
+    "article": "die",
+    "plural": "Anmeldungen",
+    "example": "Wo kann ich die Anmeldung abgeben?",
+    "translation": "Kayıt formunu nereye teslim edebilirim?",
+    "source": "https://de.wiktionary.org/wiki/Anmeldung"
+  },
+  "günstig": {
+    "word": "günstig",
+    "meaning": "uygun fiyatlı; elverişli",
+    "article": "",
+    "plural": "",
+    "example": "Gibt es eine günstigere Packung?",
+    "translation": "Daha uygun fiyatlı bir paket var mı?",
+    "source": "https://de.wiktionary.org/wiki/günstig"
+  },
+  "teuer": {
+    "word": "teuer",
+    "meaning": "pahalı",
+    "article": "",
+    "plural": "",
+    "example": "Das ist mir zu teuer.",
+    "translation": "Bu benim için çok pahalı.",
+    "source": "https://de.wiktionary.org/wiki/teuer"
+  },
+  "billig": {
+    "word": "billig",
+    "meaning": "ucuz; bağlama göre kalitesiz",
+    "article": "",
+    "plural": "",
+    "example": "Dieses Brot ist billig.",
+    "translation": "Bu ekmek ucuz.",
+    "source": "https://de.wiktionary.org/wiki/billig"
+  },
+  "passen": {
+    "word": "passen",
+    "meaning": "uymak; beden olarak olmak",
+    "article": "",
+    "plural": "",
+    "example": "Die Jacke passt mir nicht.",
+    "translation": "Ceket bana olmuyor.",
+    "source": "https://de.wiktionary.org/wiki/passen"
+  },
+  "größe": {
+    "word": "Größe",
+    "meaning": "büyüklük; boy; giysi bedeni",
+    "article": "die",
+    "plural": "Größen",
+    "example": "Haben Sie das in meiner Größe?",
+    "translation": "Bunun benim bedenimde olanı var mı?",
+    "source": "https://de.wiktionary.org/wiki/Größe"
+  },
+  "angebot": {
+    "word": "Angebot",
+    "meaning": "teklif; indirimli satış",
+    "article": "das",
+    "plural": "Angebote",
+    "example": "Ist der Käse im Angebot?",
+    "translation": "Peynir indirimde mi?",
+    "source": "https://de.wiktionary.org/wiki/Angebot"
+  },
+  "öffnungszeit": {
+    "word": "Öffnungszeit",
+    "meaning": "açık bulunma saati; çalışma saati",
+    "article": "die",
+    "plural": "Öffnungszeiten",
+    "example": "Wie sind Ihre Öffnungszeiten?",
+    "translation": "Çalışma saatleriniz nedir?",
+    "source": "https://de.wiktionary.org/wiki/Öffnungszeit"
+  },
+  "geöffnet": {
+    "word": "geöffnet",
+    "meaning": "açık; açılmış",
+    "article": "",
+    "plural": "",
+    "example": "Ist die Apotheke noch geöffnet?",
+    "translation": "Eczane hâlâ açık mı?",
+    "source": "https://de.wiktionary.org/wiki/geöffnet"
+  },
+  "geschlossen": {
+    "word": "geschlossen",
+    "meaning": "kapalı; kapanmış",
+    "article": "",
+    "plural": "",
+    "example": "Der Laden ist heute geschlossen.",
+    "translation": "Dükkân bugün kapalı.",
+    "source": "https://de.wiktionary.org/wiki/geschlossen"
+  },
+  "überweisen": {
+    "word": "überweisen",
+    "meaning": "havale etmek; tıpta başka hekime sevk etmek",
+    "article": "",
+    "plural": "",
+    "example": "Ich überweise das Geld heute.",
+    "translation": "Parayı bugün havale ediyorum.",
+    "source": "https://de.wiktionary.org/wiki/überweisen"
+  },
+  "überweisung": {
+    "word": "Überweisung",
+    "meaning": "banka havalesi; tıpta sevk",
+    "article": "die",
+    "plural": "Überweisungen",
+    "example": "Die Überweisung ist angekommen.",
+    "translation": "Havale ulaştı.",
+    "source": "https://de.wiktionary.org/wiki/Überweisung"
+  },
+  "erstattung": {
+    "word": "Erstattung",
+    "meaning": "geri ödeme; masrafın karşılanması",
+    "article": "die",
+    "plural": "Erstattungen",
+    "example": "Wann bekomme ich die Erstattung?",
+    "translation": "Geri ödemeyi ne zaman alacağım?",
+    "source": "https://de.wiktionary.org/wiki/Erstattung"
+  },
+  "kündigen": {
+    "word": "kündigen",
+    "meaning": "feshetmek; işten ayrılacağını bildirmek; işten çıkarmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte meinen Vertrag kündigen.",
+    "translation": "Sözleşmemi feshetmek istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/kündigen"
+  },
+  "versicherung": {
+    "word": "Versicherung",
+    "meaning": "sigorta; güvence verme",
+    "article": "die",
+    "plural": "Versicherungen",
+    "example": "Welche Versicherung brauche ich?",
+    "translation": "Hangi sigortaya ihtiyacım var?",
+    "source": "https://de.wiktionary.org/wiki/Versicherung"
+  },
+  "erklären": {
+    "word": "erklären",
+    "meaning": "açıklamak",
+    "article": "",
+    "plural": "",
+    "example": "Können Sie das bitte erklären?",
+    "translation": "Bunu açıklar mısınız?",
+    "source": "https://de.wiktionary.org/wiki/erklären"
+  },
+  "verstehen": {
+    "word": "verstehen",
+    "meaning": "anlamak",
+    "article": "",
+    "plural": "",
+    "example": "Ich habe das nicht verstanden.",
+    "translation": "Bunu anlamadım.",
+    "source": "https://de.wiktionary.org/wiki/verstehen"
+  },
+  "wiederholen": {
+    "word": "wiederholen",
+    "meaning": "tekrarlamak",
+    "article": "",
+    "plural": "",
+    "example": "Können Sie das bitte wiederholen?",
+    "translation": "Bunu tekrar eder misiniz?",
+    "source": "https://de.wiktionary.org/wiki/wiederholen"
+  },
+  "brauchen": {
+    "word": "brauchen",
+    "meaning": "ihtiyacı olmak",
+    "article": "",
+    "plural": "",
+    "example": "Ich brauche keine Tüte.",
+    "translation": "Poşete ihtiyacım yok.",
+    "source": "https://de.wiktionary.org/wiki/brauchen"
+  },
+  "bestellen": {
+    "word": "bestellen",
+    "meaning": "sipariş vermek",
+    "article": "",
+    "plural": "",
+    "example": "Ich möchte einen Kaffee bestellen.",
+    "translation": "Kahve sipariş etmek istiyorum.",
+    "source": "https://de.wiktionary.org/wiki/bestellen"
+  },
+  "wechseln": {
+    "word": "wechseln",
+    "meaning": "değiştirmek; bozdurmak",
+    "article": "",
+    "plural": "",
+    "example": "Können Sie das Geld wechseln?",
+    "translation": "Parayı bozar mısınız?",
+    "source": "https://de.wiktionary.org/wiki/wechseln"
+  }
+}

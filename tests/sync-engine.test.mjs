@@ -1,0 +1,58 @@
+import test from 'node:test';import assert from 'node:assert/strict';import vm from 'node:vm';import {buildSync} from 'esbuild';
+const box={module:{exports:{}},exports:{},console};vm.runInNewContext(buildSync({entryPoints:['lib/sync-engine.ts'],bundle:true,platform:'node',format:'cjs',write:false}).outputFiles[0].text,box);const e=box.module.exports;
+const user='11111111-1111-1111-1111-111111111111',other='22222222-2222-2222-2222-222222222222';const row=(version,body,deleted=false)=>({key:'card:one',version,body,deleted});const local=s=>e.materializeSync(s,user)['card:one'];
+test('account isolation and identity gate',()=>{assert.throws(()=>e.newSyncState('email@example.com'));assert.throws(()=>e.syncMutations(e.newSyncState(user),other));});
+test('empty new device does not delete remote and 150 local cards queue independently',()=>{let s=e.newSyncState(user);s=e.observeSyncSnapshot(s,user,{});s=e.reconcileSync(s,user,[row(1,{word:'Haus'})]);assert.equal(local(s).word,'Haus');assert.equal(e.syncMutations(s,user).length,0);const snap=Object.fromEntries(Array.from({length:150},(_,i)=>['card:'+i,{word:'w'+i}]));assert.equal(e.syncMutations(e.observeSyncSnapshot(e.newSyncState(user),user,snap),user).length,150);});
+test('pending offline survives no remote results, retry ack is idempotent',()=>{let s=e.observeSyncSnapshot(e.newSyncState(user),user,{'card:one':{note:'x'}});s=e.reconcileSync(s,user,[]);assert.equal(e.syncMutations(s,user).length,1);s=e.reconcileSync(s,user,[row(1,{note:'x'})]);assert.equal(e.syncMutations(s,user).length,0);s=e.reconcileSync(s,user,[row(1,{note:'x'})]);assert.equal(local(s).note,'x');});
+test('concurrent edits keep both values and require explicit choice',()=>{let s=e.reconcileSync(e.newSyncState(user),user,[row(1,{note:'base'})]);s=e.observeSyncSnapshot(s,user,{'card:one':{note:'local'}});s=e.reconcileSync(s,user,[row(2,{note:'other device'})]);assert.equal(e.syncMutations(s,user).length,0);assert.equal(local(s).note,'local');assert.equal(s.items['card:one'].conflict.body.note,'other device');const keep=e.resolveSyncConflict(s,user,'card:one','local');assert.equal(e.syncMutations(keep,user)[0].expected_version,2);assert.equal(local(e.resolveSyncConflict(s,user,'card:one','remote')).note,'other device');});
+test('tombstones prevent resurrecting deleted cards and delete/edit conflicts stay explicit',()=>{let s=e.reconcileSync(e.newSyncState(user),user,[row(1,{note:'base'})]);s=e.observeSyncSnapshot(s,user,{});assert.equal(e.syncMutations(s,user)[0].deleted,true);s=e.reconcileSync(s,user,[row(2,null,true)]);assert.equal(local(s),undefined);assert.equal(e.syncMutations(s,user).length,0);let t=e.reconcileSync(e.newSyncState(user),user,[row(1,{note:'base'})]);t=e.observeSyncSnapshot(t,user,{'card:one':{note:'edit'}});t=e.reconcileSync(t,user,[row(2,null,true)]);assert.ok(t.items['card:one'].conflict);});
+test('edits during request are not discarded by an earlier acknowledgment',()=>{let s=e.reconcileSync(e.newSyncState(user),user,[row(1,{n:0})]);s=e.observeSyncSnapshot(s,user,{'card:one':{n:1}});s=e.observeSyncSnapshot(s,user,{'card:one':{n:2}});s=e.reconcileSync(s,user,[row(2,{n:1})]);assert.equal(local(s).n,2);assert.ok(s.items['card:one'].conflict);});
+test('clock-independent versioning, canonical equality and bad remote fail closed',()=>{assert.equal(e.equalValue({deleted:false,body:{a:1,b:2}},{deleted:false,body:{b:2,a:1}}),true);let s=e.reconcileSync(e.newSyncState(user),user,[row(3,{n:3})]);s=e.reconcileSync(s,user,[row(1,{n:1})]);assert.equal(local(s).n,3);assert.throws(()=>e.reconcileSync(s,user,[row(0,{})]));assert.throws(()=>e.observeSyncSnapshot(s,user,{'card:__proto__':{}}));});
+test('local edits during pull preserve both sides and untouched remote additions',()=>{let s=e.reconcileSync(e.newSyncState(user),user,[row(2,{note:'remote'})]);s=e.rebaseDuringSync(s,user,{'card:one':{note:'old'}},{'card:one':{note:'local during pull'}});assert.equal(local(s).note,'local during pull');assert.equal(s.items['card:one'].conflict.body.note,'remote');});
+test('independent catalog installs retain existing reviews and enrichments without a conflict',()=>{
+ const key='card:pack-werbung-Haus';
+ const blank={id:'pack-werbung-Haus',word:'Haus',meaning:'ev',reviews:0,interval:0,due:0,created:200};
+ const learned={...blank,created:100,reviews:1,interval:2,due:900,photo:{url:'/haus.jpg'},informationCheckedAt:120};
+ const state=e.observeSyncSnapshot(e.newSyncState(user),user,{[key]:blank});
+ const reconcile=body=>e.reconcileSync(state,user,[{key,version:1,deleted:false,body}]);
+ const merged=reconcile(learned);
+ assert.equal(merged.items[key].conflict,undefined);
+ assert.equal(e.materializeSync(merged,user)[key].due,900);
+ assert.equal(e.syncMutations(merged,user).length,0);
+ assert.equal(e.materializeSync(reconcile({...learned,meaning:'konut'}),user)[key].meaning,'konut');
+ const studied=e.observeSyncSnapshot(e.newSyncState(user),user,{[key]:{...blank,reviews:2,interval:3,due:1000}});
+ const resolved=e.reconcileSync(studied,user,[{key,version:1,deleted:false,body:learned}]);
+ assert.equal(e.materializeSync(resolved,user)[key].reviews,2);
+ assert.equal(e.materializeSync(resolved,user)[key].due,1000);
+});
+test('independent changes to a card note and its review schedule are both kept',()=>{
+ const before={note:'original',due:7,interval:1,reviews:1,reviewState:{events:[1]}};
+ const paired=e.reconcileSync(e.newSyncState(user),user,[row(1,before)]);
+ const queued=e.observeSyncSnapshot(paired,user,{'card:one':{...before,note:'personal note'}});
+ const remote={...before,due:18,interval:3,reviews:2,reviewState:{events:[1,2]}};
+ const merged=e.reconcileSync(queued,user,[row(2,remote)]);
+ assert.equal(merged.items['card:one'].conflict,undefined);
+ const [mutation]=e.syncMutations(merged,user);
+ assert.equal(mutation.expected_version,2);
+ assert.deepEqual(JSON.parse(JSON.stringify(mutation.body)),{...remote,note:'personal note'});
+ assert.equal(e.syncMutations(e.reconcileSync(merged,user,[row(3,mutation.body)]),user).length,0);
+});
+test('empty learning data on a new device cannot block pulling real progress',()=>{
+ const key='learning:wortgarten-inflection-progress-v1';
+ const state=e.observeSyncSnapshot(e.newSyncState(user),user,{[key]:{version:1,progress:{}}});
+ const merged=e.reconcileSync(state,user,[{key,version:1,deleted:false,body:{version:1,progress:{cell:{attempts:2}}}}]);
+ assert.equal(merged.items[key].conflict,undefined);
+ assert.equal(e.materializeSync(merged,user)[key].progress.cell.attempts,2);
+});
+test('progress for different patterns is merged without combining counters for the same pattern',()=>{
+ const key='learning:wortgarten-pattern-progress-v1';
+ const wrap=items=>({version:1,items});
+ const remote=(version,items)=>({key,version,deleted:false,body:wrap(items)});
+ const paired=e.reconcileSync(e.newSyncState(user),user,[remote(1,{shared:{attempts:1}})]);
+ const state=e.observeSyncSnapshot(paired,user,{[key]:wrap({shared:{attempts:2},here:{attempts:1}})});
+ const merged=e.reconcileSync(state,user,[remote(2,{shared:{attempts:1},there:{attempts:1}})]);
+ assert.equal(merged.items[key].conflict,undefined);
+ assert.deepEqual(Object.keys(e.materializeSync(merged,user)[key].items).sort(),['here','shared','there']);
+ const overlapping=e.reconcileSync(state,user,[remote(2,{shared:{attempts:3}})]);
+ assert.ok(overlapping.items[key].conflict);
+});

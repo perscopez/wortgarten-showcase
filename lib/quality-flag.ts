@@ -1,0 +1,3 @@
+export type QualityFlag={version:1;status:'pending';createdAt:number;note:string;scope:'all-information-and-photos'};
+export function validQualityFlag(v:unknown):v is QualityFlag{const x=v as QualityFlag;return !!x&&x.version===1&&x.status==='pending'&&typeof x.createdAt==='number'&&Number.isFinite(x.createdAt)&&x.createdAt>=0&&typeof x.note==='string'&&x.note.length<=2000&&x.scope==='all-information-and-photos';}
+export function qualityFlag(note:string,now=Date.now()):QualityFlag{return{version:1,status:'pending',createdAt:now,note:note.trim().slice(0,2000),scope:'all-information-and-photos'};}

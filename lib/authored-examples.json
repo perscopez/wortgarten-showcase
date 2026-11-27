@@ -1,0 +1,18 @@
+{
+ "bitten":[{"de":"Ich bitte dich um Hilfe.","tr":"Senden yardım rica ediyorum."}],
+ "druckelement":[{"de":"Das Druckelement muss ausgetauscht werden.","tr":"Baskı parçasının değiştirilmesi gerekiyor."}],
+ "kunsthandel":[{"de":"Er arbeitet im Kunsthandel.","tr":"Sanat ticaretinde çalışıyor."}],
+ "letter":[{"de":"Der Drucker setzte jede Letter einzeln.","tr":"Matbaacı her harfi tek tek dizdi."}],
+ "medienrevolution":[{"de":"Der Buchdruck löste eine Medienrevolution aus.","tr":"Matbaa bir medya devrimini başlattı."}],
+ "neuaufbau":[{"de":"Der Neuaufbau der Brücke dauert lange.","tr":"Köprünün yeniden inşası uzun sürüyor."}],
+ "neuzeit":[{"de":"Die Neuzeit beginnt nach dem Mittelalter.","tr":"Yeni Çağ, Orta Çağ'dan sonra başlar."}],
+ "obsolet":[{"de":"Dieses Gerät ist längst obsolet.","tr":"Bu cihaz çoktan eskidi."}],
+ "pergament":[{"de":"Früher schrieb man auf Pergament.","tr":"Eskiden parşömene yazılırdı."}],
+ "preisexplosion":[{"de":"Die Preisexplosion trifft viele Familien.","tr":"Fiyat patlaması birçok aileyi etkiliyor."}],
+ "vervielfältigen":[{"de":"Man darf das Dokument nicht vervielfältigen.","tr":"Belge çoğaltılamaz."}],
+ "vervielfältigung":[{"de":"Die Vervielfältigung ist verboten.","tr":"Çoğaltmak yasaktır."}],
+ "warten":[{"de":"Ich warte auf den Bus.","tr":"Otobüsü bekliyorum."}],
+ "zeitraubend":[{"de":"Die Arbeit ist sehr zeitraubend.","tr":"İş çok zaman alıyor."}],
+ "zerlegung":[{"de":"Die Zerlegung des Geräts dauert lange.","tr":"Cihazın sökülmesi uzun sürüyor."}],
+ "zusammenfügen":[{"de":"Wir müssen die Teile zusammenfügen.","tr":"Parçaları birleştirmemiz gerekiyor."}]
+}
