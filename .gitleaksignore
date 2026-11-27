@@ -1,0 +1,6 @@
+# False positives: localStorage key names and a fake test key
+29a5cf08999e0c9d810ad693e22273df93ce52e4:lib/ai-direct.ts:generic-api-key:7
+29a5cf08999e0c9d810ad693e22273df93ce52e4:lib/daily-route.ts:generic-api-key:2
+29a5cf08999e0c9d810ad693e22273df93ce52e4:lib/daily-vocabulary.ts:generic-api-key:12
+29a5cf08999e0c9d810ad693e22273df93ce52e4:tests/ai-direct.test.mjs:generic-api-key:5
+29a5cf08999e0c9d810ad693e22273df93ce52e4:tests/extended-learning-import.test.mjs:generic-api-key:11
